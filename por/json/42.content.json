@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499496,
+    "reference_id": 202728,
+    "title": "Lucas",
+    "media_type": "Text",
+    "index_reference": "42000000",
+    "language": "por",
+    "content": "<p><strong>O que é o livro de</strong> <strong>Lucas?</strong></p><ul><li><p>O Evangelho de Lucas é uma coleção de histórias sobre Jesus. Inclui as palavras e ensinamentos de Jesus. As histórias e ensinamentos foram compartilhados pelos seguidores de Jesus que viveram e trabalharam com ele.</p></li><li><p>Lucas escreveu essas histórias e ensinamentos. Depois, ele escreveu as histórias e ensinamentos registrados no livro de Atos. Eles são duas partes do mesmo livro. Acredita-se que Lucas os escreveu entre os anos 60 e 70 d.C.</p></li></ul><p><strong>Para quem foi escrito Lucas?</strong></p><ul><li><p>Para os crentes gentios que viviam nas terras controladas pelo governo romano.</p></li><li><p>Para alguém chamado Teófilo.</p></li><li><p>Os seguidores de Jesus reconhecem que o evangelho de Lucas compartilha a verdade sobre Jesus. É para todas as pessoas em todos os lugares.</p></li></ul><p><strong>Por que Lucas foi escrito?</strong></p><ul><li><p>Para que as pessoas soubessem que os ensinamentos sobre Jesus eram verdadeiros.</p></li><li><p>Para mostrar que os cristãos gentios são bem-vindos no reino de Deus.</p></li></ul><p><strong>Ideias principais</strong></p><ul><li><p>Quão importantes são o nascimento, a morte e a ressurreição de Jesus.</p></li><li><p>Os ensinamentos de Jesus através de parábolas.</p></li><li><p>Quão importantes são os judeus e gentios no plano de Deus para salvar o mundo.</p></li><li><p>A preocupação de Jesus com as mulheres, os pobres, os doentes, os cobradores de impostos e os pecadores.</p></li><li><p>O Espírito Santo, oração, louvor e alegria.</p></li></ul><p><strong>Esboço</strong></p><p><strong>Por que Lucas escreveu seu evangelho (1.1–4).</strong></p><p><strong>João Batista e Jesus nascem (1.5–2.52).</strong></p><p><strong>Preparando-se para Jesus trabalhar e servir em público (3.1–4.13).</strong></p><p><strong>Jesus em e ao redor da Galileia (4.14–9.50).</strong></p><p><strong>Jesus a caminho de Jerusalém (9.51–19.27).</strong></p><p><strong>O sacrifício e a vitória de Jesus em seus últimos dias (19.28–24.53).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001001",
+          "end_ref_usfm": "LUK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

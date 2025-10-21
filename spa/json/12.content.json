@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499598,
+    "reference_id": 202764,
+    "title": "2 Reyes",
+    "media_type": "Text",
+    "index_reference": "12000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es el segundo libro de Reyes?</strong></p><ul><li><p>El segundo libro de Reyes es un relato de la historia de Israel. Estos eventos ocurrieron entre los años 850 y 560 a.C. Las historias sobre estos eventos se transmitieron durante cientos de años. Se transmitieron dentro de las familias israelitas y judías.</p></li><li><p>Se cree que el profeta Jeremías escribió algunas de estas historias. Se piensa que fueron escritas alrededor del año 560 a.C.</p></li><li><p>Otras partes fueron escritas por otros israelitas.</p></li><li><p>El primer y segundo libro de Reyes eran un solo libro cuando se escribieron por primera vez. Más tarde se dividieron en dos libros.</p></li></ul><p><strong>¿Para quién fue escrito este libro?</strong></p><ul><li><p>Para el pueblo de Israel.</p></li></ul><p><strong>¿Por qué se escribió el segundo libro de Reyes?</strong></p><ul><li><p>Como un registro de los reyes de las montañas del norte y del sur.</p></li><li><p>Para explicar por qué los reinos del norte y del sur fueron destruidos y enviados al exilio.</p></li><li><p>El primer y segundo libro de Samuel, y el primer y segundo libro de Reyes son cuatro partes de la misma historia. Juntos registran más de cuatrocientos años de la historia de Israel.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Los profetas desafiaron a los gobernantes que no eran fieles a Dios.</p></li><li><p>La mayoría de los reyes en las montañas del norte y del sur se negaron a adorar y servir solo a Dios.</p></li><li><p>Dios juzgó a su pueblo por negarse a obedecer el pacto del Monte Sinaí. Dios usó a Asiria y Babilonia como herramientas para su juicio.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Reyes de las montañas del norte y reyes de las montañas del sur (1 – 17).</strong></p><p><strong>El reino del sur (18 &shy;– 25).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12001001",
+          "start_ref_usfm": "2KI 1:1",
+          "end_ref": "12001001",
+          "end_ref_usfm": "2KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

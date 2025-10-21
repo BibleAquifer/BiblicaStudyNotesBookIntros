@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499504,
+    "reference_id": 202736,
+    "title": "Filipenses",
+    "media_type": "Text",
+    "index_reference": "50000000",
+    "language": "por",
+    "content": "<p><strong>O que é o livro de Filipenses?</strong></p><ul><li><p>O livro de Filipenses é uma carta de Paulo. Timóteo ajudou Paulo a escrevê-la.</p></li><li><p>Paulo estava na prisão quando escreveu esta carta. Acredita-se que ele a escreveu por volta do ano 61 d.C.</p></li></ul><p><strong>Para quem foi escrito Filipenses?</strong></p><ul><li><p>Aos crentes na cidade de Filipos. Alguns eram judeus, mas a maioria eram gentios.</p></li><li><p>A carta foi lida em voz alta nas igrejas de toda a região de Filipos.</p></li><li><p>Os seguidores de Jesus reconhecem que Filipenses compartilha a verdade sobre Jesus. É para todas as pessoas em todos os lugares.</p></li></ul><p><strong>Por que Filipenses foi escrito?</strong></p><ul><li><p>Agradecer aos crentes filipenses pelo dinheiro que enviaram a Paulo por meio de Epafrodito.</p></li><li><p>Para informar aos crentes filipenses como Paulo estava enquanto estava na prisão.</p></li><li><p>Para se opor a professores que estavam ensinando coisas que não eram verdadeiras.</p></li><li><p>Epafrodito ficou doente enquanto visitava e ajudava Paulo. Quando ele melhorou, Paulo o enviou de volta a Filipos com esta carta.</p></li></ul><p><strong>Ideias principais</strong></p><ul><li><p>Alegria em servir a Jesus.</p></li><li><p>Pertencente a Jesus.</p></li><li><p>Seguindo o exemplo de Jesus para viver.</p></li><li><p>Dizer não a ensinamentos que não são verdadeiros.</p></li></ul><p><strong>Esboço</strong></p><p><strong>Saudações (1.1–11).</strong></p><p><strong>Paulo espalha as boas novas enquanto está na prisão (1.12–30).</strong></p><p><strong>Seguindo o exemplo de Jesus (2.1–18).</strong></p><p><strong>Palavras sobre Timóteo e Epafrodito (2.19–30).</strong></p><p><strong>Um aviso sobre ensinamentos que não são verdadeiros (3).</strong></p><p><strong>Vivendo com a paz e a alegria de Deus (4.1–9).</strong></p><p><strong>Paulo agradece aos Filipenses por seus presentes (4.10–20).</strong></p><p><strong>Saudações finais (4.21–23).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

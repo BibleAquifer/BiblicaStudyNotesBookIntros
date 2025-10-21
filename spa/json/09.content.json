@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499595,
+    "reference_id": 202761,
+    "title": "1 Samuel",
+    "media_type": "Text",
+    "index_reference": "09000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es el primer libro de Samuel?</strong></p><ul><li><p>El primer libro de Samuel es un relato de la historia de Israel. Se cree que estos eventos ocurrieron entre los años 1100 y 931 a.C. Las historias sobre estos eventos se transmitieron durante cientos de años. Se transmitieron dentro de las familias israelitas y judías.</p></li><li><p>Se cree que el profeta Samuel escribió algunas de estas historias.</p></li><li><p>Otros fueron escritos por otros israelitas.</p></li><li><p>Dos libros en la Biblia llevan el nombre de Samuel. Los dos libros habían sido uno solo cuando se escribieron por primera vez. Más tarde se dividieron en dos.</p></li></ul><p><strong>¿Para quién fue escrito este libro?</strong></p><ul><li><p>Para el pueblo de Israel.</p></li></ul><p><strong>¿Por qué se escribió el primer libro de Samuel?</strong></p><ul><li><p>Para registrar el fin de Israel siendo liderado por jueces. Samuel fue el último juez.</p></li><li><p>Para registrar el comienzo de Israel siendo gobernado por reyes. Saúl fue el primer rey y David fue el segundo rey.</p></li><li><p>El primer y segundo libro de Samuel, y el primer y segundo libro de Reyes son cuatro partes de la misma historia. Juntos registran más de cuatrocientos años de la historia de Israel.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Samuel sirvió a Dios y al pueblo de Israel fielmente.</p></li><li><p>Cuando los israelitas querían un rey humano, estaban negando a Dios como su Rey.</p></li><li><p>Líderes como Elí y Saúl sufrieron cuando no fueron fieles a Dios.</p></li></ul><p><strong>Estructura</strong></p><p><strong>La vida y obra de Samuel como sacerdote, profeta y juez (1 – 7).</strong></p><p><strong>La vida y el reinado de Saúl como rey (8 – 15).</strong></p><p><strong>La vida y el servicio de David antes de convertirse en rey (16 – 31).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09001001",
+          "start_ref_usfm": "1SA 1:1",
+          "end_ref": "09001001",
+          "end_ref_usfm": "1SA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

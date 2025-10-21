@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499076,
+    "reference_id": 202767,
+    "title": "Ezra",
+    "media_type": "Text",
+    "index_reference": "15000000",
+    "language": "eng",
+    "content": "<p><strong>What is the book of Ezra?</strong></p><ul><li><p>The book of Ezra is an account of Jewish history when the Persian government ruled. These events took place between the years 538 and 457 BC. The stories about these events were passed down within Jewish families for hundreds of years.</p></li><li><p>It’s thought that Ezra wrote some of this account down.</p></li><li><p>Other parts were written down by other Jews.</p></li><li><p>The books of Ezra and Nehemiah were one book when they were first written down. Later they were divided into two books.</p></li></ul><p><strong>Who was this book written for?</strong></p><ul><li><p>For Jews who had returned to Judah. They had lived in exile in Babylon for many years.</p></li></ul><p><strong>Why was Ezra written?</strong></p><ul><li><p>To show how God kept his promise to bring his people back from Babylon.</p></li><li><p>To record the names of many Jewish leaders and people who returned from Babylon.</p></li><li><p>To give an account of how the temple was rebuilt.</p></li></ul><p><strong>Main ideas</strong></p><ul><li><p>Some Jews returned to Judah from Babylon.</p></li><li><p>God used government leaders as his tools to accomplish what he wanted done.</p></li><li><p>Other people groups tried to make the Jews stop building the temple. But the Jews built it and worshipped God there again.</p></li><li><p>The Jews were still to follow the Law of Moses after returning from Babylon.</p></li></ul><p><strong>Outline</strong></p><p><strong>Zerubbabel and the Jews who returned to Judah with him (1 – 6).</strong></p><p><strong>Ezra and the Jews who returned to Judah with him (7 – 10).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001001",
+          "end_ref_usfm": "EZR 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499592,
+    "reference_id": 202758,
+    "title": "Josué",
+    "media_type": "Text",
+    "index_reference": "06000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es el libro de Josué?</strong></p><ul><li><p>El libro de Josué es un relato de eventos en la historia de Israel. Está registrado como una colección de historias. Estas fueron transmitidas dentro de las familias israelitas y judías durante cientos de años.</p></li><li><p>Se cree que Josué escribió algunas de estas historias alrededor del año 1370 a.C.</p></li><li><p>Otros relatos fueron escritos por otros israelitas.</p></li></ul><p><strong>¿Para quién fue escrito este libro?</strong></p><ul><li><p>Para el pueblo de Israel.</p></li></ul><p><strong>¿Por qué se escribió Josué?</strong></p><ul><li><p>Para mostrar cómo las doce tribus llegaron a vivir en Canaán. Esto fue durante el tiempo en que Josué era el líder.</p></li><li><p>Para registrar los poderosos actos de Dios para expulsar a las naciones que estaban en Canaán. Así fue como Dios cumplió su promesa de dar tierra a la línea familiar de Abraham.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Dios trajo su sentencia contra los cananeos.</p></li><li><p>Dios cumplió sus promesas de dar tierra a los hijos de Abraham, Isaac y Jacob.</p></li><li><p>Los israelitas se comprometieron una vez más a cumplir el pacto del Monte Sinaí.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Entrando en Canaán (1:1 – 5:12).</strong></p><p><strong>El juicio de Dios contra los grupos en Canaán (5:13 − 12:24).</strong></p><p><strong>Tierras divididas entre los israelitas (13 – 22).</strong></p><p><strong>Las últimas palabras de Josué y su muerte (23 – 24).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001001",
+          "end_ref_usfm": "JOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

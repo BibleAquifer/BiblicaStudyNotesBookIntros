@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499051,
+    "reference_id": 202742,
+    "title": "Titus",
+    "media_type": "Text",
+    "index_reference": "56000000",
+    "language": "eng",
+    "content": "<p><strong>What is the book of Titus?</strong></p><ul><li><p>The book of Titus is a letter from Paul.</p></li><li><p>It’s thought that Paul wrote it around the year AD 64.</p></li></ul><p><strong>Who was Titus written to?</strong></p><ul><li><p>To Titus while he was working and serving in the churches in Crete.</p></li><li><p>Followers of Jesus recognise that Titus shares the truth about Jesus. It’s for all people everywhere.</p></li></ul><p><strong>Why was Titus written?</strong></p><ul><li><p>To teach Titus how to lead the churches in Crete.</p></li><li><p>To give clear instructions about choosing church leaders and what they should be like.</p></li></ul><p><strong>Main ideas</strong></p><ul><li><p>How the good news about Jesus changes people’s lives and the way they act.</p></li><li><p>Organising the churches in Crete.</p></li><li><p>Dealing with people who teach things that aren’t true.</p></li><li><p>Holy living and doing good.</p></li></ul><p><strong>Outline</strong></p><p><strong>Greetings (1:1–4).</strong></p><p><strong>Church leaders in Crete (1:5–9).</strong></p><p><strong>The problem of false teachers (1:10–16).</strong></p><p><strong>Families in Crete (2).</strong></p><p><strong>God’s kindness and doing good to others (3:1–11).</strong></p><p><strong>Final greetings (3:12–15).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "56001001",
+          "start_ref_usfm": "TIT 1:1",
+          "end_ref": "56001001",
+          "end_ref_usfm": "TIT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

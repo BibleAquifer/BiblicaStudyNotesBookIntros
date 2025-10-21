@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499604,
+    "reference_id": 202770,
+    "title": "Trabajo",
+    "media_type": "Text",
+    "index_reference": "18000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es el libro de Job?</strong></p><ul><li><p>Job es un libro de sabiduría, poemas y canciones de Israel. Plantea muchas preguntas sobre el sufrimiento y ofrece algunas respuestas. Lo hace a través de una historia sobre Job, sus discursos, sus amigos y Dios. La mayor parte del libro está escrita como largos poemas.</p></li><li><p>La historia de Job ocurrió en los tiempos en que vivieron Abraham, Isaac y Jacob. Tuvo lugar al este de la tierra de Israel.</p></li><li><p>No se sabe quién escribió el libro de Job ni cuándo se escribió.</p></li></ul><p><strong>¿Para quién fue escrito este libro?</strong></p><ul><li><p>Para el pueblo de Israel.</p></li></ul><p><strong>¿Por qué se escribió Job?</strong></p><ul><li><p>Para explicar diferentes maneras en que las personas sufren.</p></li><li><p>Para mostrar que Dios tiene más poder y autoridad que cualquier otra cosa o persona.</p></li><li><p>Para mostrar que Dios hace posible la vida para todo lo que ha creado.</p></li><li><p>Dar un ejemplo de alguien que permanece fiel a Dios cuando está sufriendo.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>El sufrimiento ocurre por muchas razones diferentes. No se puede explicar solo como el resultado del pecado de alguien.</p></li><li><p>Los seres humanos no pueden comprender completamente a Dios y sus acciones. Pueden confiar en que él ama todo lo que creó y hace el bien para sus criaturas.</p></li><li><p>Dios prueba a los seres humanos. Las pruebas pueden mostrar si una persona está verdaderamente comprometida con Dios.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Job es bendecido con éxito (1:1–5).</strong></p><p><strong>Job es puesto a prueba</strong> <strong>(1 – 2).</strong></p><p><strong>Discursos de Job,</strong> <strong>Elifaz, Bildad y Zofar (3 – 31).</strong></p><p><strong>Un discurso de Eliú (32 – 37).</strong></p><p><strong>Discursos de Dios (38:1 – 42:6).</strong></p><p><strong>Job es bendecido con éxito nuevamente (42:7–17).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001001",
+          "start_ref_usfm": "JOB 1:1",
+          "end_ref": "18001001",
+          "end_ref_usfm": "JOB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

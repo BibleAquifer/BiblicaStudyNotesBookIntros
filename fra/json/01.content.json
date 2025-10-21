@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499262,
+    "reference_id": 202753,
+    "title": "Genèse",
+    "media_type": "Text",
+    "index_reference": "01000000",
+    "language": "fra",
+    "content": "<p><strong>Qu&apos;est-ce que le livre de la Genèse&nbsp;?</strong></p><ul><li><p>Le livre de la Genèse est un récit du commencement du monde et de la nation d&apos;Israël. Ce livre est écrit comme une collection d&apos;histoires. </p></li><li><p>On pense que c&apos;est Moïse qui a écrit certaines de ces histoires. On pense qu&apos;il les a écrites entre 1450 et 1410 av. J.-C.</p></li><li><p>D&apos;autres parties de la Genèse ont été écrites par d&apos;autres Israélites.</p></li><li><p>Ces histoires ont été passées d&apos;une génération à l&apos;autre dans des familles israélites et juives pendant des centaines d&apos;années.</p></li></ul><p><strong>Pour qui ce livre a-t-il été écrit&nbsp;?</strong></p><ul><li><p>Le livre de la Genèse a été écrit pour le peuple d&apos;Israël.</p></li></ul><p><strong>Pourquoi la Genèse a-t-elle été écrite&nbsp;?</strong></p><ul><li><p>Genèse raconte le commencement de la création, des êtres humains, du péché, du salut et du peuple d&apos;Israël. En grec, le mot «&nbsp;genèse&nbsp;» veut dire «&nbsp;commencement&nbsp;».</p></li><li><p>Genèse montre que Dieu est le Créateur de toute vie.</p></li></ul><p><strong>Idées principales</strong></p><ul><li><p>Dieu est bon. Il a créé un monde bon.</p></li><li><p>Le péché est mauvais. Le résultat du péché est la mort.</p></li><li><p>Dieu est déterminé à bénir le monde qu&apos;il a créé et à le sauver du péché, de la mort et du mal. Il établit des alliances avec Abraham, Isaac, Jacob et leurs familles. Ces alliances font partie du plan de bénédiction et de salut de Dieu.</p></li></ul><p><strong>Grandes lignes</strong></p><p><strong>Début de la création, des êtres humains et du péché (1&nbsp;–&nbsp;3)</strong></p><p><strong>Histoire de la famille d&apos;Adam et Ève (4&nbsp;–&nbsp;5)</strong></p><p><strong>Histoire de Noé et de sa famille (6&nbsp;–&nbsp;11)</strong></p><p><strong>Histoire d&apos;Abraham et de sa famille (12 – 25.18)</strong></p><p><strong>Histoire d&apos;Isaac et de sa famille (25.19 – 28.9)</strong></p><p><strong>Histoire de Jacob et de sa famille (28.10 – 36.43)</strong></p><p><strong>Histoire de Joseph et de sa famille (37&nbsp;–&nbsp;50)</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01001001",
+          "end_ref_usfm": "GEN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

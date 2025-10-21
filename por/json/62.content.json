@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499516,
+    "reference_id": 202748,
+    "title": "1 João",
+    "media_type": "Text",
+    "index_reference": "62000000",
+    "language": "por",
+    "content": "<p><strong>O que é o livro de</strong> <strong>1 João?</strong></p><ul><li><p>O livro de 1 João é uma carta. A carta não diz quem foi o autor. Acredita-se que o apóstolo João a escreveu. A forma como a carta é escrita é muito semelhante ao Evangelho de João.</p></li><li><p>Pensa-se que João escreveu esta carta após escrever o Evangelho de João. Acredita-se que ele a escreveu entre os anos 85 e 90 d.C.</p></li><li><p>O Novo Testamento inclui três cartas que se acredita terem sido escritas por João. Esta é a primeira carta.</p></li></ul><p><strong>Para quem foi escrito 1</strong> <strong>João?</strong></p><ul><li><p>Não se sabe exatamente para quem 1 João foi escrito. Acredita-se que João o enviou aos crentes na área de Éfeso.</p></li><li><p>Os seguidores de Jesus reconhecem que 1 João compartilha a verdade sobre Jesus. É para todas as pessoas em todos os lugares.</p></li></ul><p><strong>Por que 1 João foi escrito?</strong></p><ul><li><p>Para se opor aos professores que ensinavam que Jesus não era tanto um ser humano quanto o Filho de Deus.</p></li><li><p>Ensinar sobre a fé em Jesus.</p></li></ul><p><strong>Ideias principais</strong></p><ul><li><p>Deus é amor.</p></li><li><p>Aqueles que conhecem a Deus e mostram amor aos outros são filhos de Deus.</p></li><li><p>Jesus é completamente humano e completamente Deus.</p></li><li><p>Jesus pagou pelos pecados das pessoas.</p></li></ul><p><strong>Esboço</strong></p><p><strong>A Palavra da Vida tornou-se um ser humano (1.1–4).</strong></p><p><strong>Luz e trevas, amar e odiar (1.5–2.28).</strong></p><p><strong>Os filhos de Deus e os filhos do diabo (2.29–3.24).</strong></p><p><strong>Testando os espíritos (4.1–6).</strong></p><p><strong>O amor de Deus é completo (4.7–21).</strong></p><p><strong>Jesus é o verdadeiro Deus e doador da vida eterna (5).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62001001",
+          "start_ref_usfm": "1JN 1:1",
+          "end_ref": "62001001",
+          "end_ref_usfm": "1JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499532,
+    "reference_id": 202764,
+    "title": "2 Reis",
+    "media_type": "Text",
+    "index_reference": "12000000",
+    "language": "por",
+    "content": "<p><strong>O que é o livro de 2 Reis?</strong></p><ul><li><p>O livro de 2 Reis é um relato da história de Israel. Esses eventos ocorreram entre os anos 850 e 560 a.C. As histórias sobre esses eventos foram transmitidas por centenas de anos. Elas foram passadas dentro das famílias israelitas e judaicas.</p></li><li><p>Acredita-se que o profeta Jeremias escreveu algumas dessas histórias, que foram escritas por volta do ano 560 a.C.</p></li><li><p>Outras partes foram escritas por outros israelitas.</p></li><li><p>Os livros 1 Reis e 2 Reis eram um único livro quando foram escritos pela primeira vez. Mais tarde, foram divididos em dois livros.</p></li></ul><p><strong>Para quem este livro foi escrito?</strong></p><ul><li><p>Para o povo de Israel.</p></li></ul><p><strong>Por que 2 Reis foi escrito?</strong></p><ul><li><p>Como um registro dos reis dos reinos do norte e do sul.</p></li><li><p>Para explicar por que os reinos do norte e do sul foram destruídos e enviados para o exílio.</p></li><li><p>Os livros de 1 Samuel, 2 Samuel, 1 Reis e 2 Reis são quatro partes da mesma história. Juntos, eles registram mais de 400 anos da história de Israel.</p></li></ul><p><strong>Ideias principais</strong></p><ul><li><p>Profetas desafiaram governantes que não eram fiéis a Deus.</p></li><li><p>A maioria dos reis nos reinos do norte e do sul recusou-se a adorar e servir somente a Deus.</p></li><li><p>Deus julgou seu povo por se recusar a obedecer a aliança do Monte Sinai. Deus usou a Assíria e a Babilônia como suas ferramentas para trazer julgamento.</p></li></ul><p><strong>Esboço</strong></p><p><strong>Reis do reino do norte e reis do reino do sul (1–17).</strong></p><p><strong>O reino do sul (18–25).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12001001",
+          "start_ref_usfm": "2KI 1:1",
+          "end_ref": "12001001",
+          "end_ref_usfm": "2KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

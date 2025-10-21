@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499589,
+    "reference_id": 202755,
+    "title": "Levítico",
+    "media_type": "Text",
+    "index_reference": "03000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es el libro de Levítico?</strong></p><ul><li><p>Levítico es un relato de eventos en la historia de Israel. Fue escrito como una colección de muchas leyes y algunas historias que fueron transmitidas dentro de las familias israelitas y judías durante cientos de años. Dios le dijo las leyes a Moisés y al pueblo de Israel.</p></li><li><p>Se cree que Moisés escribió algunas de estas leyes e historias. Se piensa que las escribió entre los años 1450 y 1410 a.C.</p></li><li><p>Otros fueron escritos por otros israelitas.</p></li></ul><p><strong>¿Para quién fue escrito este libro?</strong></p><ul><li><p>Para el pueblo de Israel.</p></li></ul><p><strong>¿Por qué se escribió el Levítico?</strong></p><ul><li><p>Para registrar las leyes que Dios dio a los israelitas. Estas leyes eran parte del pacto de Dios con ellos. Trataban sobre adorar a Dios y vivir según su camino.</p></li><li><p>Para explicar las bendiciones y maldiciones del pacto del Monte Sinaí.</p></li><li><p>Para describir el trabajo de la línea familiar de Leví. En el idioma hebreo, Levítico significa &quot;sobre los levitas&quot;. Su trabajo era guiar a los israelitas en la adoración a Dios.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Instrucciones para ofrendas y sacrificios.</p></li><li><p>Prácticas que distinguen a Israel de otras naciones.</p></li><li><p>Reglas para los sacerdotes y su trabajo especial.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Leyes sobre ofrendas y sacrificios (1 – 7).</strong></p><p><strong>Los sacerdotes comienzan a servir al Señor (8 – 10).</strong></p><p><strong>Leyes sobre ser limpio y puro (11 – 15).</strong></p><p><strong>Día de la expiación o el día en que se paga por el pecado (16).</strong></p><p><strong>Leyes sobre ser santo (17 – 27).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03001001",
+          "start_ref_usfm": "LEV 1:1",
+          "end_ref": "03001001",
+          "end_ref_usfm": "LEV 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

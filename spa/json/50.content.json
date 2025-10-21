@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499570,
+    "reference_id": 202736,
+    "title": "Filipenses",
+    "media_type": "Text",
+    "index_reference": "50000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es la carta a los Filipenses?</strong></p><ul><li><p>La carta a los Filipenses es una carta de Pablo. Timoteo ayudó a Pablo a escribirla.</p></li><li><p>Pablo estaba en prisión cuando escribió esta carta. Se cree que la escribió alrededor del año 61 d.C.</p></li></ul><p><strong>¿A quién fue dirigida la carta a los Filipenses?</strong></p><ul><li><p>A los creyentes en la ciudad de Filipos. Algunos eran judíos, pero la mayoría eran gentiles.</p></li><li><p>La carta fue leída en voz alta en las iglesias de toda la zona de Filipos.</p></li><li><p>Los seguidores de Jesús reconocen que Filipenses comparte la verdad sobre Jesús. Es para todas las personas en todas partes.</p></li></ul><p><strong>¿Por qué se escribió la carta a los Filipenses?</strong></p><ul><li><p>Agradecer a los creyentes filipenses por el dinero que habían enviado a Pablo a través de Epafrodito.</p></li><li><p>Informar a los creyentes filipenses sobre cómo estaba Pablo mientras estaba en prisión.</p></li><li><p>Para oponerse a los maestros que enseñaban cosas que no eran verdaderas.</p></li><li><p>Epafrodito se había enfermado mientras visitaba y ayudaba a Pablo. Cuando mejoró, Pablo lo envió de regreso a Filipos con esta carta.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Gozo en servir a Jesús.</p></li><li><p>Pertenecer a Jesús.</p></li><li><p>Seguir el ejemplo de Jesús para vivir.</p></li><li><p>Decir no a enseñanzas que no son verdaderas.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Saludos (1:1–11).</strong></p><p><strong>Pablo difunde las buenas nuevas mientras está en prisión (1:12–30).</strong></p><p><strong>Siguiendo el ejemplo de Jesús (2:1–18).</strong></p><p><strong>Palabras sobre Timoteo y Epafrodito (2:19–30).</strong></p><p><strong>Una advertencia sobre enseñanzas que no son verdaderas (3).</strong></p><p><strong>Viviendo con la paz y el gozo de Dios (4:1–9).</strong></p><p><strong>Pablo agradece a los filipenses por sus regalos (4:10–20).</strong></p><p><strong>Saludos finales (4:21–23).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

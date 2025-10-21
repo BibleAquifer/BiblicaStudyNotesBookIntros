@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499562,
+    "reference_id": 202728,
+    "title": "Lucas",
+    "media_type": "Text",
+    "index_reference": "42000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es el libro de</strong> <strong>Lucas?</strong></p><ul><li><p>El Evangelio de Lucas es una colección de historias sobre Jesús. Incluye las palabras y enseñanzas de Jesús. Las historias y enseñanzas fueron compartidas por los seguidores de Jesús que vivieron y trabajaron con él.</p></li><li><p>Lucas escribió estas historias y enseñanzas. Luego escribió las historias y enseñanzas registradas en el libro de los Hechos. Son dos partes del mismo libro. Se cree que Lucas las escribió entre los años 60 y 70 d.C.</p></li></ul><p><strong>¿Para quién fue escrito Lucas?</strong></p><ul><li><p>Para los creyentes gentiles que vivieron en las tierras controladas por el gobierno romano.</p></li><li><p>Para alguien llamado Teófilo.</p></li><li><p>Los seguidores de Jesús reconocen que el evangelio de Lucas comparte la verdad sobre Jesús. Es para todas las personas en todas partes.</p></li></ul><p><strong>¿Por qué se escribió Lucas?</strong></p><ul><li><p>Para que la gente supiera que las enseñanzas sobre Jesús eran verdaderas.</p></li><li><p>Para mostrar que los cristianos gentiles son bienvenidos en el reino de Dios.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>La importancia del nacimiento, la muerte y la resurrección de Jesús.</p></li><li><p>Las enseñanzas de Jesús a través de parábolas.</p></li><li><p>La importancia de los judíos y los gentiles en el plan de Dios para salvar al mundo.</p></li><li><p>La preocupación de Jesús por las mujeres, los pobres, los enfermos, los recaudadores de impuestos y los pecadores.</p></li><li><p>El Espíritu Santo, la oración, la alabanza y la alegría.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Por qué Lucas escribió su evangelio (1:1–4).</strong></p><p><strong>Juan el Bautista y Jesús nacen (1:5 – 2:52).</strong></p><p><strong>Preparación para que Jesús trabaje y sirva en público (3:1 – 4:13).</strong></p><p><strong>Jesús en y alrededor de Galilea (4:14 – 9:50).</strong></p><p><strong>Jesús en el camino a Jerusalén (9:51 – 19:27).</strong></p><p><strong>El sacrificio y la victoria de Jesús en sus últimos días (19:28 – 24:53).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001001",
+          "end_ref_usfm": "LUK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499263,
+    "reference_id": 202754,
+    "title": "Exode",
+    "media_type": "Text",
+    "index_reference": "02000000",
+    "language": "fra",
+    "content": "<p><strong>Qu&apos;est-ce que le livre de l&apos;Exode&nbsp;?</strong></p><ul><li><p>Le livre de l&apos;Exode est un récit de certaines parties de l&apos;histoire d&apos;Israël. Il est écrit comme une collection d&apos;histoires et de lois. C&apos;est Dieu qui donne ces lois à Moïse et au peuple d&apos;Israël.</p></li><li><p>On pense que c&apos;est Moïse qui a écrit certaines de ces histoires et de ces lois. On pense qu&apos;il les a écrites entre 1450 et 1410 av. J.-C.</p></li><li><p>D&apos;autres parties de l&apos;Exode ont été écrites par d&apos;autres Israélites.</p></li><li><p>Ces histoires et ces lois ont été passées d&apos;une génération à l&apos;autre dans des familles israélites et juives pendant des centaines d&apos;années. </p></li></ul><p><strong>Pour qui ce livre a-t-il été écrit&nbsp;?</strong></p><ul><li><p>Le livre de l&apos;Exode a été écrit pour le peuple d&apos;Israël.</p></li></ul><p><strong>Pourquoi l&apos;Exode a-t-il été écrit&nbsp;?</strong></p><ul><li><p>L&apos;Exode raconte comment Dieu sauve la lignée de Jacob de l&apos;esclavage en Égypte. En grec, le mot «&nbsp;exode&nbsp;» veut dire «&nbsp;sortir&nbsp;» ou «&nbsp;partir&nbsp;». Ce livre parle des Israélites qui partent d&apos;Égypte.</p></li><li><p>L&apos;Exode montre comment les Israélites deviennent une nation. Ils deviennent la nation que Dieu a promise à Abraham dans la Genèse.</p></li></ul><p><strong>Idées principales</strong></p><ul><li><p>Dieu sauve son peuple et lui donne tout ce dont il a besoin.</p></li><li><p>Dieu établit son alliance avec les Israélites.</p></li><li><p>Dieu donne les dix commandements et ses lois à son peuple.</p></li></ul><p><strong>Grandes lignes</strong></p><p><strong>Les Israélites quittent l&apos;Égypte (1 – 15)</strong></p><p><strong>Les Israélites dans le désert (16&nbsp;–&nbsp;18)</strong></p><p><strong>Les Israélites au mont Sinaï (19&nbsp;–&nbsp;40)</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001001",
+          "end_ref_usfm": "EXO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

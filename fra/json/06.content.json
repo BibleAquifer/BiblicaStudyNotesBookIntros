@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499267,
+    "reference_id": 202758,
+    "title": "Josué",
+    "media_type": "Text",
+    "index_reference": "06000000",
+    "language": "fra",
+    "content": "<p><strong>Qu&apos;est-ce que le livre de Josué&nbsp;?</strong></p><ul><li><p>Le livre de Josué est un récit de certaines parties de l&apos;histoire d&apos;Israël. Il est écrit comme une collection d&apos;histoires. </p></li><li><p>On pense que c&apos;est Josué qui a écrit certaines de ces histoires vers 1370 av. J.-C.</p></li><li><p>D&apos;autres histoires du livre de Josué ont été écrites par d&apos;autres Israélites.</p></li><li><p>Ces histoires ont été passées d&apos;une génération à l&apos;autre dans des familles israélites et juives pendant des centaines d&apos;années.</p></li></ul><p><strong>Pour qui ce livre a-t-il été écrit&nbsp;?</strong></p><ul><li><p>Josué a été écrit pour le peuple d&apos;Israël.</p></li></ul><p><strong>Pourquoi le livre de Josué a-t-il été écrit&nbsp;?</strong></p><ul><li><p>Le livre de Josué montre comment les 12 tribus sont venues vivre en Canaan. Josué est alors leur chef.</p></li><li><p>Le livre de Josué raconte les actes puissants de Dieu quand il chasse les nations de Canaan. C&apos;est comme cela que Dieu accomplit sa promesse de donner une terre à la lignée d&apos;Abraham.</p></li></ul><p><strong>Idées principales</strong></p><ul><li><p>Dieu juge les Cananéens.</p></li><li><p>Dieu accomplit ses promesses de donner la terre de Canaan aux enfants d&apos;Abraham, d&apos;Isaac et de Jacob.</p></li><li><p>Les Israélites décident à nouveau d&apos;obéir à l&apos;alliance du mont Sinaï.</p></li></ul><p><strong>Grandes lignes</strong></p><p><strong>Entrée en Canaan (1.1 – 5.12)</strong></p><p><strong>Jugement de Dieu contre les peuples de Canaan (5.13 − 12.24)</strong></p><p><strong>Terres réparties entre les Israélites (13&nbsp;–&nbsp;22)</strong></p><p><strong>Dernières paroles et mort de Josué (23&nbsp;–&nbsp;24)</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001001",
+          "end_ref_usfm": "JOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

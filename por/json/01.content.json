@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499521,
+    "reference_id": 202753,
+    "title": "Gênesis",
+    "media_type": "Text",
+    "index_reference": "01000000",
+    "language": "por",
+    "content": "<p><strong>O que é o livro de Gênesis?</strong></p><ul><li><p>Gênesis é um relato do início do mundo e da nação de Israel. Gênesis é registrado como uma coleção de histórias. Estas foram transmitidas dentro das famílias israelitas e judaicas por centenas de anos.</p></li><li><p>Acredita-se que Moisés escreveu algumas dessas histórias e que ele as escreveu entre os anos 1450 e 1410 a.C.</p></li><li><p>Outras partes de Gênesis foram escritas por outros israelitas.</p></li></ul><p><strong>Para quem este livro foi escrito?</strong></p><ul><li><p>Para o povo de Israel.</p></li></ul><p><strong>Por que Gênesis foi escrito?</strong></p><ul><li><p>Para descrever o início da criação, os seres humanos, o pecado, a salvação e o povo de Israel. Na língua grega, a palavra Gênesis significa início.</p></li><li><p>Para mostrar que Deus é o Criador de toda a vida.</p></li></ul><p><strong>Ideias principais</strong></p><ul><li><p>Deus é bom. Ele criou um mundo bom.</p></li><li><p>O pecado é mau. O resultado do pecado é a morte.</p></li><li><p>Deus está comprometido em abençoar o seu mundo e salvá-lo do pecado, da morte e do mal. Ele estabeleceu alianças com Abraão, Isaque e Jacó e suas famílias. Essas alianças faziam parte do plano de bênção e salvação de Deus.</p></li></ul><p><strong>Esboço</strong></p><p><strong>O início da criação, seres humanos e pecado (1–3).</strong></p><p><strong>A história da família de Adão e Eva (4–5).</strong></p><p><strong>A história de Noé e sua família (6–11).</strong></p><p><strong>A história de Abraão e sua família (12–25.18).</strong></p><p><strong>A história de Isaque e sua família (25.19–28.9).</strong></p><p><strong>A história de Jacó e sua família (28.10–36.43).</strong></p><p><strong>A história de José e sua família (37–50).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01001001",
+          "end_ref_usfm": "GEN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
