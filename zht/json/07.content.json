@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499202,
+    "reference_id": 202759,
+    "title": "士師記",
+    "media_type": "Text",
+    "index_reference": "07000000",
+    "language": "zht",
+    "content": "<p><strong>士師記是什麼？</strong></p><ul><li><p>士師記是以色列歷史事件的記載。它以一系列故事的形式記錄，這些故事在以色列人和猶太家庭中流傳了數百年。</p></li><li><p>這些故事由以色列人記錄下來，一般認為，其中一些故事寫於公元前1375年至1050年間，其它部分則在稍後時期記錄。</p></li></ul><p><strong>這卷書為誰而寫？</strong></p><ul><li><p>寫給以色列的百姓。</p></li></ul><p><strong>士師記為何而寫？</strong></p><ul><li><p>為了展示約書亞去世後，以色列支派在迦南地發生的事情。</p></li><li><p>為了記錄各支派驅逐迦南人的故事。這些故事顯示以色列人未能遵守西奈山之約。</p></li><li><p>為了記錄被稱為士師的12位領袖的故事，他們在以色列的不同地區擔任領導角色。</p></li></ul><p><strong>主要思想</strong></p><ul><li><p>罪、苦難和拯救的模式，不斷循環。</p></li><li><p>神使用忠於祂的領袖，也使用不忠於祂的領袖。</p></li><li><p>以色列人未能活出祭司的國度和聖潔的子民該有的樣子。</p></li></ul><p><strong>大綱</strong></p><p><strong>以色列人沒有驅逐所有迦南人（1章）。</strong></p><p><strong>描述罪、苦難與拯救的模式（2:1－3:6）。</strong></p><p><strong>十二位在約書亞之後的士師（3:7－16:31）。</strong></p><p><strong>以色列人未能活出祭司的國度或聖潔的子民該有的樣子（17－21章）。</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001001",
+          "start_ref_usfm": "JDG 1:1",
+          "end_ref": "07001001",
+          "end_ref_usfm": "JDG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

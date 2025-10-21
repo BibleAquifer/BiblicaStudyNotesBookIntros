@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499201,
+    "reference_id": 202758,
+    "title": "約書亞記",
+    "media_type": "Text",
+    "index_reference": "06000000",
+    "language": "zht",
+    "content": "<p><strong>約書亞記是是一卷什麼樣的書？</strong></p><ul><li><p>約書亞記是以色列歷史事件的記載。它以一系列故事的形式記錄，這些故事在以色列人和猶太家庭中流傳了數百年。</p></li><li><p>一般認為約書亞在約公元前1370年記錄了一部分這些故事。</p></li><li><p>約書亞記的其它部分則由其他的以色列人記錄下來。</p></li></ul><p><strong>這卷書為誰而寫？</strong></p><ul><li><p>寫給以色列的百姓。</p></li></ul><p><strong>約書亞記為何而寫？</strong></p><ul><li><p>為了展示十二支派如何在約書亞作領袖時來到迦南定居。</p></li><li><p>為了記錄神如何驅逐迦南地各族的偉大作為，藉此實現祂賜土地給亞伯拉罕家族的應許。</p></li></ul><p><strong>主要思想</strong></p><ul><li><p>神對迦南人施行審判。</p></li><li><p>神實現了祂的應許，將土地賜給亞伯拉罕、以撒和雅各的後裔。</p></li><li><p>以色列人再次立約，承諾遵守西奈山之約。</p></li></ul><p><strong>大綱</strong></p><p><strong>進入迦南（1:1－5:12）。</strong></p><p><strong>神對迦南各族的審判（5:13－12:24）。</strong></p><p><strong>以色列人分配土地（13－22章）。</strong></p><p><strong>約書亞的遺言和去世（23－24章）。</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001001",
+          "end_ref_usfm": "JOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

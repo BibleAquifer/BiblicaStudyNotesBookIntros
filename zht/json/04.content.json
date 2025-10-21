@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499199,
+    "reference_id": 202756,
+    "title": "數字",
+    "media_type": "Text",
+    "index_reference": "04000000",
+    "language": "zht",
+    "content": "<p><strong>民數記是一卷什麼樣的書？</strong></p><ul><li><p>民數記是以色列歷史事件的記載。它以一系列故事和律法的形式記錄下來，這些內容在以色列人和猶太家庭中流傳了數百年。神將律法傳達給摩西和以色列人。</p></li><li><p>一般認為摩西記錄了這些故事和律法的一部分。人們認為他是在公元前1450年至1410年間寫下這些內容。</p></li><li><p>民數記的其它部分則由其他的以色列人所記錄下來。</p></li></ul><p><strong>這本書為誰而寫？</strong></p><ul><li><p>寫給以色列的百姓。</p></li></ul><p><strong>民數記為何而寫？</strong></p><ul><li><p>為了記錄以色列人從西奈山到迦南邊界的旅程。</p></li><li><p>為了記錄更多神賜給以色列人的律法。</p></li><li><p>為了記錄所數點的以色列人名單。</p></li></ul><p><strong>主要思想</strong></p><ul><li><p>雅各家族繁衍得極為龐大。</p></li><li><p>以色列人因不順服神和對祂發怨言而遭受苦難。</p></li><li><p>神饒恕以色列人，祂對他們有耐心並供應他們的需要。</p></li></ul><p><strong>大綱</strong></p><p><strong>以色列人準備離開西奈山（1－10章）。</strong></p><p><strong>以色列人向神和摩西發怨言（11－12章）。</strong></p><p><strong>以色列人拒絕進入迦南（13－14章）。</strong></p><p><strong>在曠野中漂流（15－19章）。</strong></p><p><strong>從加低斯行進到摩押平原（20－21章）。</strong></p><p><strong>以色列人準備進入迦南（22－36章）。</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04001001",
+          "start_ref_usfm": "NUM 1:1",
+          "end_ref": "04001001",
+          "end_ref_usfm": "NUM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
