@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499522,
+    "reference_id": 202754,
+    "title": "Êxodo",
+    "media_type": "Text",
+    "index_reference": "02000000",
+    "language": "por",
+    "content": "<p><strong>O que é o livro de Êxodo?</strong></p><ul><li><p>Êxodo é um relato de eventos da história de Israel. Está registrado como uma coleção de histórias e leis. Elas foram transmitidas dentro das famílias israelitas e judaicas por centenas de anos. Deus contou as leis a Moisés e ao povo de Israel.</p></li><li><p>Pensa-se que Moisés escreveu algumas dessas histórias e leis. Acredita-se que ele as escreveu entre os anos 1450 e 1410 a.C.</p></li><li><p>Outras partes de Êxodo foram escritas por outros israelitas.</p></li></ul><p><strong>Para quem este livro foi escrito?</strong></p><ul><li><p>Para o povo de Israel.</p></li></ul><p><strong>Por que o Êxodo foi escrito?</strong></p><ul><li><p>Para registrar a história de como Deus salvou a linhagem da família de Jacó da escravidão no Egito. Na língua grega, a palavra êxodo significa sair ou partir. Este livro é sobre os israelitas saindo do Egito.</p></li><li><p>Para mostrar como os israelitas se tornaram uma nação. Eles se tornaram a nação que Deus prometeu a Abraão em Gênesis.</p></li></ul><p><strong>Ideias principais</strong></p><ul><li><p>Deus salvando seu povo e provendo a eles.</p></li><li><p>Aliança de Deus com os israelitas.</p></li><li><p>Os Dez Mandamentos e as leis de Deus.</p></li></ul><p><strong>Esboço</strong></p><p><strong>Os israelitas deixam o Egito (1–15).</strong></p><p><strong>Os israelitas no deserto (16–18).</strong></p><p><strong>Os israelitas no Monte Sinai (19–40).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001001",
+          "end_ref_usfm": "EXO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

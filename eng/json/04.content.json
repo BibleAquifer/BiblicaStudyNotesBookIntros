@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499065,
+    "reference_id": 202756,
+    "title": "Numbers",
+    "media_type": "Text",
+    "index_reference": "04000000",
+    "language": "eng",
+    "content": "<p><strong>What is the book of Numbers?</strong></p><ul><li><p>Numbers is an account of events in Israel’s history. It’s recorded as a collection of stories and laws. They were passed down within Israelite and Jewish families for hundreds of years. God spoke the laws to Moses and the people of Israel.</p></li><li><p>It’s thought that Moses wrote some of these stories and laws down. It’s thought that he wrote them down between the years 1450 and 1410 BC.</p></li><li><p>Others were written down by other Israelites.</p></li></ul><p><strong>Who was this book written for?</strong></p><ul><li><p>For the people of Israel.</p></li></ul><p><strong>Why was Numbers written?</strong></p><ul><li><p>To record the Israelites’ journey from Mount Sinai to the border of Canaan.</p></li><li><p>To record more of God’s laws for the Israelites.</p></li><li><p>To record the lists of people that were counted.</p></li></ul><p><strong>Main ideas</strong></p><ul><li><p>Jacob’s family line had grown very large.</p></li><li><p>The Israelites suffered when they disobeyed God and spoke against him.</p></li><li><p>God forgave the Israelites. He had patience with them and provided for them.</p></li></ul><p><strong>Outline</strong></p><p><strong>The Israelites prepare to leave Mount Sinai (1 – 10).</strong></p><p><strong>The Israelites speak against God and Moses (11 – 12).</strong></p><p><strong>The Israelites refuse to enter Canaan (13 – 14).</strong></p><p><strong>Wandering in the desert (15 – 19).</strong></p><p><strong>Marching from Kadesh to the plains of Moab (20 – 21).</strong></p><p><strong>The Israelites prepare to enter Canaan (22 – 36).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04001001",
+          "start_ref_usfm": "NUM 1:1",
+          "end_ref": "04001001",
+          "end_ref_usfm": "NUM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499497,
+    "reference_id": 202729,
+    "title": "João",
+    "media_type": "Text",
+    "index_reference": "43000000",
+    "language": "por",
+    "content": "<p><strong>O que é o livro de João?</strong></p><ul><li><p>O Evangelho de João é uma coleção de histórias sobre Jesus. Inclui as palavras e ensinamentos de Jesus. As histórias e ensinamentos foram transmitidos pelos seguidores de Jesus que viveram e trabalharam com ele.</p></li><li><p>João contou sua história do evangelho de uma maneira nova e diferente dos outros escritores dos evangelhos. No entanto, as histórias e ensinamentos registrados por João concordam com os evangelhos de Mateus, Marcos e Lucas.</p></li><li><p>Acredita-se que João escreveu seu evangelho entre os anos 85 e 90 d.C.</p></li></ul><p><strong>Para quem foi escrito o Evangelho de João?</strong></p><ul><li><p>Para os crentes judeus e gentios que viviam nas terras controladas pelo governo romano.</p></li><li><p>Para pessoas que não sabiam quem é Jesus.</p></li><li><p>Os seguidores de Jesus reconhecem que o evangelho de João compartilha a verdade sobre Jesus. É para todas as pessoas em todos os lugares.</p></li></ul><p><strong>Por que João foi escrito?</strong></p><ul><li><p>Para ajudar os crentes em todas as terras romanas a entender mais sobre Jesus e segui-lo fielmente.</p></li><li><p>Para ajudar as pessoas que não conheciam Jesus a acreditar que ele é o Messias e o Filho de Deus.</p></li><li><p>Convidar todos a receber o dom da vida eterna de Jesus.</p></li></ul><p><strong>Ideias principais</strong></p><ul><li><p>Jesus como a Palavra de Deus, o Messias e o Filho de Deus.</p></li><li><p>As sete declarações &quot;Eu sou&quot;.</p></li><li><p>Os sete sinais que Jesus fez que mostram que ele é o Messias.</p></li><li><p>As sete testemunhas de Jesus.</p></li></ul><p><strong>Esboço</strong></p><p><strong>A Palavra tornou-se um ser humano (1.1–18).</strong></p><p><strong>O início do trabalho e serviço de Jesus (1.19–51).</strong></p><p><strong>Jesus ensina em público e realiza sete sinais (2–11).</strong></p><p><strong>A última semana da vida de Jesus (12–19).</strong></p><p><strong>Jesus é ressuscitado dos mortos (20).</strong></p><p><strong>Jesus passa tempo com os discípulos (21).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001001",
+          "end_ref_usfm": "JHN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

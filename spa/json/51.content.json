@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499571,
+    "reference_id": 202737,
+    "title": "Colosenses",
+    "media_type": "Text",
+    "index_reference": "51000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es la carta a los</strong> <strong>Colosenses?</strong></p><ul><li><p>La carta a los Colosenses es una carta de Pablo. Timoteo ayudó a Pablo a escribirla.</p></li><li><p>Pablo estaba en prisión cuando escribió esta carta. Se cree que la escribió alrededor del año 60 d.C.</p></li></ul><p><strong>¿A quién fue dirigida la carta a los Colosenses?</strong></p><ul><li><p>A los creyentes en la ciudad de Colosas. Algunos eran judíos, pero la mayoría eran gentiles.</p></li><li><p>La carta fue leída en voz alta en las iglesias de toda la zona de Colosas.</p></li><li><p>Los seguidores de Jesús reconocen que Colosenses comparte la verdad sobre Jesús. Es para todas las personas en todas partes.</p></li></ul><p><strong>¿Por qué se escribió la carta a los Colosenses?</strong></p><ul><li><p>Informar a los creyentes de Colosas sobre cómo estaba Pablo mientras estaba en prisión.</p></li><li><p>Oponerse a los maestros que enseñaban cosas que no eran ciertas.</p></li><li><p>Enseñar a los creyentes cómo vivir su nueva vida en Cristo.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Jesucristo es el Señor de todo lo que existe.</p></li><li><p>Todas las enseñanzas que no proclaman a Jesús como Señor son falsas.</p></li><li><p>Los creyentes viven una nueva forma de vida gracias a Cristo.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Saludos y oración (1:1–14).</strong></p><p><strong>Quién es Cristo (1:15–23).</strong></p><p><strong>El trabajo de Pablo entre los gentiles (1:24 – 2:5).</strong></p><p><strong>Los creyentes están completos en Jesucristo (2:6–23).</strong></p><p><strong>Viviendo una nueva vida en Cristo (3:1 – 4:1).</strong></p><p><strong>Saludos finales (4:2–18).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "51001001",
+          "start_ref_usfm": "COL 1:1",
+          "end_ref": "51001001",
+          "end_ref_usfm": "COL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499519,
+    "reference_id": 202751,
+    "title": "Judas",
+    "media_type": "Text",
+    "index_reference": "65000000",
+    "language": "por",
+    "content": "<p><strong>O que é o livro de</strong> <strong>Judas?</strong></p><ul><li><p>O livro de Judas é uma carta do irmão de Jesus, Judas.</p></li><li><p>Pensa-se que Judas escreveu isso por volta do ano 65 d.C.</p></li></ul><p><strong>Para quem foi escrito Judas?</strong></p><ul><li><p>Não se sabe exatamente para quem Judas foi escrito. Pensa-se que foi para crentes judeus.</p></li><li><p>As cartas de 2 Pedro e Judas são semelhantes em muitos aspectos. Judas pode ter escrito para os mesmos crentes mencionados em 2 Pedro. Eles estavam no território romano agora conhecido como Turquia.</p></li><li><p>Os seguidores de Jesus reconhecem que Judas compartilha a verdade sobre Jesus. É para todas as pessoas em todos os lugares.</p></li></ul><p><strong>Por que Judas foi escrito?</strong></p><ul><li><p>Para alertar os crentes sobre falsos mestres.</p></li><li><p>Para encorajar os crentes a se fortalecerem na fé.</p></li><li><p>Convidar os falsos mestres a se afastarem de seus pecados.</p></li></ul><p><strong>Ideias principais</strong></p><ul><li><p>Mantendo a verdadeira fé e recusando-se a acreditar em ensinamentos falsos.</p></li><li><p>Lembrando aos crentes que as pessoas ímpias serão destruídas.</p></li><li><p>Permanecendo no amor de Deus.</p></li></ul><p><strong>Esboço</strong></p><p><strong>Saudações (1.1–2).</strong></p><p><strong>Reconhecendo falsos mestres (1.3–19).</strong></p><p><strong>Permanecer juntos permanecendo no amor de Deus (1.20–23).</strong></p><p><strong>Louvor a Deus (1.24–25).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

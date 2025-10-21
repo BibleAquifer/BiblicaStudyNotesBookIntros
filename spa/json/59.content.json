@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499579,
+    "reference_id": 202745,
+    "title": "James",
+    "media_type": "Text",
+    "index_reference": "59000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es la carta de Santiago?</strong></p><ul><li><p>La epístola de Santiago es una carta del hermano de Jesús, Santiago.</p></li><li><p>Se cree que Santiago la escribió alrededor del año 49 d.C.</p></li></ul><p><strong>¿A quién fue dirigida la carta de Santiago?</strong></p><ul><li><p>No se sabe exactamente a quién fue dirigida la carta de Santiago. Se cree que fue a los creyentes judíos que vivían fuera de Israel. Santiago los llamó las doce tribus dispersas entre las naciones. Estos pueden haber sido creyentes judíos que escaparon de Jerusalén después de la muerte de Esteban.</p></li><li><p>Los seguidores de Jesús reconocen que Santiago comparte la verdad sobre Jesús. Es para todas las personas en todas partes.</p></li></ul><p><strong>¿Por qué se escribió la carta de Santiago?</strong></p><ul><li><p>Para animar a los creyentes a practicar una vida santa.</p></li><li><p>Compartir sabiduría que ayude a los creyentes a vivir santamente.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Poniendo la fe en acción.</p></li><li><p>Siendo probado y tentado.</p></li><li><p>Siguiendo la sabiduría de Dios en lugar de la sabiduría del diablo.</p></li><li><p>Personas ricas y personas pobres.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Saludos (1:1).</strong></p><p><strong>Enfrentando problemas (1:2–18).</strong></p><p><strong>Escuchar la palabra de Dios y hacer lo que dice (1:19 – 2:26).</strong></p><p><strong>El poder de las palabras (3:1–12).</strong></p><p><strong>Sabiduría y ser humilde (3:13 – 4:17).</strong></p><p><strong>Ser justo y paciente (5:1–11).</strong></p><p><strong>Palabras poderosas y oraciones (5:12–20).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

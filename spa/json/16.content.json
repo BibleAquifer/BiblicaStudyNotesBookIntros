@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499602,
+    "reference_id": 202768,
+    "title": "Nehemías",
+    "media_type": "Text",
+    "index_reference": "16000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es el libro de Nehemías?</strong></p><ul><li><p>El libro de Nehemías es un relato de la historia judía cuando el gobierno persa gobernaba. Estos eventos ocurrieron entre los años 445 y 430 a.C. Las historias sobre estos eventos se transmitieron dentro de las familias judías durante cientos de años.</p></li><li><p>Se cree que Nehemías escribió parte de este relato. Se cree que Esdras escribió otras partes.</p></li><li><p>Otras partes fueron escritas por otros judíos.</p></li><li><p>Los libros de Esdras y Nehemías eran un solo libro cuando se escribieron por primera vez. Más tarde se dividieron en dos libros.</p></li></ul><p><strong>¿Para quién fue escrito este libro?</strong></p><ul><li><p>Para los judíos que habían regresado a Judá. Habían vivido en el exilio en Babilonia durante muchos años.</p></li></ul><p><strong>¿Por qué se escribió Nehemías?</strong></p><ul><li><p>Para continuar la historia de los judíos que regresaron a Judá desde Babilonia.</p></li><li><p>Para tener un relato de cómo se reconstruyó el muro alrededor de Jerusalén.</p></li><li><p>Como un registro de los judíos que acordaron seguir el pacto del Monte Sinaí.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Los judíos trabajaron juntos para reconstruir el muro de Jerusalén.</p></li><li><p>Las personas que no adoraban a Dios fielmente se opusieron a Nehemías y a los constructores.</p></li><li><p>El pueblo de Dios se comprometió una vez más a ser fiel al pacto del Monte Sinaí.</p></li><li><p>Nehemías oraba constantemente y trabajaba arduamente para ayudar al pueblo de Dios a serle fiel.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Reconstrucción del muro de Jerusalén (1:1 – 7:3).</strong></p><p><strong>La comunidad judía en Jerusalén (7:4 – 13:31).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16001001",
+          "end_ref_usfm": "NEH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

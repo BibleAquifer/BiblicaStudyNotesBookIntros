@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499038,
+    "reference_id": 202729,
+    "title": "John",
+    "media_type": "Text",
+    "index_reference": "43000000",
+    "language": "eng",
+    "content": "<p><strong>What is the book of John?</strong></p><ul><li><p>The Gospel of John is a collection of stories about Jesus. It includes Jesus’ words and teachings. The stories and teachings were passed down by Jesus’ followers who lived and worked with him.</p></li><li><p>John told his gospel story in a new and different way from the other gospel writers. Yet the stories and teachings recorded by John agree with the gospels of Matthew, Mark and Luke.</p></li><li><p>It’s thought that John wrote his gospel down between the years AD 85 and 90.</p></li></ul><p><strong>Who was John written for?</strong></p><ul><li><p>For Jewish and Gentile believers who lived throughout the lands controlled by the Roman government.</p></li><li><p>For people who didn’t know who Jesus is.</p></li><li><p>Followers of Jesus recognise that John’s gospel shares the truth about Jesus. It’s for all people everywhere.</p></li></ul><p><strong>Why was John written?</strong></p><ul><li><p>To help believers throughout Roman lands understand more about Jesus and follow him faithfully.</p></li><li><p>To help people who didn’t know about Jesus to believe that he is the Messiah and God’s Son.</p></li><li><p>To invite everyone to receive the gift of eternal life from Jesus.</p></li></ul><p><strong>Main ideas</strong></p><ul><li><p>Jesus as the Word of God, the Messiah and the Son of God.</p></li><li><p>The seven I am statements.</p></li><li><p>The seven signs Jesus did that show he is the Messiah.</p></li><li><p>The seven witnesses to Jesus.</p></li></ul><p><strong>Outline</strong></p><p><strong>The Word became a human being (1:1–18).</strong></p><p><strong>The beginning of Jesus&apos; work and service (1:19–51).</strong></p><p><strong>Jesus teaches in public and performs seven signs (2 – 11).</strong></p><p><strong>The last week of Jesus’ life (12 – 19).</strong></p><p><strong>Jesus is raised from the dead (20).</strong></p><p><strong>Jesus spends time with the disciples (21).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001001",
+          "end_ref_usfm": "JHN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499264,
+    "reference_id": 202755,
+    "title": "Lévitique",
+    "media_type": "Text",
+    "index_reference": "03000000",
+    "language": "fra",
+    "content": "<p><strong>Qu&apos;est-ce que le livre du Lévitique&nbsp;?</strong></p><ul><li><p>Le livre du Lévitique est un récit de certaines parties de l&apos;histoire d&apos;Israël. Le Lévitique est écrit comme une collection de nombreuses lois et de quelques histoires. Dieu a donné ces lois à Moïse et au peuple d&apos;Israël.</p></li><li><p>On pense que c&apos;est Moïse qui a écrit certaines de ces lois et de ces histoires. On pense qu&apos;il les a écrites entre 1450 et 1410 av. J.-C.</p></li><li><p>Les autres histoires et lois du Lévitique ont été écrites par d&apos;autres Israélites.</p></li><li><p>Ces lois et ces histoires ont été passées d&apos;une génération à l&apos;autre dans des familles israélites et juives pendant des centaines d&apos;années. </p></li></ul><p><strong>Pour qui ce livre a-t-il été écrit&nbsp;?</strong></p><ul><li><p>Le Lévitique a été écrit pour le peuple d&apos;Israël.</p></li></ul><p><strong>Pourquoi le Lévitique a-t-il été écrit&nbsp;?</strong></p><ul><li><p>Le Lévitique est un écrit des lois de Dieu pour les Israélites. Ces lois font partie de l&apos;alliance de Dieu avec eux. Elles enseignent comment rendre un culte à Dieu et comment vivre selon sa volonté.</p></li><li><p>Le Lévitique explique les bénédictions et les malédictions de l&apos;alliance du mont Sinaï.</p></li><li><p>Le Lévitique explique le travail de la lignée de Lévi. En hébreu, «&nbsp;Lévitique&nbsp;» veut dire «&nbsp;à propos des Lévites&nbsp;». Leur travail doit guider les Israélites dans le culte de Dieu.</p></li></ul><p><strong>Idées principales</strong></p><ul><li><p>Instructions pour les offrandes et les sacrifices</p></li><li><p>Pratiques qui font la différence entre Israël et les autres nations</p></li><li><p>Règles pour les prêtres et travail spécial des prêtres</p></li></ul><p><strong>Grandes lignes</strong></p><p><strong>Lois sur les offrandes et les sacrifices (1&nbsp;–&nbsp;7)</strong></p><p><strong>Les prêtres commencent à servir le Seigneur (8&nbsp;–&nbsp;10)</strong></p><p><strong>Lois sur la pureté (11 – 15)</strong></p><p><strong>Jour des Expiations ou jour du paiement des péchés (16)</strong></p><p><strong>Lois sur la sainteté (17&nbsp;–&nbsp;27)</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03001001",
+          "start_ref_usfm": "LEV 1:1",
+          "end_ref": "03001001",
+          "end_ref_usfm": "LEV 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

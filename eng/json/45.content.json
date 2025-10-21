@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499040,
+    "reference_id": 202731,
+    "title": "Romans",
+    "media_type": "Text",
+    "index_reference": "45000000",
+    "language": "eng",
+    "content": "<p><strong>What is the</strong> <strong>book of</strong> <strong>Romans?</strong></p><ul><li><p>The book of Romans is a letter from Paul. Paul spoke out loud what he wanted to say in his letters. Tertius was the secretary who wrote this letter down.</p></li><li><p>It’s thought that Paul wrote this letter from Corinth at the end of his third journey. It’s thought that he wrote it around the year AD 57.</p></li></ul><p><strong>Who was Romans written to?</strong></p><ul><li><p>To the believers in the city of Rome. Some were Jews but most were Gentiles.</p></li><li><p>Followers of Jesus recognise that Romans shares the truth about Jesus. It’s for all people everywhere.</p></li></ul><p><strong>Why was Romans written?</strong></p><ul><li><p>To tell the believers in Rome who Paul was and to ask for their help. Paul hoped the church in Rome would support him on his journey to Spain. Paul planned to share the message about Jesus in Spain.</p></li><li><p>To help the believers in Rome with problems they were having with one another. Jewish and Gentile believers disagreed over laws about food and holy days.</p></li></ul><p><strong>Main ideas</strong></p><ul><li><p>The good news about Jesus.</p></li><li><p>God’s desire for a relationship of deep love and peace with all people.</p></li><li><p>God’s power to save Jews and Gentiles and to make them right with himself.</p></li><li><p>Believing in Jesus leads to obeying God and showing love to others.</p></li></ul><p><strong>Outline</strong></p><p><strong>Greetings (1:1–15).</strong></p><p><strong>What the good news is (1:16–17).</strong></p><p><strong>Why all people need to be saved (1:18 – 3:20).</strong></p><p><strong>People are made right with God by having faith in Jesus (3:21 – 5:21).</strong></p><p><strong>Living under the control of the Holy Spirit (6 – 8).</strong></p><p><strong>God’s relationship with Israel (9 – 11).</strong></p><p><strong>Living the way God wants people to live (12:1 – 15:13).</strong></p><p><strong>Paul’s work and his plans to travel (15:14–33).</strong></p><p><strong>Paul greets certain believers and says goodbye (16).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45001001",
+          "start_ref_usfm": "ROM 1:1",
+          "end_ref": "45001001",
+          "end_ref_usfm": "ROM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

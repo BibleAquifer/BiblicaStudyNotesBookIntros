@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499069,
+    "reference_id": 202760,
+    "title": "Ruth",
+    "media_type": "Text",
+    "index_reference": "08000000",
+    "language": "eng",
+    "content": "<p><strong>What is the book of Ruth?</strong></p><ul><li><p>The book of Ruth is a story from the time of the judges. It’s thought that the events took place between the years 1375 and 1050 BC. The story was passed down within Israelite and Jewish families for hundreds of years.</p></li><li><p>It’s thought that the prophet Samuel may have written down parts of the story.</p></li><li><p>Others were written down by other Israelites.</p></li></ul><p><strong>Who was this book written for?</strong></p><ul><li><p>For the people of Israel.</p></li></ul><p><strong>Why was Ruth written?</strong></p><ul><li><p>To record God’s faithful love and kindness to Naomi and Ruth.</p></li><li><p>To record a story about the family that King David came from.</p></li><li><p>To show how God provides for and cares for those who trust in him. This includes the Israelites and all people everywhere.</p></li></ul><p><strong>Main ideas</strong></p><ul><li><p>Ruth, Boaz and God showed faithful love and kindness.</p></li><li><p>The family protector was responsibile to help family members who were in need.</p></li><li><p>Ruth was an outsider and King David came from her family line.</p></li></ul><p><strong>Outline</strong></p><p><strong>Naomi returns to Bethlehem from Moab (1).</strong></p><p><strong>Ruth gathers corn in Boaz’s fields (2).</strong></p><p><strong>Ruth asks Boaz to make her his wife (3).</strong></p><p><strong>Ruth marries Boaz and has a son (4:1–17).</strong></p><p><strong>The family line from Perez to David (4:18–22).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499537,
+    "reference_id": 202769,
+    "title": "Ester",
+    "media_type": "Text",
+    "index_reference": "17000000",
+    "language": "por",
+    "content": "<p><strong>O que é o livro de Ester?</strong></p><ul><li><p>O livro de Ester é uma história da história judaica. Os eventos ocorreram durante o tempo em que o governo persa governava. Isso foi entre os anos 486 e 465 a.C. Esta história foi transmitida dentro das famílias judaicas por centenas de anos.</p></li><li><p>Acredita-se que Mordecai escreveu esta história.</p></li></ul><p><strong>Para quem este livro foi escrito?</strong></p><ul><li><p>Para os judeus que viviam no reino da Pérsia e todos os judeus depois deles.</p></li></ul><p><strong>Por que o livro de Ester foi escrito?</strong></p><ul><li><p>Como um registro dos judeus que viviam no reino persa.</p></li><li><p>Para explicar como a Festa de Purim começou.</p></li></ul><p><strong>Ideias principais</strong></p><ul><li><p>Os inimigos dos judeus queriam destruí-los completamente.</p></li><li><p>Os judeus foram resgatados desses inimigos.</p></li><li><p>A Festa de Purim honrou e celebrou o momento em que os judeus foram resgatados.</p></li></ul><p><strong>Esboço</strong></p><p><strong>Ester torna-se rainha do reino persa (1–2).</strong></p><p><strong>Planos malignos de Hamã contra Mordecai e os judeus (3–4).</strong></p><p><strong>O plano sábio e astuto de Ester (5–7).</strong></p><p><strong>Os judeus são resgatados (8–10).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001001",
+          "end_ref_usfm": "EST 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499584,
+    "reference_id": 202750,
+    "title": "3 Juan",
+    "media_type": "Text",
+    "index_reference": "64000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es tercer el libro de Juan?</strong></p><ul><li><p>El tercer libro de Juan es una carta. La carta no dice quién fue el escritor. Se piensa que el apóstol Juan la escribió. La forma en que está escrita la carta es muy similar al primero y segundo libro de Juan.</p></li><li><p>Se cree que Juan escribió esta carta alrededor del año 90 d.C.</p></li><li><p>El Nuevo Testamento incluye tres cartas que se cree fueron escritas por Juan. Esta es la tercera carta.</p></li></ul><p><strong>¿A quién fue escrito 3 Juan?</strong></p><ul><li><p>A un creyente llamado Gayo. Se cree que Gayo era un líder de la iglesia en el área de Éfeso.</p></li><li><p>Los seguidores de Jesús reconocen que el tercer libro de Juan comparte la verdad sobre Jesús. Es para todas las personas en todas partes.</p></li></ul><p><strong>¿Por qué se escribió el tercer libro de Juan?</strong></p><ul><li><p>Pedir a Gayo que ayude a algunos creyentes que estaban viajando.</p></li><li><p>Advertir a Gayo para que no sea como otro líder de la iglesia llamado Diótrefes.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Permanecer fieles a la verdad sobre Jesús.</p></li><li><p>Servir a otros creyentes y trabajar junto con ellos.</p></li><li><p>Hacer el bien.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Saludos (1:1–2).</strong></p><p><strong>Juan anima a Gayo (1:3–8).</strong></p><p><strong>Juan advierte contra Diótrefes (1:9–11).</strong></p><p><strong>El buen ejemplo de Demetrio (1:12).</strong></p><p><strong>Saludos finales (1:13–15).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "64001001",
+          "start_ref_usfm": "3JN 1:1",
+          "end_ref": "64001001",
+          "end_ref_usfm": "3JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

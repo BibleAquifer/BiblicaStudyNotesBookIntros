@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499618,
+    "reference_id": 202784,
+    "title": "Jonás",
+    "media_type": "Text",
+    "index_reference": "32000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es el libro de Jonás?</strong></p><ul><li><p>Jonás es un libro de los profetas de Israel. Muestra cuán lleno de misericordia es Dios. Lo hace a través de una historia sobre el profeta Jonás y los asirios de Nínive.</p></li><li><p>La historia de Jonás ocurrió mientras el gobierno asirio era fuerte y gobernaba sobre muchas naciones.</p></li><li><p>No se sabe cuándo sirvió Jonás como profeta. Fue antes de que el rey Jeroboam II dejara de gobernar el reino del norte. Gobernó desde alrededor del año 793 hasta alrededor del año 753 a.C.</p></li><li><p>No se sabe quién escribió esta historia.</p></li></ul><p><strong>¿Para quién fue escrito este libro?</strong></p><ul><li><p>Para la gente del reino del norte de Israel.</p></li></ul><p><strong>¿Por qué se escribió Jonás?</strong></p><ul><li><p>Para dar un ejemplo de personas externas mostrando respeto por Dios.</p></li><li><p>Para dar un ejemplo de personas que cambian sus caminos después de escuchar un mensaje de juicio.</p></li><li><p>Para mostrar que Dios ama a todos los grupos de personas y todo lo que ha creado.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Dios está enojado por las cosas malas y pecaminosas que todas las personas hacen.</p></li><li><p>Dios está lleno de amor y misericordia hacia todas las personas. Esto incluye a las personas de la línea familiar de Jacob y a todos los demás.</p></li><li><p>Dios quiere que todas las personas se aparten del mal y sigan su camino para vivir.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Jonás desobedece las instrucciones de Dios (1).</strong></p><p><strong>Jonás ora (2).</strong></p><p><strong>Jonás obedece las instrucciones de Dios (3).</strong></p><p><strong>La ira de Jonás (4).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "32001001",
+          "start_ref_usfm": "JON 1:1",
+          "end_ref": "32001001",
+          "end_ref_usfm": "JON 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499576,
+    "reference_id": 202742,
+    "title": "Tito",
+    "media_type": "Text",
+    "index_reference": "56000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es la carta a Tito?</strong></p><ul><li><p>La carta a Tito es una carta de Pablo.</p></li><li><p>Se cree que Pablo lo escribió alrededor del año 64 d.C.</p></li></ul><p><strong>¿Para quién fue escrita la carta a Tito?</strong></p><ul><li><p>A Tito mientras trabajaba y servía en las iglesias de Creta.</p></li><li><p>Los seguidores de Jesús reconocen que Tito comparte la verdad sobre Jesús. Es para todas las personas en todas partes.</p></li></ul><p><strong>¿Por qué se escribió la carta a Tito?</strong></p><ul><li><p>Enseñar a Tito cómo dirigir las iglesias en Creta.</p></li><li><p>Dar instrucciones claras sobre cómo elegir líderes de la iglesia y cómo deben ser.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Cómo las buenas nuevas sobre Jesús cambian la vida de las personas y la forma en que actúan.</p></li><li><p>Organizar las iglesias en Creta.</p></li><li><p>Tratar con personas que enseñan cosas que no son ciertas.</p></li><li><p>Vida santa y hacer el bien.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Saludos (1:1–4).</strong></p><p><strong>Líderes de la iglesia en Creta (1:5–9).</strong></p><p><strong>El problema de los falsos maestros (1:10–16).</strong></p><p><strong>Familias en Creta (2).</strong></p><p><strong>La bondad de Dios y hacer el bien a los demás (3:1–11).</strong></p><p><strong>Saludos finales (3:12–15).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "56001001",
+          "start_ref_usfm": "TIT 1:1",
+          "end_ref": "56001001",
+          "end_ref_usfm": "TIT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499617,
+    "reference_id": 202783,
+    "title": "Abdías",
+    "media_type": "Text",
+    "index_reference": "31000000",
+    "language": "spa",
+    "content": "<p><strong>¿Qué es el libro de</strong> <strong>Abdías?</strong></p><ul><li><p>Abdías es un libro de los profetas de Israel. Es una colección de mensajes de Dios que Abdías pronunció.</p></li><li><p>La mayoría de los mensajes eran sobre la gente de Edom.</p></li><li><p>No se sabe de qué pueblo era Abdías ni quién era su familia. No se sabe cuándo pronunció estos mensajes. Se cree que los pronunció después de que Jerusalén fuera destruida por los babilonios. Eso ocurrió en el año 586 a.C.</p></li><li><p>Los mensajes son sobre un tiempo de juicio contra Edom. Son sobre un tiempo de bendición para el pueblo de Dios.</p></li><li><p>Los mensajes fueron escritos como poemas.</p></li><li><p>Se cree que Abdías escribió estos mensajes.</p></li></ul><p><strong>¿Para quién fue escrito este libro?</strong></p><ul><li><p>Para la gente del reino del sur de Judá.</p></li></ul><p><strong>¿Por qué se escribió Abdías?</strong></p><ul><li><p>Para mostrar la ira de Dios contra Edom y otras naciones. Estas naciones actuaron con orgullo y trataron mal a los demás.</p></li><li><p>Para animar a la gente de la línea familiar de Jacob. Dios traería juicio contra aquellos que los trataron mal. Dios estaría presente con ellos y gobernaría como Rey.</p></li></ul><p><strong>Ideas principales</strong></p><ul><li><p>Dios juzgará a todas las personas que tratan mal a los demás.</p></li><li><p>El día del Señor es un tiempo de juicio para algunos. Es un tiempo de bendición para otros.</p></li><li><p>Dios un día gobernará plenamente como Rey sobre todas las naciones y todas las personas.</p></li></ul><p><strong>Estructura</strong></p><p><strong>Mensajes del juicio sobre Edom y todas las naciones (1:1–16).</strong></p><p><strong>Mensajes del esperanza sobre el reino de Dios (1:17–21).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "31001001",
+          "start_ref_usfm": "OBA 1:1",
+          "end_ref": "31001001",
+          "end_ref_usfm": "OBA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
