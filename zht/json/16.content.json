@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499211,
+    "reference_id": 202768,
+    "title": "尼希米記",
+    "media_type": "Text",
+    "index_reference": "16000000",
+    "language": "zht",
+    "content": "<p><strong>尼希米記是一卷什麼樣的書？</strong></p><ul><li><p>尼希米記是猶太人在波斯統治時期的歷史記述。這些事件發生在公元前445至430年間，關於這些事件的故事在猶太家庭中流傳了數百年。</p></li><li><p>一般認為尼希米記錄了這段歷史的一部分，而以斯拉則記錄了其它部分。</p></li><li><p>尼希米記的其它部分則由其他的猶太人所記錄。</p></li><li><p>以斯拉記和尼希米記最初是一卷書，後來被分為兩卷。</p></li></ul><p><strong>這卷書為誰而寫？</strong></p><ul><li><p>寫給從被擄歸回猶大的猶太人。</p></li></ul><p><strong>尼希米記為何而寫？</strong></p><ul><li><p>為了繼續記載從巴比倫被擄歸回猶大的猶太人的故事。</p></li><li><p>為了記述耶路撒冷城牆重建的過程。</p></li><li><p>為了記錄猶太人同意再次遵守西奈山之約。</p></li></ul><p><strong>主要思想</strong></p><ul><li><p>猶太人齊心協力重建耶路撒冷的城牆。</p></li><li><p>那些不忠心敬拜神的人反對尼希米和其他建造者。</p></li><li><p>神的百姓再次承諾要忠於西奈山之約。</p></li><li><p>尼希米不斷地禱告並努力幫助神的百姓忠於神。</p></li></ul><p><strong>大綱</strong></p><p><strong>重建耶路撒冷的城牆（1:1－7:3）。</strong></p><p><strong>耶路撒冷的猶太群體（7:4－13:31）。</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16001001",
+          "end_ref_usfm": "NEH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

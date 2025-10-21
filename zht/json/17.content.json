@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 499212,
+    "reference_id": 202769,
+    "title": "以斯帖記",
+    "media_type": "Text",
+    "index_reference": "17000000",
+    "language": "zht",
+    "content": "<p><strong>以斯帖記是一卷什麼樣的書？</strong></p><ul><li><p>以斯帖記是猶太歷史中的一個故事。這些事件發生在波斯統治期間，約公元前486年至465年間。這個故事在猶太家庭中流傳了數百年。</p></li><li><p>一般認為是末底改記錄了這個故事。</p></li></ul><p><strong>這卷書為誰而寫？</strong></p><ul><li><p>寫給居住在波斯王國的猶太人及所有後來的猶太人。</p></li></ul><p><strong>以斯帖記為何而寫？</strong></p><ul><li><p>為了記錄猶太人在波斯王國中的生活。</p></li><li><p>為了解釋普珥日的起源。</p></li></ul><p><strong>主要思想</strong></p><ul><li><p>猶太人的敵人企圖徹底消滅猶太人。</p></li><li><p>猶太人從這些敵人中被拯救。</p></li><li><p>以普珥日紀念並慶祝猶太人被拯救的時刻。</p></li></ul><p><strong>大綱</strong></p><p><strong>以斯帖成為波斯王國的王后（1－2章）。</strong></p><p><strong>哈曼對末底改和猶太人的邪惡計劃（3－4章）。</strong></p><p><strong>以斯帖的智慧和巧妙計劃（5－7章）。</strong></p><p><strong>猶太人被拯救（8－10章）。</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001001",
+          "end_ref_usfm": "EST 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
