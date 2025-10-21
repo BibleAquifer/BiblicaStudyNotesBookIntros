@@ -48,7 +48,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-21T11:00:08.234713"
+      "dateCreated": "2025-10-21T14:47:04.701684"
     },
     "idAuthorities": {
       "aquifer": {
@@ -62,7 +62,7 @@
       "primary": {
         "aquifer": {
           "BiblicaStudyNotesBookIntros": {
-            "timestamp": "2025-10-21T11:00:08.234713"
+            "timestamp": "2025-10-21T14:47:04.701684"
           }
         }
       },
