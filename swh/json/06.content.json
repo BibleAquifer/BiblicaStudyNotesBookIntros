@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574102,
+    "reference_id": 202758,
+    "title": "Yoshua",
+    "media_type": "Text",
+    "index_reference": "06000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha Yoshua ni nini?</strong></p><ul><li><p>Kitabu cha Yoshua ni simulizi ya matukio katika historia ya Israeli. Kimeandikwa kama mkusanyiko wa hadithi. Hizi zilipitishwa ndani ya familia za Waisraeli na Wayahudi kwa miaka mingi.</p></li><li><p>Inadhaniwa kwamba Yoshua aliandika baadhi ya hadithi hizi karibu mwaka wa 1370  Kabla ya Kristo (KK).</p></li><li><p>Hadithi nyingine ziliandikwa na Waisraeli wengine.</p></li></ul><p><strong>Kitabu hiki kiliandikiwa nani?</strong></p><ul><li><p>Watu wa Israeli.</p></li></ul><p><strong>Kwa nini kitabu cha Yoshua kiliandikwa?</strong></p><ul><li><p>Kuonyesha jinsi makabila 12 yalivyokuja kuishi Kanaani. Hii ilikuwa wakati Yoshua alipokuwa kiongozi.</p></li><li><p>Kurekodi matendo makuu ya Mungu ya kufukuza mataifa yaliyokuwa Kanaani. Hivi ndivyo Mungu alivyotimiza ahadi yake ya kutoa ardhi kwa ukoo wa Abrahamu.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Mungu alileta hukumu dhidi ya Wakanaani.</p></li><li><p>Mungu alitimiza ahadi zake za kuwapa ardhi watoto wa Abrahamu, Isaka na Yakobo.</p></li><li><p>Waisraeli walijitolea tena kushika agano la Mlima Sinai.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Kuingia Kanaani (1:1 – 5:12).</strong></p><p><strong>Hukumu ya Mungu dhidi ya makundi ya watu katika Kanaani (5:13 − 12:24).</strong></p><p><strong>Ardhi iligawanywa kati ya Waisraeli (13 – 22).</strong></p><p><strong>Maneno ya mwisho ya Yoshua na kifo chake (23 – 24).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001001",
+          "end_ref_usfm": "JOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

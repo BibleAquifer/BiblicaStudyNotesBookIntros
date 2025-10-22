@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574095,
+    "reference_id": 202751,
+    "title": "Yuda",
+    "media_type": "Text",
+    "index_reference": "65000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha</strong> <strong>Yuda ni nini?</strong></p><ul><li><p>Kitabu cha Yuda ni barua kutoka kwa ndugu yake Yesu, Yuda.</p></li><li><p>Inadhaniwa kwamba Yuda alichaandika karibu mwaka wa 65 Baada ya Kristo (BK).</p></li></ul><p><strong>Kitabu cha Yuda kiliandikiwa nani?</strong></p><ul><li><p>Haijulikani hasa kitabu cha Yuda kiliandikiwa nani. Inadhaniwa kuwa ilikuwa kwa waumini wa Kiyahudi.</p></li><li><p>Barua za 2 Petro na Yuda zinafanana kwa njia nyingi. Yuda huenda alikuwa akiandika kwa waumini wale wale waliotajwa katika 2 Petro. Walikuwa katika eneo la Kirumi ambalo sasa linajulikana kama Uturuki.</p></li><li><p>Wafuasi wa Yesu wanatambua kwamba Yuda anashiriki ukweli kuhusu Yesu. Ni kwa ajili ya watu wote kila mahali.</p></li></ul><p><strong>Kwa nini kitabu cha Yuda kiliandikwa?</strong></p><ul><li><p>Kutahadharisha waumini kuhusu walimu wa uongo.</p></li><li><p>Kuhimiza waumini kukua na kuwa na nguvu katika imani.</p></li><li><p>Kuwakaribisha walimu wa uongo kugeuka kutoka kwa dhambi zao.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Kushikilia imani ya kweli na kukataa kuamini mafundisho ambayo ni ya uongo.</p></li><li><p>Kuwakumbusha waumini kwamba watu wasiomcha Mungu wataangamizwa.</p></li><li><p>Kubaki katika upendo wa Mungu.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Salamu (1:1–2).</strong></p><p><strong>Kuwatambua walimu wa uongo (1:3–19).</strong></p><p><strong>Kukaa pamoja kwa kubaki katika upendo wa Mungu (1:20–23).</strong></p><p><strong>Sifa kwa Mungu (1:24–25).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

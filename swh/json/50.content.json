@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574080,
+    "reference_id": 202736,
+    "title": "Wafilipi",
+    "media_type": "Text",
+    "index_reference": "50000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha Wafilipi ni nini?</strong></p><ul><li><p>Kitabu cha Wafilipi ni barua kutoka kwa Paulo. Timotheo alimsaidia Paulo kuiandika.</p></li><li><p>Paulo alikuwa gerezani alipoandika barua hii. Inadhaniwa aliandika mwaka wa 61 Baada ya Kristo (BK)</p></li></ul><p><strong>Kitabu cha Wafilipi kiliandikiwa nani?</strong></p><ul><li><p>Waumini katika mji wa Filipi. Wengine walikuwa Wayahudi lakini wengi walikuwa Mataifa.</p></li><li><p>Barua ilisomwa kwa sauti katika makanisa yote ya eneo la Filipi.</p></li><li><p>Wafuasi wa Yesu wanatambua kwamba kitabu cha Wafilipi kinashiriki ukweli kuhusu Yesu. Ni kwa ajili ya watu wote kila mahali.</p></li></ul><p><strong>Kwanini Kitabu cha Wafilipi kiliandikwa?</strong></p><ul><li><p>Kuwashukuru waumini wa Filipi kwa pesa walizomtumia Paulo kupitia Epafrodito.</p></li><li><p>Kuwajulisha waumini wa Filipi kuhusu hali ya Paulo alipokuwa gerezani.</p></li><li><p>Kupinga walimu ambao walikuwa wakifundisha mambo ambayo hayakuwa ya kweli.</p></li><li><p>Epafrodito alikuwa mgonjwa alipokuwa akitembelea na kumsaidia Paulo. Alipopona, Paulo alimtuma kurudi Filipi na barua hii.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Furaha katika kumtumikia Yesu.</p></li><li><p>Kumilikiwa na Yesu.</p></li><li><p>Kufuata mfano wa Yesu kwa kuishi.</p></li><li><p>Kukataa mafundisho ambayo si ya kweli.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Salamu (1:1–11).</strong></p><p><strong>Paulo anasambaza Habari Njema akiwa gerezani (1:12–30).</strong></p><p><strong>Kufuata mfano wa Yesu (2:1–18).</strong></p><p><strong>Maelezo kuhusu Timotheo na Epafrodito (2:19–30).</strong></p><p><strong>Onyo kuhusu mafundisho yasiyo ya kweli (Sura ya 3)</strong></p><p><strong>Kuishi na Amani na furaha ya Mungu (4:1–9).</strong></p><p><strong>Paulo anawashukuru Wafilipi kwa zawadi zao (4:10–20).</strong></p><p><strong>Salamu za mwisho (4:21–23).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

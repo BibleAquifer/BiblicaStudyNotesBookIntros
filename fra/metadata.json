@@ -28,7 +28,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "BiblicaStudyNotesBookIntros",
-    "date_created": "2025-10-21",
+    "date_created": "2025-10-22",
     "language": "fra",
     "localizations": [
       "eng",
@@ -48,7 +48,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-21T14:47:04.097535"
+      "dateCreated": "2025-10-22T11:01:16.033390"
     },
     "idAuthorities": {
       "aquifer": {
@@ -62,7 +62,7 @@
       "primary": {
         "aquifer": {
           "BiblicaStudyNotesBookIntros": {
-            "timestamp": "2025-10-21T14:47:04.097535"
+            "timestamp": "2025-10-22T11:01:16.033390"
           }
         }
       },

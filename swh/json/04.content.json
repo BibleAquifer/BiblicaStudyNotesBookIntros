@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574100,
+    "reference_id": 202756,
+    "title": "Hesabu",
+    "media_type": "Text",
+    "index_reference": "04000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha Hesabu ni nini?</strong></p><ul><li><p>Hesabu ni simulizi ya matukio katika historia ya Israeli. Imeandikwa kama mkusanyiko wa hadithi na sheria. Zilipitishwa ndani ya familia za Waisraeli na Wayahudi kwa miaka mingi. Mungu alizungumza sheria kwa Mose na watu wa Israeli.</p></li><li><p>Inadhaniwa kwamba Mose aliandika baadhi ya hadithi na sheria hizi. Inadhaniwa kwamba aliandika kati ya miaka 1450 na 1410 Kabla ya Kristo (KK).</p></li><li><p>Zingine Ziliandikwa na Waisraeli wengine.</p></li></ul><p><strong>Kitabu hiki kiliandikiwa nani?</strong></p><ul><li><p>Watu wa Israeli.</p></li></ul><p><strong>Kwa nini kitabu cha Hesabu kiliandikwa?</strong></p><ul><li><p>Kurekodi safari ya Waisraeli kutoka Mlima Sinai hadi mpaka wa Kanaani.</p></li><li><p>Kurekodi zaidi ya sheria za Mungu kwa Waisraeli.</p></li><li><p>Kurekodi orodha za watu ambao walihesabiwa.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Ukoo wa familia ya Yakobo ulikuwa umekua mkubwa sana.</p></li><li><p>Waisraeli waliteseka walipomwasi Mungu na kusema dhidi yake.</p></li><li><p>Mungu aliwasamehe Waisraeli. Alikuwa na uvumilivu nao na aliwapatia mahitaji yao.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Waisraeli wanajiandaa kuondoka Mlima Sinai (1 – 10).</strong></p><p><strong>Waisraeli wanazungumza dhidi ya Mungu na Mose (11 – 12).</strong></p><p><strong>Waisraeli wanakataa kuingia Kanaani (13 – 14).</strong></p><p><strong>Kutangatanga jangwani (15 – 19).</strong></p><p><strong>Kuandamana kutoka Kadeshi hadi Uwanja wa Moabu (20 – 21).</strong></p><p><strong>Waisraeli wanajiandaa kuingia Kanaani (22 – 36).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04001001",
+          "start_ref_usfm": "NUM 1:1",
+          "end_ref": "04001001",
+          "end_ref_usfm": "NUM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

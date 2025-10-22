@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574094,
+    "reference_id": 202750,
+    "title": "3 Yohana",
+    "media_type": "Text",
+    "index_reference": "64000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha 3 Yohana ni nini?</strong></p><ul><li><p>Kitabu cha 3 Yohana ni barua. Barua hiyo haijasema ni nani mwandishi. Inadhaniwa kuwa mtume Yohana aliandika. Njia ambayo barua imeandikwa ni kama 1 Yohana na 2 Yohana.</p></li><li><p>Inadhaniwa kwamba Yohana aliandika barua hii karibu na mwaka wa  90 Baada ya Kristo (BK).</p></li><li><p>Agano Jipya linajumuisha barua tatu zinazodhaniwa kuandikwa na Yohana. Hii ni barua ya tatu.</p></li></ul><p><strong>Kitabu cha 3 Yohana kiliandikiwa nani?</strong></p><ul><li><p>Muumini anayeitwa Gayo. Inadhaniwa kuwa Gayo alikuwa kiongozi wa kanisa katika eneo la Efeso.</p></li><li><p>Wafuasi wa Yesu wanatambua kwamba 3 Yohana inashiriki ukweli kuhusu Yesu. Ni kwa ajili ya watu wote kila mahali.</p></li></ul><p><strong>Kwa nini  kitabu cha 3 Yohana kiliandikwa?</strong></p><ul><li><p>Kumuomba Gayo kusaidia waumini fulani waliokuwa wakisafiri.</p></li><li><p>Kumwonya Gayo asifanane na kiongozi mwingine wa kanisa aitwaye Diotrefe.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Kubaki Mwaminifu kwa ukweli kuhusu Yesu.</p></li><li><p>Kuhudumia waumini wengine na kufanya kazi pamoja nao.</p></li><li><p>Kufanya vizuri.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Salamu (1:1–2).</strong></p><p><strong>Yohana anamhimiza Gayo (1:3–8).</strong></p><p><strong>Yohana anaonya dhidi ya Diotrefe (1:9–11).</strong></p><p><strong>Mfano mzuri wa Demetrio (1:12).</strong></p><p><strong>Salamu za mwisho (1:13–15).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "64001001",
+          "start_ref_usfm": "3JN 1:1",
+          "end_ref": "64001001",
+          "end_ref_usfm": "3JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

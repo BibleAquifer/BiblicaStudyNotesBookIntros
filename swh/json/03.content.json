@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574099,
+    "reference_id": 202755,
+    "title": "Walawi",
+    "media_type": "Text",
+    "index_reference": "03000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha Walawi ni nini?</strong></p><ul><li><p>Walawi ni simulizi ya matukio katika historia ya Israeli. Imenakiliwa kama mkusanyiko wa sheria nyingi na hadithi kadhaa. Zilipitishwa ndani ya familia za Waisraeli na Wayahudi kwa miaka mingi. Mungu alizungumza sheria hizo kwa Mose na watu wa Israeli.</p></li><li><p>Inadhaniwa kwamba Mose aliandika baadhi ya sheria na hadithi hizi. Inadhaniwa kwamba aliandika kati ya miaka 1450 na 1410 Kabla ya Kristo (KK).</p></li><li><p>Zingine ziliandikwa na Waisraeli wengine.</p></li></ul><p><strong>Kitabu hiki kiliandikiwa nani?</strong></p><ul><li><p>Watu wa Israeli.</p></li></ul><p><strong>Kwa nini Kitabu cha Walawi kiliandikwa?</strong></p><ul><li><p>Kurekodi sheria ambazo Mungu aliwapa Waisraeli. Sheria hizi zilikuwa sehemu ya agano la Mungu nao. Zilikuwa kuhusu kumwabudu Mungu na kuishi kulingana na njia ya Mungu.</p></li><li><p>Kuelezea baraka na laana za agano la Mlima Sinai.</p></li><li><p>Kuelezea kazi ya ukoo wa Walawi. Katika lugha ya Kiebrania Walawi inamaanisha kuhusu Walawi. Kazi yao ilikuwa kuwaongoza Waisraeli katika kumwabudu Mungu.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Maagizo kwa ajili ya sadaka na dhabihu.</p></li><li><p>Mazoea yanayowatofautisha Waisraeli na mataifa mengine.</p></li><li><p>Sheria za makuhani na kazi yao maalum.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Sheria kuhusu sadaka na dhabihu (1 – 7).</strong></p><p><strong>Makuhani wanaanza kumtumikia Bwana (8 – 10).</strong></p><p><strong>Sheria kuhusu kuwa safi na mtakatifu(11 – 15).</strong></p><p><strong>Siku ya upatanisho au siku ambayo dhambi inalipiwa (16).</strong></p><p><strong>Sheria kuhusu kuwa mtakatifu (17 – 27).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03001001",
+          "start_ref_usfm": "LEV 1:1",
+          "end_ref": "03001001",
+          "end_ref_usfm": "LEV 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

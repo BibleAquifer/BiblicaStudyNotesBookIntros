@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574107,
+    "reference_id": 202763,
+    "title": "1 Wafalme",
+    "media_type": "Text",
+    "index_reference": "11000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha 1 Wafalme ni nini?</strong></p><ul><li><p>1 Wafalme ni akaunti ya historia ya Israeli. Matukio haya yalitokea kati ya miaka 970 na 850 Kabla ya Kristo (KK). Hadithi kuhusu matukio haya zilipitishwa kwa miaka mingi. Zilipitishwa ndani ya familia za Waisraeli na Wayahudi.</p></li><li><p>Inadhaniwa kwamba hadithi hizi ziliandikwa na Waisraeli. Inadhaniwa kwamba ziliandikwa karibu mwaka wa 560 KK.</p></li><li><p>1 Wafalme na 2 Wafalme vilikuwa kitabu kimoja wakati vilipoandikwa mara ya kwanza. Baadaye viligawanywa kuwa vitabu viwili.</p></li></ul><p><strong>Kitabu hiki kiliandikiwa nani?</strong></p><ul><li><p>Watu wa Israeli.</p></li></ul><p><strong>Kwa nini kitabu cha 1 Wafalme kiliandikwa?</strong></p><ul><li><p>Kama rekodi ya utawala wa Solomoni na sheria za wafalme baada yake.</p></li><li><p>Kama rekodi ya jinsi taifa la Israeli lilivyogawanyika kuwa falme mbili.</p></li><li><p>Kuonyesha jinsi wafalme wa Israeli, manabii na watu walivyokuwa waaminifu kwa Mungu au walivyomwasi Mungu.</p></li><li><p>1 Samweli, 2 Samweli, 1 Wafalme na 2 Wafalme ni sehemu nne za hadithi hiyo hiyo. Pamoja zinaandika zaidi ya miaka 400 ya historia ya Israeli.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Mungu alitumia hekalu kama alivyotumia hema takatifu.</p></li><li><p>Wafalme wengi katika ukoo wa Daudi hawakuwa waaminifu kwa agano la Mungu na Daudi. Mungu alibaki mwaminifu kwa maagano yake yote na watu wake.</p></li><li><p>Manabii walipinga watawala ambao hawakuwa waaminifu kwa Mungu.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Utawala wa Solomoni kama mfalme (1 &shy;– 11).</strong></p><p><strong>Israeli inagawanyika kuwa falme mbili chini ya Rehoboamu na Yeroboamu (12 &shy;– 14).</strong></p><p><strong>Wafalme wa ufalme wa kaskazini na wafalme wa ufalme wa kusini (15 – 22).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11001001",
+          "end_ref_usfm": "1KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
