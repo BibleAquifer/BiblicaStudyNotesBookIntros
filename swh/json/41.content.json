@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574071,
+    "reference_id": 202727,
+    "title": "Marko",
+    "media_type": "Text",
+    "index_reference": "41000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha Marko ni nini?</strong></p><ul><li><p>Injili ya Marko ni mkusanyiko wa hadithi kuhusu Yesu. Inajumuisha maneno na mafundisho ya Yesu. Hadithi na mafundisho yalipitishwa na wafuasi wa Yesu waliokuwa wakiishi na kufanya kazi naye. Injili ya Marko inategemea kile Petro alichosema kuhusu maisha na kazi ya Yesu.</p></li><li><p>Marko aliandika hadithi na mafundisho haya. Inadhaniwa kwamba aliandika kati ya miaka ya 55 na 65 Baada ya Kristo (BK). Inadhaniwa kwamba alikuwa Rumi alipoyaandika.</p></li></ul><p><strong>Kitabu cha Marko kiliandikiwa nani?</strong></p><ul><li><p>Mataifa ambao hawakujua Yesu alikuwa nani.</p></li><li><p>Waumini wa Mataifa ambao waliishi katika ardhi zilizodhibitiwa na serikali ya Kirumi.</p></li><li><p>Wafuasi wa Yesu wanatambua kwamba injili ya Marko inashiriki ukweli kuhusu Yesu. Ni kwa ajili ya watu wote kila mahali.</p></li></ul><p><strong>Kwa nini kitabu cha Marko kliandikwa?</strong></p><ul><li><p>Kushiriki ujumbe kuhusu Yesu na Mataifa.</p></li><li><p>Kuhamasisha waumini wa Mataifa ambao walikuwa wakitendewa vibaya na serikali ya Kirumi.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Simulizi ya maisha ya Yesu, ufalme wa Mungu na mpango wa Mungu wa kuokoa dunia.</p></li><li><p>Kazi ya Yesu kama mtumishi wa Mungu.</p></li><li><p>Kazi ya Yesu kama mwalimu, mponyaji na mhubiri aliyefanya miujiza.</p></li><li><p>Mateso, kifo na ufufuo wa Yesu.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Kujiandaa kwa kazi ya Yesu (1:1–13).</strong></p><p><strong>Yesu anafanya kazi na kutumikia Galilaya (1:14 – 3:35).</strong></p><p><strong>Hadithi Yesu anazosimulia (4:1–34).</strong></p><p><strong>Yesu anaponya watu wengi (4:35 – 5:43).</strong></p><p><strong>Yesu anafanya kazi na kuhudumu zaidi ya Galilaya (6:1 – 8:26).</strong></p><p><strong>Safari ya Yesu kwenda Yerusalemu (8:27 – 10:52).</strong></p><p><strong>Yesu katika Yerusalemu na kifo chake (11 – 15).</strong></p><p><strong>Ufufuo wa Yesu na maagizo ya mwisho kwa wanafunzi wake (16).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001001",
+          "end_ref_usfm": "MRK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

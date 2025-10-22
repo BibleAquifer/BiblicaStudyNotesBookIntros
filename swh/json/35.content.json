@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574131,
+    "reference_id": 202787,
+    "title": "Habakuki",
+    "media_type": "Text",
+    "index_reference": "35000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha</strong> <strong>Habakuki ni nini?</strong></p><ul><li><p>Habakuki ni kitabu cha manabii wa Israeli. Ni mkusanyiko wa maombi ya Habakuki na majibu ya Mungu kwake.</p></li><li><p>Maombi ya Habakuki yalihusu Mungu na ufalme wa kusini. Majibu ya Mungu yalihusu Wababeli.</p></li><li><p>Haijulikani ni mji gani Habakuki alitoka au familia yake ilikuwa nani. Habakuki alizungumza maombi haya kabla ya Wababeli kuharibu Yerusalemu mwaka wa 586 Kabla ya Kristo (KK).</p></li><li><p>Maombi ya Habakuki na majibu ya Mungu yaliandikwa kama mashairi.</p></li><li><p>Inadhaniwa kwamba Habakuki aliyaandika.</p></li></ul><p><strong>Kitabu hiki kiliandikiwa nani?</strong></p><ul><li><p>watu wa ufalme wa kusini wa Yuda.</p></li></ul><p><strong>Kwa nini Habakuki aliandikwa?</strong></p><ul><li><p>Kuhimiza watu wa Mungu wanapomuomba Mungu. Wanapaswa kuwa waaminifu kabisa kwa Mungu. Wanapaswa kusubiri Mungu ajibu. Wanapaswa kuamini kwamba Mungu atafanya kile alichoahidi kufanya.</p></li><li><p>Kukumbusha watu wa ufalme wa kusini kwamba Mungu angeleta hukumu dhidi yao. Angeleta hukumu dhidi ya wale waliowatendea wengine vibaya.</p></li><li><p>Kuhamasisha makundi ya watu yanayotendewa vibaya na serikali zenye nguvu kama Babuloni. Mungu anaahidi kuwaokoa na kuleta hukumu dhidi ya Babuloni.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Mungu anataka watu wake wamuombe. Anajibu watu wake.</p></li><li><p>Mungu ni Mtawala mwenye mamlaka kamili juu ya viumbe vyote. Hii inajumuisha wanadamu.</p></li><li><p>Mungu analeta hukumu dhidi ya watu wake na makundi yote ya watu kwa kuwatendea wengine vibaya.</p></li><li><p>Mungu huokoa watu wanaomwamini kuwa Mwokozi wao.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Maombi ya kwanza ya Habakuki na jibu la Mungu (1:1–11).</strong></p><p><strong>Maombi ya Pili ya Habakuki na Jibu la Mungu (1:12 – 2:20).</strong></p><p><strong>Maombi ya tatu ya Habakuki (3).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "35001001",
+          "start_ref_usfm": "HAB 1:1",
+          "end_ref": "35001001",
+          "end_ref_usfm": "HAB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

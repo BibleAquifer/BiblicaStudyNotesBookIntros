@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574130,
+    "reference_id": 202786,
+    "title": "Nahumu",
+    "media_type": "Text",
+    "index_reference": "34000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha Nahumu ni nini?</strong></p><ul><li><p>Nahumu ni kitabu cha manabii wa Israeli. Ni mkusanyiko wa ujumbe kutoka kwa Mungu ambao Nahumu alizungumza. Aliuzungumza baada ya Mungu kumpa maono.</p></li><li><p>Jumla ya ujumbe nyingi zilihusu watu na mfalme wa Ashuru.</p></li><li><p>Haijulikani mji wa Nahumu ulikuwa wapi au familia yake ilikuwa nani. Inadhaniwa kwamba Nahumu alizungumza ujumbe huu baada ya 663 Kabla ya Kristo (KK). Hapo ndipo serikali ya Ashuru ilipochukua udhibiti wa mji wa Thebes. Nahumu alizungumza ujumbe huu kabla ya serikali ya Babeli kuchukua udhibiti wa serikali ya Ashuru. Hilo lilitokea karibu mwaka wa 612 KK.</p></li><li><p>Ujumbe uliandikwa kama mashairi.</p></li><li><p>Inadhaniwa kwamba Nahumu aliandika ujumbe huu.</p></li></ul><p><strong>Kitabu hiki kiliandikiwa nani?</strong></p><ul><li><p>watu wa ufalme wa kusini wa Yuda.</p></li></ul><p><strong>Kwa nini kitabu cha Nahumu kiliandikwa?</strong></p><ul><li><p>Kuelezea hukumu ambayo Mungu angeleta juu ya Ashuru.</p></li><li><p>Kuwakumbusha watu wa ufalme wa kusini kwamba Mungu aliwalinda.</p></li><li><p>Kuwafariji watu wa ufalme wa kusini na Habari Njema. Hukumu ya Mungu dhidi ya Ashuru ilikuwa Habari Njema kwa kila mtu ambaye Ashuru aliwatendea vibaya.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Mungu ana nguvu. Ana mamlaka kamili juu ya kila kitu alichoumba na juu ya serikali zote za wanadamu.</p></li><li><p>Mungu ana hasira na dhambi na uovu. Anazuia watu na serikali zinazofanya mambo maovu. Anawazuia kwa kuleta hukumu dhidi yao.</p></li><li><p>Mungu ni mwema. Mungu huwatunza wale wanaomwamini.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Nahumu anaelezea Mungu (1:1–8).</strong></p><p><strong>Amri ambayo Mungu alitoa kuhusu Ninawi (1:9–15).</strong></p><p><strong>Maono ya Nahumu kuhusu uharibifu wa Ninawi (2 – 3).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001001",
+          "start_ref_usfm": "NAM 1:1",
+          "end_ref": "34001001",
+          "end_ref_usfm": "NAM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574078,
+    "reference_id": 202734,
+    "title": "Wagalatia",
+    "media_type": "Text",
+    "index_reference": "48000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha</strong> <strong>Wagalatia ni nini?</strong></p><ul><li><p>Kitabu cha Wagalatia ni barua kutoka kwa Paulo.</p></li><li><p>Inadhaniwa kwamba Paulo aliandika karibu mwaka wa  49 Baada ya Kristo (BK)</p></li></ul><p><strong>Kitabu cha Wagalatia kiliandikiwa nani?</strong></p><ul><li><p>Waumini wa Galatia. Wengine walikuwa Wayahudi lakini wengi walikuwa Mataifa.</p></li><li><p>Eneo la Galatia lilijumuisha miji ya Antiokia huko Pisidia, Ikonio, Listra na Derbe. Paulo alisaidia kuanzisha makanisa huko katika safari yake ya kwanza. Barua ilisomwa kwa sauti katika makanisa yote eneo la Galatia.</p></li><li><p>Wafuasi wa Yesu wanatambua kwamba Wagalatia wanashiriki ukweli kuhusu Yesu. Ni kwa ajili ya watu wote kila mahali.</p></li></ul><p><strong>Kwa nini Kitabu cha Wagalatia kiliandikwa?</strong></p><ul><li><p>Kusaidia waumini wa Galatia kuelewa wazi Habari Njema kuhusu Yesu. Hii ingewasaidia kuamini mafundisho ya kweli pekee kuhusu Habari Njema.</p></li><li><p>Kuonyesha waumini wa Galatia jinsi ya kuishi pamoja kama familia ya Mungu.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Jinsi Paulo alijifunza Habari Njema kuhusu Yesu na kuwa mtume.</p></li><li><p>Watu kufanywa haki  na Mungu kwa kuwa na IMANI katika Yesu.</p></li><li><p>Sheria na uhuru ambao waumini wanayo.</p></li><li><p>Roho Mtakatifu na matunda ya Roho.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Salamu, (1:1–5)</strong></p><p><strong>Wagalatia waliacha Habari Njema, (1:6–10)</strong></p><p><strong>Jinsi Paulo alijifunza Habari Njema kuhusu Yesu na kuwa mtume (1:11 – 2:21).</strong></p><p><strong>Sheria na Habari Njema, Sura ya (3 – 4).</strong></p><p><strong>Maagizo kuhusu jinsi ya kuishi kama Mkristo (5:1 – 6:10)</strong></p><p><strong>Kusema kwaheri (6:11–18).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "48001001",
+          "start_ref_usfm": "GAL 1:1",
+          "end_ref": "48001001",
+          "end_ref_usfm": "GAL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

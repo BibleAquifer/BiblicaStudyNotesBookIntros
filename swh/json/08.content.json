@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 574104,
+    "reference_id": 202760,
+    "title": "Ruthu",
+    "media_type": "Text",
+    "index_reference": "08000000",
+    "language": "swh",
+    "content": "<p><strong>Kitabu cha Ruthu ni nini?</strong></p><ul><li><p>Kitabu cha Ruthu ni hadithi kutoka wakati wa Waamuzi. Inadhaniwa kuwa matukio yalitokea kati ya miaka 1375 na 1050 Kbala ya Kristo (KK). Hadithi hii ilipitishwa ndani ya familia za Waisraeli na Wayahudi kwa miaka mingi.</p></li><li><p>Inadhaniwa kwamba nabii Samweli huenda aliandika sehemu za hadithi hiyo.</p></li><li><p>Zingine Ziliandikwa na Waisraeli wengine.</p></li></ul><p><strong>Kitabu hiki kiliandikiwa nani?</strong></p><ul><li><p>Watu wa Israeli.</p></li></ul><p><strong>Kwanini  kitabu cha Ruthu kiliandikwa?</strong></p><ul><li><p>Kurekodi upendo na wema wa Mungu Mwaminifu kwa Naomi na Ruthu.</p></li><li><p>Kurekodi hadithi kuhusu familia ambayo Mfalme Daudi alitoka.</p></li><li><p>Kuonyesha jinsi Mungu anavyowapatia na kuwatunza wale wanaomwamini. Hii inajumuisha Waisraeli na watu wote kila mahali.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Ruthu, Boazi na Mungu walionyesha Mwaminifu upendo na wema.</p></li><li><p>Mlinzi wa familia alikuwa na jukumu la kusaidia wanafamilia ambao walikuwa na uhitaji.</p></li><li><p>Ruthu alikuwa mgeni na Mfalme Daudi alitoka kwenye ukoo wake.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Naomi anarudi Bethlehemu kutoka Moabu (1).</strong></p><p><strong>Ruthu anakusanya mahindi katika mashamba ya Boazi (2).</strong></p><p><strong>Ruthu anamwomba Boazi amfanye mke wake (3).</strong></p><p><strong>Ruthu anaolewa na Boazi na anapata mwana (4:1–17).</strong></p><p><strong>Ukoo wa Peresi hadi Daudi (4:18–22).</strong></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
