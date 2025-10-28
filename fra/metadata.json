@@ -4,6 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Study Notes - Book Intros (Biblica)",
     "aquifer_name": "Study Notes - Book Intros (Biblica)",
+    "version": "1.0.0",
     "collection_title": "Study Notes - Book Intros (Biblica)",
     "short_name": "BSNI",
     "license_info": {
@@ -28,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "BiblicaStudyNotesBookIntros",
-    "date_created": "2025-10-22",
+    "date_created": "2025-10-27",
     "language": "fra",
     "localizations": [
       "eng",
@@ -48,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-22T11:01:16.033390"
+      "dateCreated": "2025-10-27T17:20:10.721027"
     },
     "idAuthorities": {
       "aquifer": {
@@ -62,7 +63,7 @@
       "primary": {
         "aquifer": {
           "BiblicaStudyNotesBookIntros": {
-            "timestamp": "2025-10-22T11:01:16.033390"
+            "timestamp": "2025-10-27T17:20:10.721027"
           }
         }
       },
@@ -94,924 +95,462 @@
     "ingredients": {
       "json/01.content.json": {
         "mimeType": "text/json",
-        "size": 2716,
+        "size": 2741,
         "scope": {
           "GEN": []
         }
       },
       "json/02.content.json": {
         "mimeType": "text/json",
-        "size": 2423,
+        "size": 2448,
         "scope": {
           "EXO": []
         }
       },
       "json/03.content.json": {
         "mimeType": "text/json",
-        "size": 2739,
+        "size": 2764,
         "scope": {
           "LEV": []
         }
       },
       "json/04.content.json": {
         "mimeType": "text/json",
-        "size": 2663,
+        "size": 2688,
         "scope": {
           "NUM": []
         }
       },
       "json/05.content.json": {
         "mimeType": "text/json",
-        "size": 3072,
+        "size": 3097,
         "scope": {
           "DEU": []
         }
       },
       "json/06.content.json": {
         "mimeType": "text/json",
-        "size": 2298,
+        "size": 2323,
         "scope": {
           "JOS": []
         }
       },
       "json/07.content.json": {
         "mimeType": "text/json",
-        "size": 2622,
+        "size": 2647,
         "scope": {
           "JDG": []
         }
       },
       "json/08.content.json": {
         "mimeType": "text/json",
-        "size": 2336,
+        "size": 2361,
         "scope": {
           "RUT": []
         }
       },
       "json/09.content.json": {
         "mimeType": "text/json",
-        "size": 2480,
+        "size": 2505,
         "scope": {
           "1SA": []
         }
       },
       "json/10.content.json": {
         "mimeType": "text/json",
-        "size": 2611,
+        "size": 2636,
         "scope": {
           "2SA": []
         }
       },
       "json/11.content.json": {
         "mimeType": "text/json",
-        "size": 2532,
+        "size": 2557,
         "scope": {
           "1KI": []
         }
       },
       "json/12.content.json": {
         "mimeType": "text/json",
-        "size": 2464,
+        "size": 2489,
         "scope": {
           "2KI": []
         }
       },
       "json/13.content.json": {
         "mimeType": "text/json",
-        "size": 2693,
+        "size": 2718,
         "scope": {
           "1CH": []
         }
       },
       "json/14.content.json": {
         "mimeType": "text/json",
-        "size": 2713,
+        "size": 2738,
         "scope": {
           "2CH": []
         }
       },
       "json/15.content.json": {
         "mimeType": "text/json",
-        "size": 2527,
+        "size": 2552,
         "scope": {
           "EZR": []
         }
       },
       "json/16.content.json": {
         "mimeType": "text/json",
-        "size": 2549,
+        "size": 2574,
         "scope": {
           "NEH": []
         }
       },
       "json/17.content.json": {
         "mimeType": "text/json",
-        "size": 2052,
+        "size": 2077,
         "scope": {
           "EST": []
         }
       },
       "json/18.content.json": {
         "mimeType": "text/json",
-        "size": 2873,
+        "size": 2898,
         "scope": {
           "JOB": []
         }
       },
       "json/19.content.json": {
         "mimeType": "text/json",
-        "size": 8258,
+        "size": 8283,
         "scope": {
           "PSA": []
         }
       },
       "json/20.content.json": {
         "mimeType": "text/json",
-        "size": 3494,
+        "size": 3519,
         "scope": {
           "PRO": []
         }
       },
       "json/21.content.json": {
         "mimeType": "text/json",
-        "size": 3220,
+        "size": 3245,
         "scope": {
           "ECC": []
         }
       },
       "json/22.content.json": {
         "mimeType": "text/json",
-        "size": 3822,
+        "size": 3847,
         "scope": {
           "SNG": []
         }
       },
       "json/23.content.json": {
         "mimeType": "text/json",
-        "size": 3640,
+        "size": 3665,
         "scope": {
           "ISA": []
         }
       },
       "json/24.content.json": {
         "mimeType": "text/json",
-        "size": 3394,
+        "size": 3419,
         "scope": {
           "JER": []
         }
       },
       "json/25.content.json": {
         "mimeType": "text/json",
-        "size": 3212,
+        "size": 3237,
         "scope": {
           "LAM": []
         }
       },
       "json/26.content.json": {
         "mimeType": "text/json",
-        "size": 3208,
+        "size": 3233,
         "scope": {
           "EZK": []
         }
       },
       "json/27.content.json": {
         "mimeType": "text/json",
-        "size": 3114,
+        "size": 3139,
         "scope": {
           "DAN": []
         }
       },
       "json/28.content.json": {
         "mimeType": "text/json",
-        "size": 3186,
+        "size": 3211,
         "scope": {
           "HOS": []
         }
       },
       "json/29.content.json": {
         "mimeType": "text/json",
-        "size": 2770,
+        "size": 2795,
         "scope": {
           "JOL": []
         }
       },
       "json/30.content.json": {
         "mimeType": "text/json",
-        "size": 3103,
+        "size": 3128,
         "scope": {
           "AMO": []
         }
       },
       "json/31.content.json": {
         "mimeType": "text/json",
-        "size": 2528,
+        "size": 2553,
         "scope": {
           "OBA": []
         }
       },
       "json/32.content.json": {
         "mimeType": "text/json",
-        "size": 2369,
+        "size": 2394,
         "scope": {
           "JON": []
         }
       },
       "json/33.content.json": {
         "mimeType": "text/json",
-        "size": 3218,
+        "size": 3243,
         "scope": {
           "MIC": []
         }
       },
       "json/34.content.json": {
         "mimeType": "text/json",
-        "size": 2608,
+        "size": 2633,
         "scope": {
           "NAM": []
         }
       },
       "json/35.content.json": {
         "mimeType": "text/json",
-        "size": 2734,
+        "size": 2759,
         "scope": {
           "HAB": []
         }
       },
       "json/36.content.json": {
         "mimeType": "text/json",
-        "size": 2880,
+        "size": 2905,
         "scope": {
           "ZEP": []
         }
       },
       "json/37.content.json": {
         "mimeType": "text/json",
-        "size": 2856,
+        "size": 2881,
         "scope": {
           "HAG": []
         }
       },
       "json/38.content.json": {
         "mimeType": "text/json",
-        "size": 2935,
+        "size": 2960,
         "scope": {
           "ZEC": []
         }
       },
       "json/39.content.json": {
         "mimeType": "text/json",
-        "size": 2951,
+        "size": 2976,
         "scope": {
           "MAL": []
         }
       },
       "json/40.content.json": {
         "mimeType": "text/json",
-        "size": 3523,
+        "size": 3548,
         "scope": {
           "MAT": []
         }
       },
       "json/41.content.json": {
         "mimeType": "text/json",
-        "size": 3250,
+        "size": 3275,
         "scope": {
           "MRK": []
         }
       },
       "json/42.content.json": {
         "mimeType": "text/json",
-        "size": 3178,
+        "size": 3203,
         "scope": {
           "LUK": []
         }
       },
       "json/43.content.json": {
         "mimeType": "text/json",
-        "size": 3202,
+        "size": 3227,
         "scope": {
           "JHN": []
         }
       },
       "json/44.content.json": {
         "mimeType": "text/json",
-        "size": 3645,
+        "size": 3670,
         "scope": {
           "ACT": []
         }
       },
       "json/45.content.json": {
         "mimeType": "text/json",
-        "size": 3154,
+        "size": 3179,
         "scope": {
           "ROM": []
         }
       },
       "json/46.content.json": {
         "mimeType": "text/json",
-        "size": 2739,
+        "size": 2764,
         "scope": {
           "1CO": []
         }
       },
       "json/47.content.json": {
         "mimeType": "text/json",
-        "size": 3139,
+        "size": 3164,
         "scope": {
           "2CO": []
         }
       },
       "json/48.content.json": {
         "mimeType": "text/json",
-        "size": 2668,
+        "size": 2693,
         "scope": {
           "GAL": []
         }
       },
       "json/49.content.json": {
         "mimeType": "text/json",
-        "size": 3029,
+        "size": 3054,
         "scope": {
           "EPH": []
         }
       },
       "json/50.content.json": {
         "mimeType": "text/json",
-        "size": 2810,
+        "size": 2835,
         "scope": {
           "PHP": []
         }
       },
       "json/51.content.json": {
         "mimeType": "text/json",
-        "size": 2503,
+        "size": 2528,
         "scope": {
           "COL": []
         }
       },
       "json/52.content.json": {
         "mimeType": "text/json",
-        "size": 2787,
+        "size": 2812,
         "scope": {
           "1TH": []
         }
       },
       "json/53.content.json": {
         "mimeType": "text/json",
-        "size": 2288,
+        "size": 2313,
         "scope": {
           "2TH": []
         }
       },
       "json/54.content.json": {
         "mimeType": "text/json",
-        "size": 2514,
+        "size": 2539,
         "scope": {
           "1TI": []
         }
       },
       "json/55.content.json": {
         "mimeType": "text/json",
-        "size": 2353,
+        "size": 2378,
         "scope": {
           "2TI": []
         }
       },
       "json/56.content.json": {
         "mimeType": "text/json",
-        "size": 2144,
+        "size": 2169,
         "scope": {
           "TIT": []
         }
       },
       "json/57.content.json": {
         "mimeType": "text/json",
-        "size": 1938,
+        "size": 1963,
         "scope": {
           "PHM": []
         }
       },
       "json/58.content.json": {
         "mimeType": "text/json",
-        "size": 3199,
+        "size": 3224,
         "scope": {
           "HEB": []
         }
       },
       "json/59.content.json": {
         "mimeType": "text/json",
-        "size": 2308,
+        "size": 2333,
         "scope": {
           "JAS": []
         }
       },
       "json/60.content.json": {
         "mimeType": "text/json",
-        "size": 2530,
+        "size": 2555,
         "scope": {
           "1PE": []
         }
       },
       "json/61.content.json": {
         "mimeType": "text/json",
-        "size": 2784,
+        "size": 2809,
         "scope": {
           "2PE": []
         }
       },
       "json/62.content.json": {
         "mimeType": "text/json",
-        "size": 2732,
+        "size": 2757,
         "scope": {
           "1JN": []
         }
       },
       "json/63.content.json": {
         "mimeType": "text/json",
-        "size": 2585,
+        "size": 2610,
         "scope": {
           "2JN": []
         }
       },
       "json/64.content.json": {
         "mimeType": "text/json",
-        "size": 2323,
+        "size": 2348,
         "scope": {
           "3JN": []
         }
       },
       "json/65.content.json": {
         "mimeType": "text/json",
-        "size": 2369,
+        "size": 2394,
         "scope": {
           "JUD": []
         }
       },
       "json/66.content.json": {
         "mimeType": "text/json",
-        "size": 2881,
-        "scope": {
-          "REV": []
-        }
-      },
-      "md/01.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2274,
-        "scope": {
-          "GEN": []
-        }
-      },
-      "md/02.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2006,
-        "scope": {
-          "EXO": []
-        }
-      },
-      "md/03.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2335,
-        "scope": {
-          "LEV": []
-        }
-      },
-      "md/04.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2244,
-        "scope": {
-          "NUM": []
-        }
-      },
-      "md/05.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2676,
-        "scope": {
-          "DEU": []
-        }
-      },
-      "md/06.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1935,
-        "scope": {
-          "JOS": []
-        }
-      },
-      "md/07.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2276,
-        "scope": {
-          "JDG": []
-        }
-      },
-      "md/08.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1980,
-        "scope": {
-          "RUT": []
-        }
-      },
-      "md/09.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2129,
-        "scope": {
-          "1SA": []
-        }
-      },
-      "md/10.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2239,
-        "scope": {
-          "2SA": []
-        }
-      },
-      "md/11.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2190,
-        "scope": {
-          "1KI": []
-        }
-      },
-      "md/12.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2104,
-        "scope": {
-          "2KI": []
-        }
-      },
-      "md/13.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2346,
-        "scope": {
-          "1CH": []
-        }
-      },
-      "md/14.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2332,
-        "scope": {
-          "2CH": []
-        }
-      },
-      "md/15.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2149,
-        "scope": {
-          "EZR": []
-        }
-      },
-      "md/16.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2207,
-        "scope": {
-          "NEH": []
-        }
-      },
-      "md/17.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1732,
-        "scope": {
-          "EST": []
-        }
-      },
-      "md/18.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2441,
-        "scope": {
-          "JOB": []
-        }
-      },
-      "md/19.content.md": {
-        "mimeType": "text/markdown",
-        "size": 7308,
-        "scope": {
-          "PSA": []
-        }
-      },
-      "md/20.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3076,
-        "scope": {
-          "PRO": []
-        }
-      },
-      "md/21.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2769,
-        "scope": {
-          "ECC": []
-        }
-      },
-      "md/22.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3363,
-        "scope": {
-          "SNG": []
-        }
-      },
-      "md/23.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3126,
-        "scope": {
-          "ISA": []
-        }
-      },
-      "md/24.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2974,
-        "scope": {
-          "JER": []
-        }
-      },
-      "md/25.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2797,
-        "scope": {
-          "LAM": []
-        }
-      },
-      "md/26.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2786,
-        "scope": {
-          "EZK": []
-        }
-      },
-      "md/27.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2753,
-        "scope": {
-          "DAN": []
-        }
-      },
-      "md/28.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2731,
-        "scope": {
-          "HOS": []
-        }
-      },
-      "md/29.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2418,
-        "scope": {
-          "JOL": []
-        }
-      },
-      "md/30.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2712,
-        "scope": {
-          "AMO": []
-        }
-      },
-      "md/31.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2185,
-        "scope": {
-          "OBA": []
-        }
-      },
-      "md/32.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2046,
-        "scope": {
-          "JON": []
-        }
-      },
-      "md/33.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2820,
-        "scope": {
-          "MIC": []
-        }
-      },
-      "md/34.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2262,
-        "scope": {
-          "NAM": []
-        }
-      },
-      "md/35.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2370,
-        "scope": {
-          "HAB": []
-        }
-      },
-      "md/36.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2517,
-        "scope": {
-          "ZEP": []
-        }
-      },
-      "md/37.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2450,
-        "scope": {
-          "HAG": []
-        }
-      },
-      "md/38.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2552,
-        "scope": {
-          "ZEC": []
-        }
-      },
-      "md/39.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2584,
-        "scope": {
-          "MAL": []
-        }
-      },
-      "md/40.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2977,
-        "scope": {
-          "MAT": []
-        }
-      },
-      "md/41.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2792,
-        "scope": {
-          "MRK": []
-        }
-      },
-      "md/42.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2776,
-        "scope": {
-          "LUK": []
-        }
-      },
-      "md/43.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2735,
-        "scope": {
-          "JHN": []
-        }
-      },
-      "md/44.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3166,
-        "scope": {
-          "ACT": []
-        }
-      },
-      "md/45.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2728,
-        "scope": {
-          "ROM": []
-        }
-      },
-      "md/46.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2364,
-        "scope": {
-          "1CO": []
-        }
-      },
-      "md/47.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2695,
-        "scope": {
-          "2CO": []
-        }
-      },
-      "md/48.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2311,
-        "scope": {
-          "GAL": []
-        }
-      },
-      "md/49.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2577,
-        "scope": {
-          "EPH": []
-        }
-      },
-      "md/50.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2396,
-        "scope": {
-          "PHP": []
-        }
-      },
-      "md/51.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2144,
-        "scope": {
-          "COL": []
-        }
-      },
-      "md/52.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2448,
-        "scope": {
-          "1TH": []
-        }
-      },
-      "md/53.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2011,
-        "scope": {
-          "2TH": []
-        }
-      },
-      "md/54.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2152,
-        "scope": {
-          "1TI": []
-        }
-      },
-      "md/55.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2036,
-        "scope": {
-          "2TI": []
-        }
-      },
-      "md/56.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1808,
-        "scope": {
-          "TIT": []
-        }
-      },
-      "md/57.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1627,
-        "scope": {
-          "PHM": []
-        }
-      },
-      "md/58.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2765,
-        "scope": {
-          "HEB": []
-        }
-      },
-      "md/59.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1957,
-        "scope": {
-          "JAS": []
-        }
-      },
-      "md/60.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2196,
-        "scope": {
-          "1PE": []
-        }
-      },
-      "md/61.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2409,
-        "scope": {
-          "2PE": []
-        }
-      },
-      "md/62.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2354,
-        "scope": {
-          "1JN": []
-        }
-      },
-      "md/63.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2251,
-        "scope": {
-          "2JN": []
-        }
-      },
-      "md/64.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1998,
-        "scope": {
-          "3JN": []
-        }
-      },
-      "md/65.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2023,
-        "scope": {
-          "JUD": []
-        }
-      },
-      "md/66.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2425,
+        "size": 2906,
         "scope": {
           "REV": []
         }
