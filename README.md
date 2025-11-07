@@ -1,4 +1,4 @@
-# _Study Notes - Book Intros (Biblica)_ Aquifer Resource
+# _Biblica Study Notes (Book Intros)_ Aquifer Resource
 
 This repository (`BiblicaStudyNotesBookIntros`) contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
 
