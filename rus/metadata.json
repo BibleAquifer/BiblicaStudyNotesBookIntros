@@ -4,7 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Biblica Study Notes (Book Intros)",
     "aquifer_name": "Study Notes - Book Intros (Biblica)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Study Notes - Book Intros (Biblica)",
     "short_name": "BSNI",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "BiblicaStudyNotesBookIntros",
-    "date_created": "2025-11-06",
+    "date_created": "2025-11-17",
     "language": "rus",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-06T13:09:14.110540"
+      "dateCreated": "2025-11-17T09:28:48.792018"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "BiblicaStudyNotesBookIntros": {
-            "timestamp": "2025-11-06T13:09:14.110540"
+            "timestamp": "2025-11-17T09:28:48.792018"
           }
         }
       },
@@ -95,1388 +95,1190 @@
     "ingredients": {
       "json/01.content.json": {
         "mimeType": "text/json",
-        "size": 3372,
+        "size": 3401,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "Бытие"
+          ]
         }
       },
       "json/02.content.json": {
         "mimeType": "text/json",
-        "size": 2885,
+        "size": 2914,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "Исход"
+          ]
         }
       },
       "json/03.content.json": {
         "mimeType": "text/json",
-        "size": 3391,
+        "size": 3420,
         "scope": {
-          "LEV": []
+          "LEV": [
+            "Левит"
+          ]
         }
       },
       "json/04.content.json": {
         "mimeType": "text/json",
-        "size": 3126,
+        "size": 3155,
         "scope": {
-          "NUM": []
+          "NUM": [
+            "Числа"
+          ]
         }
       },
       "json/05.content.json": {
         "mimeType": "text/json",
-        "size": 4022,
+        "size": 4051,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "Второзаконие"
+          ]
         }
       },
       "json/06.content.json": {
         "mimeType": "text/json",
-        "size": 2997,
+        "size": 3026,
         "scope": {
-          "JOS": []
+          "JOS": [
+            "Книга Иисуса Навина"
+          ]
         }
       },
       "json/07.content.json": {
         "mimeType": "text/json",
-        "size": 3321,
+        "size": 3350,
         "scope": {
-          "JDG": []
+          "JDG": [
+            "Книга Судей"
+          ]
         }
       },
       "json/08.content.json": {
         "mimeType": "text/json",
-        "size": 2965,
+        "size": 2994,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "Книга Руфь"
+          ]
         }
       },
       "json/09.content.json": {
         "mimeType": "text/json",
-        "size": 3541,
+        "size": 3570,
         "scope": {
-          "1SA": []
+          "1SA": [
+            "Первая книга Царств"
+          ]
         }
       },
       "json/10.content.json": {
         "mimeType": "text/json",
-        "size": 3823,
+        "size": 3852,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "Вторая книга Царств"
+          ]
         }
       },
       "json/11.content.json": {
         "mimeType": "text/json",
-        "size": 3408,
+        "size": 3437,
         "scope": {
-          "1KI": []
+          "1KI": [
+            "Третья книга Царств"
+          ]
         }
       },
       "json/12.content.json": {
         "mimeType": "text/json",
-        "size": 3402,
+        "size": 3431,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "Четвёртая книга Царств"
+          ]
         }
       },
       "json/13.content.json": {
         "mimeType": "text/json",
-        "size": 3706,
+        "size": 3735,
         "scope": {
-          "1CH": []
+          "1CH": [
+            "Первая книга Паралипоменон"
+          ]
         }
       },
       "json/14.content.json": {
         "mimeType": "text/json",
-        "size": 3783,
+        "size": 3812,
         "scope": {
-          "2CH": []
+          "2CH": [
+            "Вторая книга Паралипоменон"
+          ]
         }
       },
       "json/15.content.json": {
         "mimeType": "text/json",
-        "size": 3241,
+        "size": 3270,
         "scope": {
-          "EZR": []
+          "EZR": [
+            "Книга Ездры"
+          ]
         }
       },
       "json/16.content.json": {
         "mimeType": "text/json",
-        "size": 3287,
+        "size": 3316,
         "scope": {
-          "NEH": []
+          "NEH": [
+            "Книга Неемии"
+          ]
         }
       },
       "json/17.content.json": {
         "mimeType": "text/json",
-        "size": 2496,
+        "size": 2525,
         "scope": {
-          "EST": []
+          "EST": [
+            "Книга Есфирь"
+          ]
         }
       },
       "json/18.content.json": {
         "mimeType": "text/json",
-        "size": 3488,
+        "size": 3517,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "Книга Иова"
+          ]
         }
       },
       "json/19.content.json": {
         "mimeType": "text/json",
-        "size": 10107,
+        "size": 10136,
         "scope": {
-          "PSA": []
+          "PSA": [
+            "Псалтирь"
+          ]
         }
       },
       "json/20.content.json": {
         "mimeType": "text/json",
-        "size": 4359,
+        "size": 4388,
         "scope": {
-          "PRO": []
+          "PRO": [
+            "Притчи"
+          ]
         }
       },
       "json/21.content.json": {
         "mimeType": "text/json",
-        "size": 4101,
+        "size": 4130,
         "scope": {
-          "ECC": []
+          "ECC": [
+            "Книга Екклесиаста"
+          ]
         }
       },
       "json/22.content.json": {
         "mimeType": "text/json",
-        "size": 5151,
+        "size": 5180,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "Песни Песней"
+          ]
         }
       },
       "json/23.content.json": {
         "mimeType": "text/json",
-        "size": 4845,
+        "size": 4874,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "Книга пророка Исаии"
+          ]
         }
       },
       "json/24.content.json": {
         "mimeType": "text/json",
-        "size": 4637,
+        "size": 4666,
         "scope": {
-          "JER": []
+          "JER": [
+            "Книга пророка Иеремии"
+          ]
         }
       },
       "json/25.content.json": {
         "mimeType": "text/json",
-        "size": 4145,
+        "size": 4174,
         "scope": {
-          "LAM": []
+          "LAM": [
+            "Плач Иеремии"
+          ]
         }
       },
       "json/26.content.json": {
         "mimeType": "text/json",
-        "size": 4447,
+        "size": 4476,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "Книга пророка Иезекииля"
+          ]
         }
       },
       "json/27.content.json": {
         "mimeType": "text/json",
-        "size": 4304,
+        "size": 4333,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "Книга пророка Даниила"
+          ]
         }
       },
       "json/28.content.json": {
         "mimeType": "text/json",
-        "size": 4140,
+        "size": 4169,
         "scope": {
-          "HOS": []
+          "HOS": [
+            "Книга пророка Осии"
+          ]
         }
       },
       "json/29.content.json": {
         "mimeType": "text/json",
-        "size": 3734,
+        "size": 3763,
         "scope": {
-          "JOL": []
+          "JOL": [
+            "Книга пророка Иоиля"
+          ]
         }
       },
       "json/30.content.json": {
         "mimeType": "text/json",
-        "size": 4342,
+        "size": 4371,
         "scope": {
-          "AMO": []
+          "AMO": [
+            "Книга пророка Амоса"
+          ]
         }
       },
       "json/31.content.json": {
         "mimeType": "text/json",
-        "size": 3471,
+        "size": 3500,
         "scope": {
-          "OBA": []
+          "OBA": [
+            "Книга пророка Авдия"
+          ]
         }
       },
       "json/32.content.json": {
         "mimeType": "text/json",
-        "size": 3109,
+        "size": 3138,
         "scope": {
-          "JON": []
+          "JON": [
+            "Книга пророка Ионы"
+          ]
         }
       },
       "json/33.content.json": {
         "mimeType": "text/json",
-        "size": 4446,
+        "size": 4475,
         "scope": {
-          "MIC": []
+          "MIC": [
+            "Книга пророка Михея"
+          ]
         }
       },
       "json/34.content.json": {
         "mimeType": "text/json",
-        "size": 3615,
+        "size": 3644,
         "scope": {
-          "NAM": []
+          "NAM": [
+            "Книга пророка Наума"
+          ]
         }
       },
       "json/35.content.json": {
         "mimeType": "text/json",
-        "size": 3720,
+        "size": 3749,
         "scope": {
-          "HAB": []
+          "HAB": [
+            "Книга пророка Аввакума"
+          ]
         }
       },
       "json/36.content.json": {
         "mimeType": "text/json",
-        "size": 3898,
+        "size": 3927,
         "scope": {
-          "ZEP": []
+          "ZEP": [
+            "Книга пророка Софонии"
+          ]
         }
       },
       "json/37.content.json": {
         "mimeType": "text/json",
-        "size": 3815,
+        "size": 3844,
         "scope": {
-          "HAG": []
+          "HAG": [
+            "Книга пророка Аггея"
+          ]
         }
       },
       "json/38.content.json": {
         "mimeType": "text/json",
-        "size": 3950,
+        "size": 3979,
         "scope": {
-          "ZEC": []
+          "ZEC": [
+            "Книга пророка Захарии"
+          ]
         }
       },
       "json/39.content.json": {
         "mimeType": "text/json",
-        "size": 3857,
+        "size": 3886,
         "scope": {
-          "MAL": []
+          "MAL": [
+            "Книга пророка Малахии"
+          ]
         }
       },
       "json/40.content.json": {
         "mimeType": "text/json",
-        "size": 4345,
+        "size": 4374,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "Евангелие от Матфея"
+          ]
         }
       },
       "json/41.content.json": {
         "mimeType": "text/json",
-        "size": 3727,
+        "size": 3756,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "Евангелие от Марка"
+          ]
         }
       },
       "json/42.content.json": {
         "mimeType": "text/json",
-        "size": 3577,
+        "size": 3606,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "Евангелие от Луки"
+          ]
         }
       },
       "json/43.content.json": {
         "mimeType": "text/json",
-        "size": 3642,
+        "size": 3671,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "Евангелие от Иоанна"
+          ]
         }
       },
       "json/44.content.json": {
         "mimeType": "text/json",
-        "size": 4551,
+        "size": 4580,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "Деяния святых апостолов"
+          ]
         }
       },
       "json/45.content.json": {
         "mimeType": "text/json",
-        "size": 4060,
+        "size": 4089,
         "scope": {
-          "ROM": []
+          "ROM": [
+            "Послание к Римлянам"
+          ]
         }
       },
       "json/46.content.json": {
         "mimeType": "text/json",
-        "size": 3401,
+        "size": 3430,
         "scope": {
-          "1CO": []
+          "1CO": [
+            "Первое послание к Коринфянам"
+          ]
         }
       },
       "json/47.content.json": {
         "mimeType": "text/json",
-        "size": 3918,
+        "size": 3947,
         "scope": {
-          "2CO": []
+          "2CO": [
+            "Второе послание к Коринфянам"
+          ]
         }
       },
       "json/48.content.json": {
         "mimeType": "text/json",
-        "size": 3285,
+        "size": 3314,
         "scope": {
-          "GAL": []
+          "GAL": [
+            "Послание к Галатам"
+          ]
         }
       },
       "json/49.content.json": {
         "mimeType": "text/json",
-        "size": 3724,
+        "size": 3753,
         "scope": {
-          "EPH": []
+          "EPH": [
+            "Послание к Ефесянам"
+          ]
         }
       },
       "json/50.content.json": {
         "mimeType": "text/json",
-        "size": 3597,
+        "size": 3626,
         "scope": {
-          "PHP": []
+          "PHP": [
+            "Послание к Филиппийцам"
+          ]
         }
       },
       "json/51.content.json": {
         "mimeType": "text/json",
-        "size": 3054,
+        "size": 3083,
         "scope": {
-          "COL": []
+          "COL": [
+            "Послание к Колоссянам"
+          ]
         }
       },
       "json/52.content.json": {
         "mimeType": "text/json",
-        "size": 3467,
+        "size": 3496,
         "scope": {
-          "1TH": []
+          "1TH": [
+            "Первое послание к Фессалоникийцам"
+          ]
         }
       },
       "json/53.content.json": {
         "mimeType": "text/json",
-        "size": 2961,
+        "size": 2990,
         "scope": {
-          "2TH": []
+          "2TH": [
+            "Второе послание к Фессалоникийцам"
+          ]
         }
       },
       "json/54.content.json": {
         "mimeType": "text/json",
-        "size": 3125,
+        "size": 3154,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "Первое послание к Тимофею"
+          ]
         }
       },
       "json/55.content.json": {
         "mimeType": "text/json",
-        "size": 2932,
+        "size": 2961,
         "scope": {
-          "2TI": []
+          "2TI": [
+            "Второе послание к Тимофею"
+          ]
         }
       },
       "json/56.content.json": {
         "mimeType": "text/json",
-        "size": 2596,
+        "size": 2625,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "Послание к Титу"
+          ]
         }
       },
       "json/57.content.json": {
         "mimeType": "text/json",
-        "size": 2339,
+        "size": 2368,
         "scope": {
-          "PHM": []
+          "PHM": [
+            "Послание к Филимону"
+          ]
         }
       },
       "json/58.content.json": {
         "mimeType": "text/json",
-        "size": 3993,
+        "size": 4022,
         "scope": {
-          "HEB": []
+          "HEB": [
+            "Послание к Евреям"
+          ]
         }
       },
       "json/59.content.json": {
         "mimeType": "text/json",
-        "size": 2970,
+        "size": 2999,
         "scope": {
-          "JAS": []
+          "JAS": [
+            "Послание Иакова"
+          ]
         }
       },
       "json/60.content.json": {
         "mimeType": "text/json",
-        "size": 3059,
+        "size": 3088,
         "scope": {
-          "1PE": []
+          "1PE": [
+            "Первое послание Петра"
+          ]
         }
       },
       "json/61.content.json": {
         "mimeType": "text/json",
-        "size": 3555,
+        "size": 3584,
         "scope": {
-          "2PE": []
+          "2PE": [
+            "Второе послание Петра"
+          ]
         }
       },
       "json/62.content.json": {
         "mimeType": "text/json",
-        "size": 3387,
+        "size": 3416,
         "scope": {
-          "1JN": []
+          "1JN": [
+            "Первое послание Иоанна"
+          ]
         }
       },
       "json/63.content.json": {
         "mimeType": "text/json",
-        "size": 3353,
+        "size": 3382,
         "scope": {
-          "2JN": []
+          "2JN": [
+            "Второе послание Иоанна"
+          ]
         }
       },
       "json/64.content.json": {
         "mimeType": "text/json",
-        "size": 2981,
+        "size": 3010,
         "scope": {
-          "3JN": []
+          "3JN": [
+            "Третье послание Иоанна"
+          ]
         }
       },
       "json/65.content.json": {
         "mimeType": "text/json",
-        "size": 2875,
+        "size": 2904,
         "scope": {
-          "JUD": []
+          "JUD": [
+            "Послание Иуды"
+          ]
         }
       },
       "json/66.content.json": {
         "mimeType": "text/json",
-        "size": 3655,
-        "scope": {
-          "REV": []
-        }
-      },
-      "md/01.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3057,
-        "scope": {
-          "GEN": []
-        }
-      },
-      "md/02.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2630,
-        "scope": {
-          "EXO": []
-        }
-      },
-      "md/03.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3095,
-        "scope": {
-          "LEV": []
-        }
-      },
-      "md/04.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2815,
-        "scope": {
-          "NUM": []
-        }
-      },
-      "md/05.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3744,
-        "scope": {
-          "DEU": []
-        }
-      },
-      "md/06.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2728,
-        "scope": {
-          "JOS": []
-        }
-      },
-      "md/07.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3039,
-        "scope": {
-          "JDG": []
-        }
-      },
-      "md/08.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2669,
-        "scope": {
-          "RUT": []
-        }
-      },
-      "md/09.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3262,
-        "scope": {
-          "1SA": []
-        }
-      },
-      "md/10.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3505,
-        "scope": {
-          "2SA": []
-        }
-      },
-      "md/11.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3124,
-        "scope": {
-          "1KI": []
-        }
-      },
-      "md/12.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3136,
-        "scope": {
-          "2KI": []
-        }
-      },
-      "md/13.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3443,
-        "scope": {
-          "1CH": []
-        }
-      },
-      "md/14.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3508,
-        "scope": {
-          "2CH": []
-        }
-      },
-      "md/15.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2967,
-        "scope": {
-          "EZR": []
-        }
-      },
-      "md/16.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3012,
-        "scope": {
-          "NEH": []
-        }
-      },
-      "md/17.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2239,
-        "scope": {
-          "EST": []
-        }
-      },
-      "md/18.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3142,
-        "scope": {
-          "JOB": []
-        }
-      },
-      "md/19.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9470,
-        "scope": {
-          "PSA": []
-        }
-      },
-      "md/20.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4036,
-        "scope": {
-          "PRO": []
-        }
-      },
-      "md/21.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3797,
-        "scope": {
-          "ECC": []
-        }
-      },
-      "md/22.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4860,
-        "scope": {
-          "SNG": []
-        }
-      },
-      "md/23.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4499,
-        "scope": {
-          "ISA": []
-        }
-      },
-      "md/24.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4278,
-        "scope": {
-          "JER": []
-        }
-      },
-      "md/25.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3799,
-        "scope": {
-          "LAM": []
-        }
-      },
-      "md/26.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4131,
-        "scope": {
-          "EZK": []
-        }
-      },
-      "md/27.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4042,
-        "scope": {
-          "DAN": []
-        }
-      },
-      "md/28.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3828,
-        "scope": {
-          "HOS": []
-        }
-      },
-      "md/29.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3394,
-        "scope": {
-          "JOL": []
-        }
-      },
-      "md/30.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4040,
-        "scope": {
-          "AMO": []
-        }
-      },
-      "md/31.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3183,
-        "scope": {
-          "OBA": []
-        }
-      },
-      "md/32.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2816,
-        "scope": {
-          "JON": []
-        }
-      },
-      "md/33.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4116,
-        "scope": {
-          "MIC": []
-        }
-      },
-      "md/34.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3325,
-        "scope": {
-          "NAM": []
-        }
-      },
-      "md/35.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3391,
-        "scope": {
-          "HAB": []
-        }
-      },
-      "md/36.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3580,
-        "scope": {
-          "ZEP": []
-        }
-      },
-      "md/37.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3528,
-        "scope": {
-          "HAG": []
-        }
-      },
-      "md/38.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3663,
-        "scope": {
-          "ZEC": []
-        }
-      },
-      "md/39.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3554,
-        "scope": {
-          "MAL": []
-        }
-      },
-      "md/40.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3928,
-        "scope": {
-          "MAT": []
-        }
-      },
-      "md/41.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3377,
-        "scope": {
-          "MRK": []
-        }
-      },
-      "md/42.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3229,
-        "scope": {
-          "LUK": []
-        }
-      },
-      "md/43.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3295,
-        "scope": {
-          "JHN": []
-        }
-      },
-      "md/44.content.md": {
-        "mimeType": "text/markdown",
-        "size": 4105,
-        "scope": {
-          "ACT": []
-        }
-      },
-      "md/45.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3677,
-        "scope": {
-          "ROM": []
-        }
-      },
-      "md/46.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3081,
-        "scope": {
-          "1CO": []
-        }
-      },
-      "md/47.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3561,
-        "scope": {
-          "2CO": []
-        }
-      },
-      "md/48.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2949,
-        "scope": {
-          "GAL": []
-        }
-      },
-      "md/49.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3375,
-        "scope": {
-          "EPH": []
-        }
-      },
-      "md/50.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3220,
-        "scope": {
-          "PHP": []
-        }
-      },
-      "md/51.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2719,
-        "scope": {
-          "COL": []
-        }
-      },
-      "md/52.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3135,
-        "scope": {
-          "1TH": []
-        }
-      },
-      "md/53.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2680,
-        "scope": {
-          "2TH": []
-        }
-      },
-      "md/54.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2787,
-        "scope": {
-          "1TI": []
-        }
-      },
-      "md/55.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2621,
-        "scope": {
-          "2TI": []
-        }
-      },
-      "md/56.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2285,
-        "scope": {
-          "TIT": []
-        }
-      },
-      "md/57.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2069,
-        "scope": {
-          "PHM": []
-        }
-      },
-      "md/58.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3606,
-        "scope": {
-          "HEB": []
-        }
-      },
-      "md/59.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2644,
-        "scope": {
-          "JAS": []
-        }
-      },
-      "md/60.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2751,
-        "scope": {
-          "1PE": []
-        }
-      },
-      "md/61.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3195,
-        "scope": {
-          "2PE": []
-        }
-      },
-      "md/62.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3051,
-        "scope": {
-          "1JN": []
-        }
-      },
-      "md/63.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3076,
-        "scope": {
-          "2JN": []
-        }
-      },
-      "md/64.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2685,
-        "scope": {
-          "3JN": []
-        }
-      },
-      "md/65.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2569,
-        "scope": {
-          "JUD": []
-        }
-      },
-      "md/66.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3301,
-        "scope": {
-          "REV": []
+        "size": 3684,
+        "scope": {
+          "REV": [
+            "Откровение апостола Иоанна Богослова"
+          ]
         }
       },
       "pdf/01.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175305,
+        "size": 185156,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "Бытие"
+          ]
         }
       },
       "pdf/02.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 172668,
+        "size": 182622,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "Исход"
+          ]
         }
       },
       "pdf/03.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 172823,
+        "size": 182673,
         "scope": {
-          "LEV": []
+          "LEV": [
+            "Левит"
+          ]
         }
       },
       "pdf/04.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 173012,
+        "size": 181330,
         "scope": {
-          "NUM": []
+          "NUM": [
+            "Числа"
+          ]
         }
       },
       "pdf/05.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174842,
+        "size": 187518,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "Второзаконие"
+          ]
         }
       },
       "pdf/06.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 177368,
+        "size": 185058,
         "scope": {
-          "JOS": []
+          "JOS": [
+            "Книга Иисуса Навина"
+          ]
         }
       },
       "pdf/07.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175865,
+        "size": 189209,
         "scope": {
-          "JDG": []
+          "JDG": [
+            "Книга Судей"
+          ]
         }
       },
       "pdf/08.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175897,
+        "size": 187306,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "Книга Руфь"
+          ]
         }
       },
       "pdf/09.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 177839,
+        "size": 186965,
         "scope": {
-          "1SA": []
+          "1SA": [
+            "Первая книга Царств"
+          ]
         }
       },
       "pdf/10.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 181261,
+        "size": 189914,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "Вторая книга Царств"
+          ]
         }
       },
       "pdf/11.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 180222,
+        "size": 189308,
         "scope": {
-          "1KI": []
+          "1KI": [
+            "Третья книга Царств"
+          ]
         }
       },
       "pdf/12.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178282,
+        "size": 187488,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "Четвёртая книга Царств"
+          ]
         }
       },
       "pdf/13.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 179501,
+        "size": 186546,
         "scope": {
-          "1CH": []
+          "1CH": [
+            "Первая книга Паралипоменон"
+          ]
         }
       },
       "pdf/14.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 181239,
+        "size": 190218,
         "scope": {
-          "2CH": []
+          "2CH": [
+            "Вторая книга Паралипоменон"
+          ]
         }
       },
       "pdf/15.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174492,
+        "size": 186832,
         "scope": {
-          "EZR": []
+          "EZR": [
+            "Книга Ездры"
+          ]
         }
       },
       "pdf/16.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 170271,
+        "size": 180333,
         "scope": {
-          "NEH": []
+          "NEH": [
+            "Книга Неемии"
+          ]
         }
       },
       "pdf/17.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175643,
+        "size": 187191,
         "scope": {
-          "EST": []
+          "EST": [
+            "Книга Есфирь"
+          ]
         }
       },
       "pdf/18.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174182,
+        "size": 184280,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "Книга Иова"
+          ]
         }
       },
       "pdf/19.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197553,
+        "size": 209566,
         "scope": {
-          "PSA": []
+          "PSA": [
+            "Псалтирь"
+          ]
         }
       },
       "pdf/20.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 176029,
+        "size": 184847,
         "scope": {
-          "PRO": []
+          "PRO": [
+            "Притчи"
+          ]
         }
       },
       "pdf/21.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175878,
+        "size": 186947,
         "scope": {
-          "ECC": []
+          "ECC": [
+            "Книга Екклесиаста"
+          ]
         }
       },
       "pdf/22.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 171811,
+        "size": 181470,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "Песни Песней"
+          ]
         }
       },
       "pdf/23.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 183471,
+        "size": 189560,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "Книга пророка Исаии"
+          ]
         }
       },
       "pdf/24.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 183307,
+        "size": 191565,
         "scope": {
-          "JER": []
+          "JER": [
+            "Книга пророка Иеремии"
+          ]
         }
       },
       "pdf/25.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175931,
+        "size": 186068,
         "scope": {
-          "LAM": []
+          "LAM": [
+            "Плач Иеремии"
+          ]
         }
       },
       "pdf/26.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 180978,
+        "size": 190297,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "Книга пророка Иезекииля"
+          ]
         }
       },
       "pdf/27.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 177494,
+        "size": 185815,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "Книга пророка Даниила"
+          ]
         }
       },
       "pdf/28.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174814,
+        "size": 184074,
         "scope": {
-          "HOS": []
+          "HOS": [
+            "Книга пророка Осии"
+          ]
         }
       },
       "pdf/29.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175896,
+        "size": 184197,
         "scope": {
-          "JOL": []
+          "JOL": [
+            "Книга пророка Иоиля"
+          ]
         }
       },
       "pdf/30.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 179674,
+        "size": 186714,
         "scope": {
-          "AMO": []
+          "AMO": [
+            "Книга пророка Амоса"
+          ]
         }
       },
       "pdf/31.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178522,
+        "size": 187001,
         "scope": {
-          "OBA": []
+          "OBA": [
+            "Книга пророка Авдия"
+          ]
         }
       },
       "pdf/32.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174450,
+        "size": 182925,
         "scope": {
-          "JON": []
+          "JON": [
+            "Книга пророка Ионы"
+          ]
         }
       },
       "pdf/33.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 180897,
+        "size": 188472,
         "scope": {
-          "MIC": []
+          "MIC": [
+            "Книга пророка Михея"
+          ]
         }
       },
       "pdf/34.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 177979,
+        "size": 186416,
         "scope": {
-          "NAM": []
+          "NAM": [
+            "Книга пророка Наума"
+          ]
         }
       },
       "pdf/35.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 177872,
+        "size": 186516,
         "scope": {
-          "HAB": []
+          "HAB": [
+            "Книга пророка Аввакума"
+          ]
         }
       },
       "pdf/36.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 180588,
+        "size": 189049,
         "scope": {
-          "ZEP": []
+          "ZEP": [
+            "Книга пророка Софонии"
+          ]
         }
       },
       "pdf/37.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178814,
+        "size": 188363,
         "scope": {
-          "HAG": []
+          "HAG": [
+            "Книга пророка Аггея"
+          ]
         }
       },
       "pdf/38.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178315,
+        "size": 187032,
         "scope": {
-          "ZEC": []
+          "ZEC": [
+            "Книга пророка Захарии"
+          ]
         }
       },
       "pdf/39.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 179692,
+        "size": 187648,
         "scope": {
-          "MAL": []
+          "MAL": [
+            "Книга пророка Малахии"
+          ]
         }
       },
       "pdf/40.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 185757,
+        "size": 193929,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "Евангелие от Матфея"
+          ]
         }
       },
       "pdf/41.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 180568,
+        "size": 190577,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "Евангелие от Марка"
+          ]
         }
       },
       "pdf/42.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 182253,
+        "size": 192441,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "Евангелие от Луки"
+          ]
         }
       },
       "pdf/43.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 181523,
+        "size": 190367,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "Евангелие от Иоанна"
+          ]
         }
       },
       "pdf/44.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 208748,
+        "size": 215501,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "Деяния святых апостолов"
+          ]
         }
       },
       "pdf/45.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 182140,
+        "size": 189346,
         "scope": {
-          "ROM": []
+          "ROM": [
+            "Послание к Римлянам"
+          ]
         }
       },
       "pdf/46.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 182296,
+        "size": 189851,
         "scope": {
-          "1CO": []
+          "1CO": [
+            "Первое послание к Коринфянам"
+          ]
         }
       },
       "pdf/47.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 185980,
+        "size": 194664,
         "scope": {
-          "2CO": []
+          "2CO": [
+            "Второе послание к Коринфянам"
+          ]
         }
       },
       "pdf/48.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 179446,
+        "size": 188510,
         "scope": {
-          "GAL": []
+          "GAL": [
+            "Послание к Галатам"
+          ]
         }
       },
       "pdf/49.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 182282,
+        "size": 189883,
         "scope": {
-          "EPH": []
+          "EPH": [
+            "Послание к Ефесянам"
+          ]
         }
       },
       "pdf/50.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 182253,
+        "size": 189800,
         "scope": {
-          "PHP": []
+          "PHP": [
+            "Послание к Филиппийцам"
+          ]
         }
       },
       "pdf/51.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 179871,
+        "size": 186023,
         "scope": {
-          "COL": []
+          "COL": [
+            "Послание к Колоссянам"
+          ]
         }
       },
       "pdf/52.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 183989,
+        "size": 191450,
         "scope": {
-          "1TH": []
+          "1TH": [
+            "Первое послание к Фессалоникийцам"
+          ]
         }
       },
       "pdf/53.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 183588,
+        "size": 191477,
         "scope": {
-          "2TH": []
+          "2TH": [
+            "Второе послание к Фессалоникийцам"
+          ]
         }
       },
       "pdf/54.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 183065,
+        "size": 191393,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "Первое послание к Тимофею"
+          ]
         }
       },
       "pdf/55.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 182780,
+        "size": 191650,
         "scope": {
-          "2TI": []
+          "2TI": [
+            "Второе послание к Тимофею"
+          ]
         }
       },
       "pdf/56.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175929,
+        "size": 183563,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "Послание к Титу"
+          ]
         }
       },
       "pdf/57.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175949,
+        "size": 183023,
         "scope": {
-          "PHM": []
+          "PHM": [
+            "Послание к Филимону"
+          ]
         }
       },
       "pdf/58.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 183005,
+        "size": 192161,
         "scope": {
-          "HEB": []
+          "HEB": [
+            "Послание к Евреям"
+          ]
         }
       },
       "pdf/59.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174634,
+        "size": 186459,
         "scope": {
-          "JAS": []
+          "JAS": [
+            "Послание Иакова"
+          ]
         }
       },
       "pdf/60.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 179166,
+        "size": 187902,
         "scope": {
-          "1PE": []
+          "1PE": [
+            "Первое послание Петра"
+          ]
         }
       },
       "pdf/61.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 180358,
+        "size": 189468,
         "scope": {
-          "2PE": []
+          "2PE": [
+            "Второе послание Петра"
+          ]
         }
       },
       "pdf/62.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 181223,
+        "size": 190288,
         "scope": {
-          "1JN": []
+          "1JN": [
+            "Первое послание Иоанна"
+          ]
         }
       },
       "pdf/63.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 177611,
+        "size": 187487,
         "scope": {
-          "2JN": []
+          "2JN": [
+            "Второе послание Иоанна"
+          ]
         }
       },
       "pdf/64.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178941,
+        "size": 188895,
         "scope": {
-          "3JN": []
+          "3JN": [
+            "Третье послание Иоанна"
+          ]
         }
       },
       "pdf/65.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 175678,
+        "size": 189014,
         "scope": {
-          "JUD": []
+          "JUD": [
+            "Послание Иуды"
+          ]
         }
       },
       "pdf/66.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 184526,
+        "size": 193890,
         "scope": {
-          "REV": []
+          "REV": [
+            "Откровение апостола Иоанна Богослова"
+          ]
         }
       }
     },

@@ -2,11 +2,12 @@
   {
     "content_id": 574113,
     "reference_id": 202769,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Esta",
     "media_type": "Text",
     "index_reference": "17000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p><strong>Kitabu cha Esta ni nini?</strong></p><ul><li><p>Kitabu cha Esta ni hadithi kutoka kwa historia ya Kiyahudi. Matukio haya yalifanyika wakati serikali ya Uajemi ilipotawala. Hii ilikuwa kati ya miaka 486 na 465 Kabla ya Kristo (KK). Hadithi hii ilipitishwa ndani ya familia za Kiyahudi kwa miaka mingi.</p></li><li><p>Inadhaniwa kwamba Mordekai aliandika hadithi hii.</p></li></ul><p><strong>Kitabu hiki kiliandikiwa nani?</strong></p><ul><li><p>Wayahudi wanaoishi katika ufalme wa Uajemi na Wayahudi wote baada yao.</p></li></ul><p><strong>Kwa nini kitabu cha Esta kiliandikwa?</strong></p><ul><li><p>Kama rekodi ya Wayahudi wanaoishi katika ufalme wa Kiajemi.</p></li><li><p>Kuelezea jinsi Sikukuu ya Purimu ilivyoanza.</p></li></ul><p><strong>Mawazo makuu</strong></p><ul><li><p>Maadui wa Wayahudi walitaka kuwaangamiza kabisa Wayahudi.</p></li><li><p>Wayahudi waliokolewa kutoka kwa maadui hawa.</p></li><li><p>Sikukuu ya Purimu iliheshimu na kusherehekea wakati ambapo Wayahudi waliokolewa.</p></li></ul><p><strong>Muhtasari</strong></p><p><strong>Esta anakuwa malkia wa ufalme wa Uajemi (1 – 2).</strong></p><p><strong>Mipango mibaya ya Hamani dhidi ya Mordekai na Wayahudi (3 – 4).</strong></p><p><strong>Mpango wa busara na werevu wa Esta (5 – 7).</strong></p><p><strong>Wayahudi wanaokolewa (8 – 10).</strong></p>",
     "associations": {
       "passage": [
