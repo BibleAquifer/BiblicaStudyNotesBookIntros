@@ -4,7 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Biblica Study Notes (Book Intros)",
     "aquifer_name": "Study Notes - Book Intros (Biblica)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Study Notes - Book Intros (Biblica)",
     "short_name": "BSNI",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "BiblicaStudyNotesBookIntros",
-    "date_created": "2025-11-06",
+    "date_created": "2025-11-17",
     "language": "arb",
     "localizations": [
       "eng",
@@ -49,7 +49,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-06T13:09:13.128895"
+      "dateCreated": "2025-11-17T09:28:48.191989"
     },
     "idAuthorities": {
       "aquifer": {
@@ -63,7 +63,7 @@
       "primary": {
         "aquifer": {
           "BiblicaStudyNotesBookIntros": {
-            "timestamp": "2025-11-06T13:09:13.128895"
+            "timestamp": "2025-11-17T09:28:48.191989"
           }
         }
       },
@@ -95,926 +95,1190 @@
     "ingredients": {
       "json/01.content.json": {
         "mimeType": "text/json",
-        "size": 2721,
+        "size": 2750,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "التكوين"
+          ]
         }
       },
       "json/02.content.json": {
         "mimeType": "text/json",
-        "size": 2506,
+        "size": 2535,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "الخروج"
+          ]
         }
       },
       "json/03.content.json": {
         "mimeType": "text/json",
-        "size": 2934,
+        "size": 2963,
         "scope": {
-          "LEV": []
+          "LEV": [
+            "اللاويين"
+          ]
         }
       },
       "json/04.content.json": {
         "mimeType": "text/json",
-        "size": 2687,
+        "size": 2716,
         "scope": {
-          "NUM": []
+          "NUM": [
+            "العدد"
+          ]
         }
       },
       "json/05.content.json": {
         "mimeType": "text/json",
-        "size": 3362,
+        "size": 3391,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "التثنية"
+          ]
         }
       },
       "json/06.content.json": {
         "mimeType": "text/json",
-        "size": 2413,
+        "size": 2442,
         "scope": {
-          "JOS": []
+          "JOS": [
+            "يشوع"
+          ]
         }
       },
       "json/07.content.json": {
         "mimeType": "text/json",
-        "size": 2660,
+        "size": 2689,
         "scope": {
-          "JDG": []
+          "JDG": [
+            "القضاة"
+          ]
         }
       },
       "json/08.content.json": {
         "mimeType": "text/json",
-        "size": 2563,
+        "size": 2592,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "راعوث"
+          ]
         }
       },
       "json/09.content.json": {
         "mimeType": "text/json",
-        "size": 2891,
+        "size": 2920,
         "scope": {
-          "1SA": []
+          "1SA": [
+            "صموئيل الأول"
+          ]
         }
       },
       "json/10.content.json": {
         "mimeType": "text/json",
-        "size": 3046,
+        "size": 3075,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "صموئيل الثاني"
+          ]
         }
       },
       "json/11.content.json": {
         "mimeType": "text/json",
-        "size": 2958,
+        "size": 2987,
         "scope": {
-          "1KI": []
+          "1KI": [
+            "الملوك الأول"
+          ]
         }
       },
       "json/12.content.json": {
         "mimeType": "text/json",
-        "size": 2862,
+        "size": 2891,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "الملوك الثاني"
+          ]
         }
       },
       "json/13.content.json": {
         "mimeType": "text/json",
-        "size": 3065,
+        "size": 3094,
         "scope": {
-          "1CH": []
+          "1CH": [
+            "أخبار الأيام الأول"
+          ]
         }
       },
       "json/14.content.json": {
         "mimeType": "text/json",
-        "size": 3083,
+        "size": 3112,
         "scope": {
-          "2CH": []
+          "2CH": [
+            "أخبار الأيام الثاني"
+          ]
         }
       },
       "json/15.content.json": {
         "mimeType": "text/json",
-        "size": 2707,
+        "size": 2736,
         "scope": {
-          "EZR": []
+          "EZR": [
+            "عزرا"
+          ]
         }
       },
       "json/16.content.json": {
         "mimeType": "text/json",
-        "size": 2688,
+        "size": 2717,
         "scope": {
-          "NEH": []
+          "NEH": [
+            "نحميا"
+          ]
         }
       },
       "json/17.content.json": {
         "mimeType": "text/json",
-        "size": 2152,
+        "size": 2181,
         "scope": {
-          "EST": []
+          "EST": [
+            "أستير"
+          ]
         }
       },
       "json/18.content.json": {
         "mimeType": "text/json",
-        "size": 2880,
+        "size": 2909,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "أيوب"
+          ]
         }
       },
       "json/19.content.json": {
         "mimeType": "text/json",
-        "size": 8875,
+        "size": 8904,
         "scope": {
-          "PSA": []
+          "PSA": [
+            "المزامير"
+          ]
         }
       },
       "json/20.content.json": {
         "mimeType": "text/json",
-        "size": 3926,
+        "size": 3955,
         "scope": {
-          "PRO": []
+          "PRO": [
+            "الأمثال"
+          ]
         }
       },
       "json/21.content.json": {
         "mimeType": "text/json",
-        "size": 3554,
+        "size": 3583,
         "scope": {
-          "ECC": []
+          "ECC": [
+            "الجامعة"
+          ]
         }
       },
       "json/22.content.json": {
         "mimeType": "text/json",
-        "size": 4218,
+        "size": 4247,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "نشيد الأنشاد"
+          ]
         }
       },
       "json/23.content.json": {
         "mimeType": "text/json",
-        "size": 3868,
+        "size": 3897,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "إشعياء"
+          ]
         }
       },
       "json/24.content.json": {
         "mimeType": "text/json",
-        "size": 3619,
+        "size": 3648,
         "scope": {
-          "JER": []
+          "JER": [
+            "إرميا"
+          ]
         }
       },
       "json/25.content.json": {
         "mimeType": "text/json",
-        "size": 3477,
+        "size": 3506,
         "scope": {
-          "LAM": []
+          "LAM": [
+            "مراثي إرميا"
+          ]
         }
       },
       "json/26.content.json": {
         "mimeType": "text/json",
-        "size": 3615,
+        "size": 3644,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "حزقيال"
+          ]
         }
       },
       "json/27.content.json": {
         "mimeType": "text/json",
-        "size": 3337,
+        "size": 3366,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "دانيآل"
+          ]
         }
       },
       "json/28.content.json": {
         "mimeType": "text/json",
-        "size": 3394,
+        "size": 3423,
         "scope": {
-          "HOS": []
+          "HOS": [
+            "هوشع"
+          ]
         }
       },
       "json/29.content.json": {
         "mimeType": "text/json",
-        "size": 2985,
+        "size": 3014,
         "scope": {
-          "JOL": []
+          "JOL": [
+            "يوئيل"
+          ]
         }
       },
       "json/30.content.json": {
         "mimeType": "text/json",
-        "size": 3561,
+        "size": 3590,
         "scope": {
-          "AMO": []
+          "AMO": [
+            "عاموس"
+          ]
         }
       },
       "json/31.content.json": {
         "mimeType": "text/json",
-        "size": 2760,
+        "size": 2789,
         "scope": {
-          "OBA": []
+          "OBA": [
+            "عوبديا"
+          ]
         }
       },
       "json/32.content.json": {
         "mimeType": "text/json",
-        "size": 2599,
+        "size": 2628,
         "scope": {
-          "JON": []
+          "JON": [
+            "يونان"
+          ]
         }
       },
       "json/33.content.json": {
         "mimeType": "text/json",
-        "size": 3704,
+        "size": 3733,
         "scope": {
-          "MIC": []
+          "MIC": [
+            "ميخا"
+          ]
         }
       },
       "json/34.content.json": {
         "mimeType": "text/json",
-        "size": 2925,
+        "size": 2954,
         "scope": {
-          "NAM": []
+          "NAM": [
+            "ناحوم"
+          ]
         }
       },
       "json/35.content.json": {
         "mimeType": "text/json",
-        "size": 3087,
+        "size": 3116,
         "scope": {
-          "HAB": []
+          "HAB": [
+            "حبقوق"
+          ]
         }
       },
       "json/36.content.json": {
         "mimeType": "text/json",
-        "size": 3282,
+        "size": 3311,
         "scope": {
-          "ZEP": []
+          "ZEP": [
+            "صفنيا"
+          ]
         }
       },
       "json/37.content.json": {
         "mimeType": "text/json",
-        "size": 3090,
+        "size": 3119,
         "scope": {
-          "HAG": []
+          "HAG": [
+            "حَجَّي"
+          ]
         }
       },
       "json/38.content.json": {
         "mimeType": "text/json",
-        "size": 3124,
+        "size": 3153,
         "scope": {
-          "ZEC": []
+          "ZEC": [
+            "زكريا"
+          ]
         }
       },
       "json/39.content.json": {
         "mimeType": "text/json",
-        "size": 3235,
+        "size": 3264,
         "scope": {
-          "MAL": []
+          "MAL": [
+            "ملاخي"
+          ]
         }
       },
       "json/40.content.json": {
         "mimeType": "text/json",
-        "size": 3469,
+        "size": 3498,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "متى"
+          ]
         }
       },
       "json/41.content.json": {
         "mimeType": "text/json",
-        "size": 3026,
+        "size": 3055,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "مَرقُس"
+          ]
         }
       },
       "json/42.content.json": {
         "mimeType": "text/json",
-        "size": 3012,
+        "size": 3041,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "لوقا"
+          ]
         }
       },
       "json/43.content.json": {
         "mimeType": "text/json",
-        "size": 3144,
+        "size": 3173,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "يوحنا"
+          ]
         }
       },
       "json/44.content.json": {
         "mimeType": "text/json",
-        "size": 3813,
+        "size": 3842,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "أعمال الرسل"
+          ]
         }
       },
       "json/45.content.json": {
         "mimeType": "text/json",
-        "size": 3392,
+        "size": 3421,
         "scope": {
-          "ROM": []
+          "ROM": [
+            "رومية"
+          ]
         }
       },
       "json/46.content.json": {
         "mimeType": "text/json",
-        "size": 3047,
+        "size": 3076,
         "scope": {
-          "1CO": []
+          "1CO": [
+            "كورنثوس الأولى"
+          ]
         }
       },
       "json/47.content.json": {
         "mimeType": "text/json",
-        "size": 3389,
+        "size": 3418,
         "scope": {
-          "2CO": []
+          "2CO": [
+            "كورنثوس الثانية"
+          ]
         }
       },
       "json/48.content.json": {
         "mimeType": "text/json",
-        "size": 2904,
+        "size": 2933,
         "scope": {
-          "GAL": []
+          "GAL": [
+            "غلاطية"
+          ]
         }
       },
       "json/49.content.json": {
         "mimeType": "text/json",
-        "size": 3055,
+        "size": 3084,
         "scope": {
-          "EPH": []
+          "EPH": [
+            "أفسس"
+          ]
         }
       },
       "json/50.content.json": {
         "mimeType": "text/json",
-        "size": 3055,
+        "size": 3084,
         "scope": {
-          "PHP": []
+          "PHP": [
+            "فيلبي"
+          ]
         }
       },
       "json/51.content.json": {
         "mimeType": "text/json",
-        "size": 2676,
+        "size": 2705,
         "scope": {
-          "COL": []
+          "COL": [
+            "كولوسي"
+          ]
         }
       },
       "json/52.content.json": {
         "mimeType": "text/json",
-        "size": 2957,
+        "size": 2986,
         "scope": {
-          "1TH": []
+          "1TH": [
+            "تسالونيكي الأولى"
+          ]
         }
       },
       "json/53.content.json": {
         "mimeType": "text/json",
-        "size": 2556,
+        "size": 2585,
         "scope": {
-          "2TH": []
+          "2TH": [
+            "تسالونيكي الثانية"
+          ]
         }
       },
       "json/54.content.json": {
         "mimeType": "text/json",
-        "size": 2792,
+        "size": 2821,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "تيموثاوس الأولى"
+          ]
         }
       },
       "json/55.content.json": {
         "mimeType": "text/json",
-        "size": 2591,
+        "size": 2620,
         "scope": {
-          "2TI": []
+          "2TI": [
+            "تيموثاوس الثانية"
+          ]
         }
       },
       "json/56.content.json": {
         "mimeType": "text/json",
-        "size": 2228,
+        "size": 2257,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "تيطس"
+          ]
         }
       },
       "json/57.content.json": {
         "mimeType": "text/json",
-        "size": 2017,
+        "size": 2046,
         "scope": {
-          "PHM": []
+          "PHM": [
+            "فليمون"
+          ]
         }
       },
       "json/58.content.json": {
         "mimeType": "text/json",
-        "size": 3492,
+        "size": 3521,
         "scope": {
-          "HEB": []
+          "HEB": [
+            "العبرانيين"
+          ]
         }
       },
       "json/59.content.json": {
         "mimeType": "text/json",
-        "size": 2567,
+        "size": 2596,
         "scope": {
-          "JAS": []
+          "JAS": [
+            "يعقوب"
+          ]
         }
       },
       "json/60.content.json": {
         "mimeType": "text/json",
-        "size": 2806,
+        "size": 2835,
         "scope": {
-          "1PE": []
+          "1PE": [
+            "بطرس الأولى"
+          ]
         }
       },
       "json/61.content.json": {
         "mimeType": "text/json",
-        "size": 3049,
+        "size": 3078,
         "scope": {
-          "2PE": []
+          "2PE": [
+            "بطرس الثانية"
+          ]
         }
       },
       "json/62.content.json": {
         "mimeType": "text/json",
-        "size": 2999,
+        "size": 3028,
         "scope": {
-          "1JN": []
+          "1JN": [
+            "يوحنا الأولى"
+          ]
         }
       },
       "json/63.content.json": {
         "mimeType": "text/json",
-        "size": 2887,
+        "size": 2916,
         "scope": {
-          "2JN": []
+          "2JN": [
+            "يوحنا الثانية"
+          ]
         }
       },
       "json/64.content.json": {
         "mimeType": "text/json",
-        "size": 2605,
+        "size": 2634,
         "scope": {
-          "3JN": []
+          "3JN": [
+            "يوحنا الثالثة"
+          ]
         }
       },
       "json/65.content.json": {
         "mimeType": "text/json",
-        "size": 2519,
+        "size": 2548,
         "scope": {
-          "JUD": []
+          "JUD": [
+            "يهوذا"
+          ]
         }
       },
       "json/66.content.json": {
         "mimeType": "text/json",
-        "size": 3161,
+        "size": 3190,
         "scope": {
-          "REV": []
+          "REV": [
+            "رؤيا يوحنا"
+          ]
         }
       },
-      "md/01.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2411,
+      "pdf/01.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 265587,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "التكوين"
+          ]
         }
       },
-      "md/02.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2253,
+      "pdf/02.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 261947,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "الخروج"
+          ]
         }
       },
-      "md/03.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2638,
+      "pdf/03.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 264331,
         "scope": {
-          "LEV": []
+          "LEV": [
+            "اللاويين"
+          ]
         }
       },
-      "md/04.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2379,
+      "pdf/04.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 259268,
         "scope": {
-          "NUM": []
+          "NUM": [
+            "العدد"
+          ]
         }
       },
-      "md/05.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3085,
+      "pdf/05.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 260951,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "التثنية"
+          ]
         }
       },
-      "md/06.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2145,
+      "pdf/06.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 258735,
         "scope": {
-          "JOS": []
+          "JOS": [
+            "يشوع"
+          ]
         }
       },
-      "md/07.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2378,
+      "pdf/07.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 254889,
         "scope": {
-          "JDG": []
+          "JDG": [
+            "القضاة"
+          ]
         }
       },
-      "md/08.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2267,
+      "pdf/08.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 266774,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "راعوث"
+          ]
         }
       },
-      "md/09.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2615,
+      "pdf/09.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 261362,
         "scope": {
-          "1SA": []
+          "1SA": [
+            "صموئيل الأول"
+          ]
         }
       },
-      "md/10.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2730,
+      "pdf/10.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 268156,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "صموئيل الثاني"
+          ]
         }
       },
-      "md/11.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2675,
+      "pdf/11.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 264342,
         "scope": {
-          "1KI": []
+          "1KI": [
+            "الملوك الأول"
+          ]
         }
       },
-      "md/12.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2597,
+      "pdf/12.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 258501,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "الملوك الثاني"
+          ]
         }
       },
-      "md/13.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2803,
+      "pdf/13.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 281639,
         "scope": {
-          "1CH": []
+          "1CH": [
+            "أخبار الأيام الأول"
+          ]
         }
       },
-      "md/14.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2809,
+      "pdf/14.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 282771,
         "scope": {
-          "2CH": []
+          "2CH": [
+            "أخبار الأيام الثاني"
+          ]
         }
       },
-      "md/15.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2434,
+      "pdf/15.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 253637,
         "scope": {
-          "EZR": []
+          "EZR": [
+            "عزرا"
+          ]
         }
       },
-      "md/16.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2413,
+      "pdf/16.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 258435,
         "scope": {
-          "NEH": []
+          "NEH": [
+            "نحميا"
+          ]
         }
       },
-      "md/17.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1897,
+      "pdf/17.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 251995,
         "scope": {
-          "EST": []
+          "EST": [
+            "أستير"
+          ]
         }
       },
-      "md/18.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2531,
+      "pdf/18.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 258965,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "أيوب"
+          ]
         }
       },
-      "md/19.content.md": {
-        "mimeType": "text/markdown",
-        "size": 8237,
+      "pdf/19.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 306849,
         "scope": {
-          "PSA": []
+          "PSA": [
+            "المزامير"
+          ]
         }
       },
-      "md/20.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3604,
+      "pdf/20.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 267210,
         "scope": {
-          "PRO": []
+          "PRO": [
+            "الأمثال"
+          ]
         }
       },
-      "md/21.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3234,
+      "pdf/21.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 262048,
         "scope": {
-          "ECC": []
+          "ECC": [
+            "الجامعة"
+          ]
         }
       },
-      "md/22.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3931,
+      "pdf/22.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 263859,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "نشيد الأنشاد"
+          ]
         }
       },
-      "md/23.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3536,
+      "pdf/23.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 269566,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "إشعياء"
+          ]
         }
       },
-      "md/24.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3260,
+      "pdf/24.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 271733,
         "scope": {
-          "JER": []
+          "JER": [
+            "إرميا"
+          ]
         }
       },
-      "md/25.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3145,
+      "pdf/25.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 268945,
         "scope": {
-          "LAM": []
+          "LAM": [
+            "مراثي إرميا"
+          ]
         }
       },
-      "md/26.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3299,
+      "pdf/26.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 268450,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "حزقيال"
+          ]
         }
       },
-      "md/27.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3074,
+      "pdf/27.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 259673,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "دانيآل"
+          ]
         }
       },
-      "md/28.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3097,
+      "pdf/28.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 263403,
         "scope": {
-          "HOS": []
+          "HOS": [
+            "هوشع"
+          ]
         }
       },
-      "md/29.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2645,
+      "pdf/29.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 258040,
         "scope": {
-          "JOL": []
+          "JOL": [
+            "يوئيل"
+          ]
         }
       },
-      "md/30.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3260,
+      "pdf/30.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 264212,
         "scope": {
-          "AMO": []
+          "AMO": [
+            "عاموس"
+          ]
         }
       },
-      "md/31.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2485,
+      "pdf/31.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 255766,
         "scope": {
-          "OBA": []
+          "OBA": [
+            "عوبديا"
+          ]
         }
       },
-      "md/32.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2306,
+      "pdf/32.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 251750,
         "scope": {
-          "JON": []
+          "JON": [
+            "يونان"
+          ]
         }
       },
-      "md/33.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3388,
+      "pdf/33.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 262319,
         "scope": {
-          "MIC": []
+          "MIC": [
+            "ميخا"
+          ]
         }
       },
-      "md/34.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2635,
+      "pdf/34.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 261465,
         "scope": {
-          "NAM": []
+          "NAM": [
+            "ناحوم"
+          ]
         }
       },
-      "md/35.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2785,
+      "pdf/35.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 257428,
         "scope": {
-          "HAB": []
+          "HAB": [
+            "حبقوق"
+          ]
         }
       },
-      "md/36.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2952,
+      "pdf/36.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 264236,
         "scope": {
-          "ZEP": []
+          "ZEP": [
+            "صفنيا"
+          ]
         }
       },
-      "md/37.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2791,
+      "pdf/37.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 262229,
         "scope": {
-          "HAG": []
+          "HAG": [
+            "حَجَّي"
+          ]
         }
       },
-      "md/38.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2826,
+      "pdf/38.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 257811,
         "scope": {
-          "ZEC": []
+          "ZEC": [
+            "زكريا"
+          ]
         }
       },
-      "md/39.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2933,
+      "pdf/39.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 261138,
         "scope": {
-          "MAL": []
+          "MAL": [
+            "ملاخي"
+          ]
         }
       },
-      "md/40.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3059,
+      "pdf/40.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 267912,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "متى"
+          ]
         }
       },
-      "md/41.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2673,
+      "pdf/41.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 267269,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "مَرقُس"
+          ]
         }
       },
-      "md/42.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2677,
+      "pdf/42.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 267496,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "لوقا"
+          ]
         }
       },
-      "md/43.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2799,
+      "pdf/43.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 264533,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "يوحنا"
+          ]
         }
       },
-      "md/44.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3385,
+      "pdf/44.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 275229,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "أعمال الرسل"
+          ]
         }
       },
-      "md/45.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3038,
+      "pdf/45.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 271017,
         "scope": {
-          "ROM": []
+          "ROM": [
+            "رومية"
+          ]
         }
       },
-      "md/46.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2728,
+      "pdf/46.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 268192,
         "scope": {
-          "1CO": []
+          "1CO": [
+            "كورنثوس الأولى"
+          ]
         }
       },
-      "md/47.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3032,
+      "pdf/47.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 270849,
         "scope": {
-          "2CO": []
+          "2CO": [
+            "كورنثوس الثانية"
+          ]
         }
       },
-      "md/48.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2569,
+      "pdf/48.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 263665,
         "scope": {
-          "GAL": []
+          "GAL": [
+            "غلاطية"
+          ]
         }
       },
-      "md/49.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2705,
+      "pdf/49.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 266466,
         "scope": {
-          "EPH": []
+          "EPH": [
+            "أفسس"
+          ]
         }
       },
-      "md/50.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2678,
+      "pdf/50.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 267559,
         "scope": {
-          "PHP": []
+          "PHP": [
+            "فيلبي"
+          ]
         }
       },
-      "md/51.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2340,
+      "pdf/51.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 262474,
         "scope": {
-          "COL": []
+          "COL": [
+            "كولوسي"
+          ]
         }
       },
-      "md/52.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2625,
+      "pdf/52.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 263257,
         "scope": {
-          "1TH": []
+          "1TH": [
+            "تسالونيكي الأولى"
+          ]
         }
       },
-      "md/53.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2275,
+      "pdf/53.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 262843,
         "scope": {
-          "2TH": []
+          "2TH": [
+            "تسالونيكي الثانية"
+          ]
         }
       },
-      "md/54.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2454,
+      "pdf/54.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 263660,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "تيموثاوس الأولى"
+          ]
         }
       },
-      "md/55.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2280,
+      "pdf/55.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 256786,
         "scope": {
-          "2TI": []
+          "2TI": [
+            "تيموثاوس الثانية"
+          ]
         }
       },
-      "md/56.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1917,
+      "pdf/56.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 255117,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "تيطس"
+          ]
         }
       },
-      "md/57.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1746,
+      "pdf/57.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 255494,
         "scope": {
-          "PHM": []
+          "PHM": [
+            "فليمون"
+          ]
         }
       },
-      "md/58.content.md": {
-        "mimeType": "text/markdown",
-        "size": 3104,
+      "pdf/58.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 271987,
         "scope": {
-          "HEB": []
+          "HEB": [
+            "العبرانيين"
+          ]
         }
       },
-      "md/59.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2241,
+      "pdf/59.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 260670,
         "scope": {
-          "JAS": []
+          "JAS": [
+            "يعقوب"
+          ]
         }
       },
-      "md/60.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2498,
+      "pdf/60.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 262324,
         "scope": {
-          "1PE": []
+          "1PE": [
+            "بطرس الأولى"
+          ]
         }
       },
-      "md/61.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2702,
+      "pdf/61.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 268755,
         "scope": {
-          "2PE": []
+          "2PE": [
+            "بطرس الثانية"
+          ]
         }
       },
-      "md/62.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2637,
+      "pdf/62.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 263869,
         "scope": {
-          "1JN": []
+          "1JN": [
+            "يوحنا الأولى"
+          ]
         }
       },
-      "md/63.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2609,
+      "pdf/63.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 254519,
         "scope": {
-          "2JN": []
+          "2JN": [
+            "يوحنا الثانية"
+          ]
         }
       },
-      "md/64.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2309,
+      "pdf/64.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 255032,
         "scope": {
-          "3JN": []
+          "3JN": [
+            "يوحنا الثالثة"
+          ]
         }
       },
-      "md/65.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2213,
+      "pdf/65.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 256966,
         "scope": {
-          "JUD": []
+          "JUD": [
+            "يهوذا"
+          ]
         }
       },
-      "md/66.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2819,
+      "pdf/66.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 263511,
         "scope": {
-          "REV": []
+          "REV": [
+            "رؤيا يوحنا"
+          ]
         }
       }
     },
