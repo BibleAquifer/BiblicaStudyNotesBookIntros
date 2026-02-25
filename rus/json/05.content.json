@@ -2,7 +2,7 @@
   {
     "content_id": "500605",
     "reference_id": 202757,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Второзаконие",
     "media_type": "Text",
     "index_reference": "05000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "DEU 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

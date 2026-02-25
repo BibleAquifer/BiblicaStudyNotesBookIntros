@@ -2,7 +2,7 @@
   {
     "content_id": "499278",
     "reference_id": 202769,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Esther",
     "media_type": "Text",
     "index_reference": "17000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "EST 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

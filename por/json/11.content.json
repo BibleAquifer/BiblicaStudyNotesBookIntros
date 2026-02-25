@@ -2,7 +2,7 @@
   {
     "content_id": "499531",
     "reference_id": 202763,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "1 Reis",
     "media_type": "Text",
     "index_reference": "11000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "1KI 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

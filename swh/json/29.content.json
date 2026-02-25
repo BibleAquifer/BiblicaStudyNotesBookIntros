@@ -2,7 +2,7 @@
   {
     "content_id": "574125",
     "reference_id": 202781,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Yoeli",
     "media_type": "Text",
     "index_reference": "29000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "JOL 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "499103",
     "reference_id": 202726,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "متى",
     "media_type": "Text",
     "index_reference": "40000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "MAT 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

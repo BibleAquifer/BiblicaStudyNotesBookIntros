@@ -2,7 +2,7 @@
   {
     "content_id": "499210",
     "reference_id": 202767,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以斯拉記",
     "media_type": "Text",
     "index_reference": "15000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "EZR 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

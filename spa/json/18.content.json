@@ -2,7 +2,7 @@
   {
     "content_id": "499604",
     "reference_id": 202770,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Trabajo",
     "media_type": "Text",
     "index_reference": "18000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "JOB 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

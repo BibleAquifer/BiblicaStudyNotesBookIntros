@@ -2,7 +2,7 @@
   {
     "content_id": "574115",
     "reference_id": 202771,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Zaburi",
     "media_type": "Text",
     "index_reference": "19000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "PSA 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

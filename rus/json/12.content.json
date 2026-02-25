@@ -2,7 +2,7 @@
   {
     "content_id": "500612",
     "reference_id": 202764,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Четвёртая книга Царств",
     "media_type": "Text",
     "index_reference": "12000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "2KI 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

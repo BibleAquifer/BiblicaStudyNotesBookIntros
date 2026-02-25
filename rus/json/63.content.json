@@ -2,7 +2,7 @@
   {
     "content_id": "500597",
     "reference_id": 202749,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Второе послание Иоанна",
     "media_type": "Text",
     "index_reference": "63000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "2JN 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

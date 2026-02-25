@@ -2,7 +2,7 @@
   {
     "content_id": "499221",
     "reference_id": 202778,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "以西結書",
     "media_type": "Text",
     "index_reference": "26000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "EZK 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

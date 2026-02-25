@@ -2,7 +2,7 @@
   {
     "content_id": "499127",
     "reference_id": 202750,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "يوحنا الثالثة",
     "media_type": "Text",
     "index_reference": "64000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "3JN 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

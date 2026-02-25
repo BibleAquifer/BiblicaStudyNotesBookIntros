@@ -2,7 +2,7 @@
   {
     "content_id": "499496",
     "reference_id": 202728,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Lucas",
     "media_type": "Text",
     "index_reference": "42000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "LUK 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

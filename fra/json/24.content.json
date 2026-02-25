@@ -2,7 +2,7 @@
   {
     "content_id": "499285",
     "reference_id": 202776,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Jérémie",
     "media_type": "Text",
     "index_reference": "24000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "JER 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

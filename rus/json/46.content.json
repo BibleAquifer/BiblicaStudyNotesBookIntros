@@ -2,7 +2,7 @@
   {
     "content_id": "500580",
     "reference_id": 202732,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Первое послание к Коринфянам",
     "media_type": "Text",
     "index_reference": "46000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "1CO 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

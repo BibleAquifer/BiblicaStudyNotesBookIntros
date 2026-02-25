@@ -2,7 +2,7 @@
   {
     "content_id": "499253",
     "reference_id": 202744,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Hébreux",
     "media_type": "Text",
     "index_reference": "58000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "HEB 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]
