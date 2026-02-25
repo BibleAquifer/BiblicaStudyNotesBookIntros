@@ -2,7 +2,7 @@
   {
     "content_id": "499040",
     "reference_id": 202731,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Romans",
     "media_type": "Text",
     "index_reference": "45000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "ROM 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

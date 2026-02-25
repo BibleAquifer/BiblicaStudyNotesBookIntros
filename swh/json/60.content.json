@@ -2,7 +2,7 @@
   {
     "content_id": "574090",
     "reference_id": 202746,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "1 Petro",
     "media_type": "Text",
     "index_reference": "60000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "1PE 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

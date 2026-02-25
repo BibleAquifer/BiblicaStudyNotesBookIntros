@@ -2,7 +2,7 @@
   {
     "content_id": "499524",
     "reference_id": 202756,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Números",
     "media_type": "Text",
     "index_reference": "04000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "NUM 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "499083",
     "reference_id": 202774,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Song of Solomon",
     "media_type": "Text",
     "index_reference": "22000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "SNG 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "499275",
     "reference_id": 202766,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "2 Chroniques",
     "media_type": "Text",
     "index_reference": "14000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "2CH 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

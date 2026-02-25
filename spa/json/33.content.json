@@ -2,7 +2,7 @@
   {
     "content_id": "499619",
     "reference_id": 202785,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Micah",
     "media_type": "Text",
     "index_reference": "33000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "MIC 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

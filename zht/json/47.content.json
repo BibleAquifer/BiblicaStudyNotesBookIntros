@@ -2,7 +2,7 @@
   {
     "content_id": "499176",
     "reference_id": 202733,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "哥林多後書",
     "media_type": "Text",
     "index_reference": "47000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "2CO 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "499262",
     "reference_id": 202753,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Genèse",
     "media_type": "Text",
     "index_reference": "01000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "GEN 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "499129",
     "reference_id": 202752,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "رؤيا يوحنا",
     "media_type": "Text",
     "index_reference": "66000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "REV 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

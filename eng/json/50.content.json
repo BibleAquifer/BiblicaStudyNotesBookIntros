@@ -2,7 +2,7 @@
   {
     "content_id": "499045",
     "reference_id": 202736,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Philippians",
     "media_type": "Text",
     "index_reference": "50000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "PHP 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "499211",
     "reference_id": 202768,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "尼希米記",
     "media_type": "Text",
     "index_reference": "16000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "NEH 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

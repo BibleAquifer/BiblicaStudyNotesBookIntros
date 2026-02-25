@@ -2,7 +2,7 @@
   {
     "content_id": "499579",
     "reference_id": 202745,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "James",
     "media_type": "Text",
     "index_reference": "59000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "JAS 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

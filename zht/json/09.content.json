@@ -2,7 +2,7 @@
   {
     "content_id": "499204",
     "reference_id": 202761,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "撒母耳記上",
     "media_type": "Text",
     "index_reference": "09000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "1SA 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

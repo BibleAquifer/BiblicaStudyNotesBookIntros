@@ -2,7 +2,7 @@
   {
     "content_id": "499092",
     "reference_id": 202783,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Obadiah",
     "media_type": "Text",
     "index_reference": "31000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "OBA 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

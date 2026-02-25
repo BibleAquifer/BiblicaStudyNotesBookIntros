@@ -2,7 +2,7 @@
   {
     "content_id": "574093",
     "reference_id": 202749,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "2 Yohana",
     "media_type": "Text",
     "index_reference": "63000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "2JN 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

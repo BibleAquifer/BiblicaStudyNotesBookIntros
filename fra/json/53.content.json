@@ -2,7 +2,7 @@
   {
     "content_id": "499248",
     "reference_id": 202739,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "2 Thessaloniciens",
     "media_type": "Text",
     "index_reference": "53000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "2TH 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

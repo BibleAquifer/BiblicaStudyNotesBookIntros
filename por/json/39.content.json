@@ -2,7 +2,7 @@
   {
     "content_id": "499559",
     "reference_id": 202791,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Malaquias",
     "media_type": "Text",
     "index_reference": "39000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "MAL 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

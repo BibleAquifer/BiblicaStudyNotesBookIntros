@@ -2,7 +2,7 @@
   {
     "content_id": "499554",
     "reference_id": 202786,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Naum",
     "media_type": "Text",
     "index_reference": "34000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "NAM 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

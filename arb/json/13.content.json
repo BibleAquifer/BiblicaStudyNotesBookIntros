@@ -2,7 +2,7 @@
   {
     "content_id": "499142",
     "reference_id": 202765,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "أخبار الأيام الأول",
     "media_type": "Text",
     "index_reference": "13000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "1CH 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

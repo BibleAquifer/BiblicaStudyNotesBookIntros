@@ -2,7 +2,7 @@
   {
     "content_id": "500638",
     "reference_id": 202790,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Книга пророка Захарии",
     "media_type": "Text",
     "index_reference": "38000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "ZEC 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

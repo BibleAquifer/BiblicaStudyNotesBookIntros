@@ -2,7 +2,7 @@
   {
     "content_id": "499542",
     "reference_id": 202774,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Cântico dos Cânticos",
     "media_type": "Text",
     "index_reference": "22000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "SNG 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

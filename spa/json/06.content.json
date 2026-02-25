@@ -2,7 +2,7 @@
   {
     "content_id": "499592",
     "reference_id": 202758,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Josué",
     "media_type": "Text",
     "index_reference": "06000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "JOS 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

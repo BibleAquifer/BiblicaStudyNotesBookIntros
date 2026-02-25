@@ -2,7 +2,7 @@
   {
     "content_id": "500621",
     "reference_id": 202773,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Книга Екклесиаста",
     "media_type": "Text",
     "index_reference": "21000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "ECC 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]
