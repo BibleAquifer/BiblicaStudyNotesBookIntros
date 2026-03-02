@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T09:38:24.288458"
+"dateCreated": "2026-02-27T17:31:36.469571"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "BiblicaStudyNotesBookIntros": {
-"timestamp": "2026-02-27T09:38:24.288458"
+"timestamp": "2026-02-27T17:31:36.469571"
 }
 }
 },
@@ -95,7 +95,7 @@
 "ingredients": {
 "json/01.content.json": {
 "mimeType": "text/json",
-"size": 2255,
+"size": 2133,
 "scope": {
 "GEN": [
 "創世記"
@@ -104,7 +104,7 @@
 },
 "json/02.content.json": {
 "mimeType": "text/json",
-"size": 1967,
+"size": 1845,
 "scope": {
 "EXO": [
 "出埃及記"
@@ -113,7 +113,7 @@
 },
 "json/03.content.json": {
 "mimeType": "text/json",
-"size": 2212,
+"size": 2090,
 "scope": {
 "LEV": [
 "利未記"
@@ -122,7 +122,7 @@
 },
 "json/04.content.json": {
 "mimeType": "text/json",
-"size": 2133,
+"size": 2011,
 "scope": {
 "NUM": [
 "數字"
@@ -131,7 +131,7 @@
 },
 "json/05.content.json": {
 "mimeType": "text/json",
-"size": 2406,
+"size": 2284,
 "scope": {
 "DEU": [
 "申命記"
@@ -140,7 +140,7 @@
 },
 "json/06.content.json": {
 "mimeType": "text/json",
-"size": 1877,
+"size": 1755,
 "scope": {
 "JOS": [
 "約書亞記"
@@ -149,7 +149,7 @@
 },
 "json/07.content.json": {
 "mimeType": "text/json",
-"size": 2055,
+"size": 1933,
 "scope": {
 "JDG": [
 "士師記"
@@ -158,7 +158,7 @@
 },
 "json/08.content.json": {
 "mimeType": "text/json",
-"size": 1992,
+"size": 1870,
 "scope": {
 "RUT": [
 "路得記"
@@ -167,7 +167,7 @@
 },
 "json/09.content.json": {
 "mimeType": "text/json",
-"size": 2224,
+"size": 2102,
 "scope": {
 "1SA": [
 "撒母耳記上"
@@ -176,7 +176,7 @@
 },
 "json/10.content.json": {
 "mimeType": "text/json",
-"size": 2260,
+"size": 2138,
 "scope": {
 "2SA": [
 "撒母耳記下"
@@ -185,7 +185,7 @@
 },
 "json/11.content.json": {
 "mimeType": "text/json",
-"size": 2156,
+"size": 2034,
 "scope": {
 "1KI": [
 "列王紀上"
@@ -194,7 +194,7 @@
 },
 "json/12.content.json": {
 "mimeType": "text/json",
-"size": 2046,
+"size": 1924,
 "scope": {
 "2KI": [
 "列王紀下"
@@ -203,7 +203,7 @@
 },
 "json/13.content.json": {
 "mimeType": "text/json",
-"size": 2182,
+"size": 2060,
 "scope": {
 "1CH": [
 "歷代志上"
@@ -212,7 +212,7 @@
 },
 "json/14.content.json": {
 "mimeType": "text/json",
-"size": 2161,
+"size": 2039,
 "scope": {
 "2CH": [
 "歷代志下"
@@ -221,7 +221,7 @@
 },
 "json/15.content.json": {
 "mimeType": "text/json",
-"size": 2088,
+"size": 1966,
 "scope": {
 "EZR": [
 "以斯拉記"
@@ -230,7 +230,7 @@
 },
 "json/16.content.json": {
 "mimeType": "text/json",
-"size": 1968,
+"size": 1846,
 "scope": {
 "NEH": [
 "尼希米記"
@@ -239,7 +239,7 @@
 },
 "json/17.content.json": {
 "mimeType": "text/json",
-"size": 1722,
+"size": 1600,
 "scope": {
 "EST": [
 "以斯帖記"
@@ -248,7 +248,7 @@
 },
 "json/18.content.json": {
 "mimeType": "text/json",
-"size": 2295,
+"size": 2173,
 "scope": {
 "JOB": [
 "約伯記"
@@ -257,7 +257,7 @@
 },
 "json/19.content.json": {
 "mimeType": "text/json",
-"size": 5924,
+"size": 5802,
 "scope": {
 "PSA": [
 "詩篇"
@@ -266,7 +266,7 @@
 },
 "json/20.content.json": {
 "mimeType": "text/json",
-"size": 2708,
+"size": 2586,
 "scope": {
 "PRO": [
 "箴言"
@@ -275,7 +275,7 @@
 },
 "json/21.content.json": {
 "mimeType": "text/json",
-"size": 2406,
+"size": 2284,
 "scope": {
 "ECC": [
 "傳道書"
@@ -284,7 +284,7 @@
 },
 "json/22.content.json": {
 "mimeType": "text/json",
-"size": 2583,
+"size": 2461,
 "scope": {
 "SNG": [
 "雅歌"
@@ -293,7 +293,7 @@
 },
 "json/23.content.json": {
 "mimeType": "text/json",
-"size": 2684,
+"size": 2562,
 "scope": {
 "ISA": [
 "以賽亞書"
@@ -302,7 +302,7 @@
 },
 "json/24.content.json": {
 "mimeType": "text/json",
-"size": 2686,
+"size": 2564,
 "scope": {
 "JER": [
 "耶利米書"
@@ -311,7 +311,7 @@
 },
 "json/25.content.json": {
 "mimeType": "text/json",
-"size": 2706,
+"size": 2584,
 "scope": {
 "LAM": [
 "耶利米哀歌"
@@ -320,7 +320,7 @@
 },
 "json/26.content.json": {
 "mimeType": "text/json",
-"size": 2597,
+"size": 2475,
 "scope": {
 "EZK": [
 "以西結書"
@@ -329,7 +329,7 @@
 },
 "json/27.content.json": {
 "mimeType": "text/json",
-"size": 2525,
+"size": 2403,
 "scope": {
 "DAN": [
 "但以理書"
@@ -338,7 +338,7 @@
 },
 "json/28.content.json": {
 "mimeType": "text/json",
-"size": 2480,
+"size": 2358,
 "scope": {
 "HOS": [
 "何西阿書"
@@ -347,7 +347,7 @@
 },
 "json/29.content.json": {
 "mimeType": "text/json",
-"size": 2319,
+"size": 2197,
 "scope": {
 "JOL": [
 "約珥書"
@@ -356,7 +356,7 @@
 },
 "json/30.content.json": {
 "mimeType": "text/json",
-"size": 2545,
+"size": 2423,
 "scope": {
 "AMO": [
 "阿摩司書"
@@ -365,7 +365,7 @@
 },
 "json/31.content.json": {
 "mimeType": "text/json",
-"size": 2156,
+"size": 2034,
 "scope": {
 "OBA": [
 "俄巴底亞書"
@@ -374,7 +374,7 @@
 },
 "json/32.content.json": {
 "mimeType": "text/json",
-"size": 2008,
+"size": 1886,
 "scope": {
 "JON": [
 "約拿書"
@@ -383,7 +383,7 @@
 },
 "json/33.content.json": {
 "mimeType": "text/json",
-"size": 2463,
+"size": 2341,
 "scope": {
 "MIC": [
 "彌迦書"
@@ -392,7 +392,7 @@
 },
 "json/34.content.json": {
 "mimeType": "text/json",
-"size": 2072,
+"size": 1950,
 "scope": {
 "NAM": [
 "那鴻書"
@@ -401,7 +401,7 @@
 },
 "json/35.content.json": {
 "mimeType": "text/json",
-"size": 2245,
+"size": 2123,
 "scope": {
 "HAB": [
 "哈巴谷書"
@@ -410,7 +410,7 @@
 },
 "json/36.content.json": {
 "mimeType": "text/json",
-"size": 2269,
+"size": 2147,
 "scope": {
 "ZEP": [
 "西番雅書"
@@ -419,7 +419,7 @@
 },
 "json/37.content.json": {
 "mimeType": "text/json",
-"size": 2229,
+"size": 2107,
 "scope": {
 "HAG": [
 "哈該書"
@@ -428,7 +428,7 @@
 },
 "json/38.content.json": {
 "mimeType": "text/json",
-"size": 2326,
+"size": 2204,
 "scope": {
 "ZEC": [
 "撒迦利亞書"
@@ -437,7 +437,7 @@
 },
 "json/39.content.json": {
 "mimeType": "text/json",
-"size": 2332,
+"size": 2210,
 "scope": {
 "MAL": [
 "瑪拉基書"
@@ -446,7 +446,7 @@
 },
 "json/40.content.json": {
 "mimeType": "text/json",
-"size": 2719,
+"size": 2597,
 "scope": {
 "MAT": [
 "馬太福音"
@@ -455,7 +455,7 @@
 },
 "json/41.content.json": {
 "mimeType": "text/json",
-"size": 2406,
+"size": 2284,
 "scope": {
 "MRK": [
 "馬可福音"
@@ -464,7 +464,7 @@
 },
 "json/42.content.json": {
 "mimeType": "text/json",
-"size": 2354,
+"size": 2232,
 "scope": {
 "LUK": [
 "路加福音"
@@ -473,7 +473,7 @@
 },
 "json/43.content.json": {
 "mimeType": "text/json",
-"size": 2326,
+"size": 2204,
 "scope": {
 "JHN": [
 "約翰福音"
@@ -482,7 +482,7 @@
 },
 "json/44.content.json": {
 "mimeType": "text/json",
-"size": 2823,
+"size": 2701,
 "scope": {
 "ACT": [
 "使徒行傳"
@@ -491,7 +491,7 @@
 },
 "json/45.content.json": {
 "mimeType": "text/json",
-"size": 2442,
+"size": 2320,
 "scope": {
 "ROM": [
 "羅馬書"
@@ -500,7 +500,7 @@
 },
 "json/46.content.json": {
 "mimeType": "text/json",
-"size": 2170,
+"size": 2048,
 "scope": {
 "1CO": [
 "哥林多前書"
@@ -509,7 +509,7 @@
 },
 "json/47.content.json": {
 "mimeType": "text/json",
-"size": 2408,
+"size": 2286,
 "scope": {
 "2CO": [
 "哥林多後書"
@@ -518,7 +518,7 @@
 },
 "json/48.content.json": {
 "mimeType": "text/json",
-"size": 2140,
+"size": 2018,
 "scope": {
 "GAL": [
 "加拉太書"
@@ -527,7 +527,7 @@
 },
 "json/49.content.json": {
 "mimeType": "text/json",
-"size": 2414,
+"size": 2292,
 "scope": {
 "EPH": [
 "以弗所書"
@@ -536,7 +536,7 @@
 },
 "json/50.content.json": {
 "mimeType": "text/json",
-"size": 2317,
+"size": 2195,
 "scope": {
 "PHP": [
 "腓立比書"
@@ -545,7 +545,7 @@
 },
 "json/51.content.json": {
 "mimeType": "text/json",
-"size": 2046,
+"size": 1924,
 "scope": {
 "COL": [
 "歌羅西書"
@@ -554,7 +554,7 @@
 },
 "json/52.content.json": {
 "mimeType": "text/json",
-"size": 2269,
+"size": 2147,
 "scope": {
 "1TH": [
 "帖撒羅尼迦前書"
@@ -563,7 +563,7 @@
 },
 "json/53.content.json": {
 "mimeType": "text/json",
-"size": 1969,
+"size": 1847,
 "scope": {
 "2TH": [
 "帖撒羅尼迦後書"
@@ -572,7 +572,7 @@
 },
 "json/54.content.json": {
 "mimeType": "text/json",
-"size": 2082,
+"size": 1960,
 "scope": {
 "1TI": [
 "提摩太前書"
@@ -581,7 +581,7 @@
 },
 "json/55.content.json": {
 "mimeType": "text/json",
-"size": 1978,
+"size": 1856,
 "scope": {
 "2TI": [
 "提摩太後書"
@@ -590,7 +590,7 @@
 },
 "json/56.content.json": {
 "mimeType": "text/json",
-"size": 1821,
+"size": 1699,
 "scope": {
 "TIT": [
 "提多書"
@@ -599,7 +599,7 @@
 },
 "json/57.content.json": {
 "mimeType": "text/json",
-"size": 1647,
+"size": 1525,
 "scope": {
 "PHM": [
 "腓利門書"
@@ -608,7 +608,7 @@
 },
 "json/58.content.json": {
 "mimeType": "text/json",
-"size": 2478,
+"size": 2356,
 "scope": {
 "HEB": [
 "希伯來書"
@@ -617,7 +617,7 @@
 },
 "json/59.content.json": {
 "mimeType": "text/json",
-"size": 1979,
+"size": 1857,
 "scope": {
 "JAS": [
 "雅各書"
@@ -626,7 +626,7 @@
 },
 "json/60.content.json": {
 "mimeType": "text/json",
-"size": 2053,
+"size": 1931,
 "scope": {
 "1PE": [
 "彼得前書"
@@ -635,7 +635,7 @@
 },
 "json/61.content.json": {
 "mimeType": "text/json",
-"size": 2224,
+"size": 2102,
 "scope": {
 "2PE": [
 "彼得後書"
@@ -644,7 +644,7 @@
 },
 "json/62.content.json": {
 "mimeType": "text/json",
-"size": 2136,
+"size": 2014,
 "scope": {
 "1JN": [
 "約翰壹書"
@@ -653,7 +653,7 @@
 },
 "json/63.content.json": {
 "mimeType": "text/json",
-"size": 1970,
+"size": 1848,
 "scope": {
 "2JN": [
 "約翰貳書"
@@ -662,7 +662,7 @@
 },
 "json/64.content.json": {
 "mimeType": "text/json",
-"size": 1951,
+"size": 1829,
 "scope": {
 "3JN": [
 "約翰叁書"
@@ -671,7 +671,7 @@
 },
 "json/65.content.json": {
 "mimeType": "text/json",
-"size": 1911,
+"size": 1789,
 "scope": {
 "JUD": [
 "猶大書"
@@ -680,7 +680,7 @@
 },
 "json/66.content.json": {
 "mimeType": "text/json",
-"size": 2260,
+"size": 2138,
 "scope": {
 "REV": [
 "啟示錄"

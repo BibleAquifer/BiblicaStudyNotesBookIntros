@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T09:38:23.578029"
+"dateCreated": "2026-02-27T17:31:35.979092"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "BiblicaStudyNotesBookIntros": {
-"timestamp": "2026-02-27T09:38:23.578029"
+"timestamp": "2026-02-27T17:31:35.979092"
 }
 }
 },
@@ -95,7 +95,7 @@
 "ingredients": {
 "json/01.content.json": {
 "mimeType": "text/json",
-"size": 3403,
+"size": 3281,
 "scope": {
 "GEN": [
 "Бытие"
@@ -104,7 +104,7 @@
 },
 "json/02.content.json": {
 "mimeType": "text/json",
-"size": 2916,
+"size": 2794,
 "scope": {
 "EXO": [
 "Исход"
@@ -113,7 +113,7 @@
 },
 "json/03.content.json": {
 "mimeType": "text/json",
-"size": 3422,
+"size": 3300,
 "scope": {
 "LEV": [
 "Левит"
@@ -122,7 +122,7 @@
 },
 "json/04.content.json": {
 "mimeType": "text/json",
-"size": 3157,
+"size": 3035,
 "scope": {
 "NUM": [
 "Числа"
@@ -131,7 +131,7 @@
 },
 "json/05.content.json": {
 "mimeType": "text/json",
-"size": 4053,
+"size": 3931,
 "scope": {
 "DEU": [
 "Второзаконие"
@@ -140,7 +140,7 @@
 },
 "json/06.content.json": {
 "mimeType": "text/json",
-"size": 3028,
+"size": 2906,
 "scope": {
 "JOS": [
 "Книга Иисуса Навина"
@@ -149,7 +149,7 @@
 },
 "json/07.content.json": {
 "mimeType": "text/json",
-"size": 3352,
+"size": 3230,
 "scope": {
 "JDG": [
 "Книга Судей"
@@ -158,7 +158,7 @@
 },
 "json/08.content.json": {
 "mimeType": "text/json",
-"size": 2996,
+"size": 2874,
 "scope": {
 "RUT": [
 "Книга Руфь"
@@ -167,7 +167,7 @@
 },
 "json/09.content.json": {
 "mimeType": "text/json",
-"size": 3572,
+"size": 3450,
 "scope": {
 "1SA": [
 "Первая книга Царств"
@@ -176,7 +176,7 @@
 },
 "json/10.content.json": {
 "mimeType": "text/json",
-"size": 3854,
+"size": 3732,
 "scope": {
 "2SA": [
 "Вторая книга Царств"
@@ -185,7 +185,7 @@
 },
 "json/11.content.json": {
 "mimeType": "text/json",
-"size": 3439,
+"size": 3317,
 "scope": {
 "1KI": [
 "Третья книга Царств"
@@ -194,7 +194,7 @@
 },
 "json/12.content.json": {
 "mimeType": "text/json",
-"size": 3433,
+"size": 3311,
 "scope": {
 "2KI": [
 "Четвёртая книга Царств"
@@ -203,7 +203,7 @@
 },
 "json/13.content.json": {
 "mimeType": "text/json",
-"size": 3737,
+"size": 3615,
 "scope": {
 "1CH": [
 "Первая книга Паралипоменон"
@@ -212,7 +212,7 @@
 },
 "json/14.content.json": {
 "mimeType": "text/json",
-"size": 3814,
+"size": 3692,
 "scope": {
 "2CH": [
 "Вторая книга Паралипоменон"
@@ -221,7 +221,7 @@
 },
 "json/15.content.json": {
 "mimeType": "text/json",
-"size": 3272,
+"size": 3150,
 "scope": {
 "EZR": [
 "Книга Ездры"
@@ -230,7 +230,7 @@
 },
 "json/16.content.json": {
 "mimeType": "text/json",
-"size": 3318,
+"size": 3196,
 "scope": {
 "NEH": [
 "Книга Неемии"
@@ -239,7 +239,7 @@
 },
 "json/17.content.json": {
 "mimeType": "text/json",
-"size": 2527,
+"size": 2405,
 "scope": {
 "EST": [
 "Книга Есфирь"
@@ -248,7 +248,7 @@
 },
 "json/18.content.json": {
 "mimeType": "text/json",
-"size": 3519,
+"size": 3397,
 "scope": {
 "JOB": [
 "Книга Иова"
@@ -257,7 +257,7 @@
 },
 "json/19.content.json": {
 "mimeType": "text/json",
-"size": 10138,
+"size": 10016,
 "scope": {
 "PSA": [
 "Псалтирь"
@@ -266,7 +266,7 @@
 },
 "json/20.content.json": {
 "mimeType": "text/json",
-"size": 4390,
+"size": 4268,
 "scope": {
 "PRO": [
 "Притчи"
@@ -275,7 +275,7 @@
 },
 "json/21.content.json": {
 "mimeType": "text/json",
-"size": 4132,
+"size": 4010,
 "scope": {
 "ECC": [
 "Книга Екклесиаста"
@@ -284,7 +284,7 @@
 },
 "json/22.content.json": {
 "mimeType": "text/json",
-"size": 5182,
+"size": 5060,
 "scope": {
 "SNG": [
 "Песни Песней"
@@ -293,7 +293,7 @@
 },
 "json/23.content.json": {
 "mimeType": "text/json",
-"size": 4876,
+"size": 4754,
 "scope": {
 "ISA": [
 "Книга пророка Исаии"
@@ -302,7 +302,7 @@
 },
 "json/24.content.json": {
 "mimeType": "text/json",
-"size": 4668,
+"size": 4546,
 "scope": {
 "JER": [
 "Книга пророка Иеремии"
@@ -311,7 +311,7 @@
 },
 "json/25.content.json": {
 "mimeType": "text/json",
-"size": 4176,
+"size": 4054,
 "scope": {
 "LAM": [
 "Плач Иеремии"
@@ -320,7 +320,7 @@
 },
 "json/26.content.json": {
 "mimeType": "text/json",
-"size": 4478,
+"size": 4356,
 "scope": {
 "EZK": [
 "Книга пророка Иезекииля"
@@ -329,7 +329,7 @@
 },
 "json/27.content.json": {
 "mimeType": "text/json",
-"size": 4335,
+"size": 4213,
 "scope": {
 "DAN": [
 "Книга пророка Даниила"
@@ -338,7 +338,7 @@
 },
 "json/28.content.json": {
 "mimeType": "text/json",
-"size": 4171,
+"size": 4049,
 "scope": {
 "HOS": [
 "Книга пророка Осии"
@@ -347,7 +347,7 @@
 },
 "json/29.content.json": {
 "mimeType": "text/json",
-"size": 3765,
+"size": 3643,
 "scope": {
 "JOL": [
 "Книга пророка Иоиля"
@@ -356,7 +356,7 @@
 },
 "json/30.content.json": {
 "mimeType": "text/json",
-"size": 4373,
+"size": 4251,
 "scope": {
 "AMO": [
 "Книга пророка Амоса"
@@ -365,7 +365,7 @@
 },
 "json/31.content.json": {
 "mimeType": "text/json",
-"size": 3502,
+"size": 3380,
 "scope": {
 "OBA": [
 "Книга пророка Авдия"
@@ -374,7 +374,7 @@
 },
 "json/32.content.json": {
 "mimeType": "text/json",
-"size": 3140,
+"size": 3018,
 "scope": {
 "JON": [
 "Книга пророка Ионы"
@@ -383,7 +383,7 @@
 },
 "json/33.content.json": {
 "mimeType": "text/json",
-"size": 4477,
+"size": 4355,
 "scope": {
 "MIC": [
 "Книга пророка Михея"
@@ -392,7 +392,7 @@
 },
 "json/34.content.json": {
 "mimeType": "text/json",
-"size": 3646,
+"size": 3524,
 "scope": {
 "NAM": [
 "Книга пророка Наума"
@@ -401,7 +401,7 @@
 },
 "json/35.content.json": {
 "mimeType": "text/json",
-"size": 3751,
+"size": 3629,
 "scope": {
 "HAB": [
 "Книга пророка Аввакума"
@@ -410,7 +410,7 @@
 },
 "json/36.content.json": {
 "mimeType": "text/json",
-"size": 3929,
+"size": 3807,
 "scope": {
 "ZEP": [
 "Книга пророка Софонии"
@@ -419,7 +419,7 @@
 },
 "json/37.content.json": {
 "mimeType": "text/json",
-"size": 3846,
+"size": 3724,
 "scope": {
 "HAG": [
 "Книга пророка Аггея"
@@ -428,7 +428,7 @@
 },
 "json/38.content.json": {
 "mimeType": "text/json",
-"size": 3981,
+"size": 3859,
 "scope": {
 "ZEC": [
 "Книга пророка Захарии"
@@ -437,7 +437,7 @@
 },
 "json/39.content.json": {
 "mimeType": "text/json",
-"size": 3888,
+"size": 3766,
 "scope": {
 "MAL": [
 "Книга пророка Малахии"
@@ -446,7 +446,7 @@
 },
 "json/40.content.json": {
 "mimeType": "text/json",
-"size": 4376,
+"size": 4254,
 "scope": {
 "MAT": [
 "Евангелие от Матфея"
@@ -455,7 +455,7 @@
 },
 "json/41.content.json": {
 "mimeType": "text/json",
-"size": 3758,
+"size": 3636,
 "scope": {
 "MRK": [
 "Евангелие от Марка"
@@ -464,7 +464,7 @@
 },
 "json/42.content.json": {
 "mimeType": "text/json",
-"size": 3608,
+"size": 3486,
 "scope": {
 "LUK": [
 "Евангелие от Луки"
@@ -473,7 +473,7 @@
 },
 "json/43.content.json": {
 "mimeType": "text/json",
-"size": 3673,
+"size": 3551,
 "scope": {
 "JHN": [
 "Евангелие от Иоанна"
@@ -482,7 +482,7 @@
 },
 "json/44.content.json": {
 "mimeType": "text/json",
-"size": 4582,
+"size": 4460,
 "scope": {
 "ACT": [
 "Деяния святых апостолов"
@@ -491,7 +491,7 @@
 },
 "json/45.content.json": {
 "mimeType": "text/json",
-"size": 4091,
+"size": 3969,
 "scope": {
 "ROM": [
 "Послание к Римлянам"
@@ -500,7 +500,7 @@
 },
 "json/46.content.json": {
 "mimeType": "text/json",
-"size": 3432,
+"size": 3310,
 "scope": {
 "1CO": [
 "Первое послание к Коринфянам"
@@ -509,7 +509,7 @@
 },
 "json/47.content.json": {
 "mimeType": "text/json",
-"size": 3949,
+"size": 3827,
 "scope": {
 "2CO": [
 "Второе послание к Коринфянам"
@@ -518,7 +518,7 @@
 },
 "json/48.content.json": {
 "mimeType": "text/json",
-"size": 3316,
+"size": 3194,
 "scope": {
 "GAL": [
 "Послание к Галатам"
@@ -527,7 +527,7 @@
 },
 "json/49.content.json": {
 "mimeType": "text/json",
-"size": 3755,
+"size": 3633,
 "scope": {
 "EPH": [
 "Послание к Ефесянам"
@@ -536,7 +536,7 @@
 },
 "json/50.content.json": {
 "mimeType": "text/json",
-"size": 3628,
+"size": 3506,
 "scope": {
 "PHP": [
 "Послание к Филиппийцам"
@@ -545,7 +545,7 @@
 },
 "json/51.content.json": {
 "mimeType": "text/json",
-"size": 3085,
+"size": 2963,
 "scope": {
 "COL": [
 "Послание к Колоссянам"
@@ -554,7 +554,7 @@
 },
 "json/52.content.json": {
 "mimeType": "text/json",
-"size": 3498,
+"size": 3376,
 "scope": {
 "1TH": [
 "Первое послание к Фессалоникийцам"
@@ -563,7 +563,7 @@
 },
 "json/53.content.json": {
 "mimeType": "text/json",
-"size": 2992,
+"size": 2870,
 "scope": {
 "2TH": [
 "Второе послание к Фессалоникийцам"
@@ -572,7 +572,7 @@
 },
 "json/54.content.json": {
 "mimeType": "text/json",
-"size": 3156,
+"size": 3034,
 "scope": {
 "1TI": [
 "Первое послание к Тимофею"
@@ -581,7 +581,7 @@
 },
 "json/55.content.json": {
 "mimeType": "text/json",
-"size": 2963,
+"size": 2841,
 "scope": {
 "2TI": [
 "Второе послание к Тимофею"
@@ -590,7 +590,7 @@
 },
 "json/56.content.json": {
 "mimeType": "text/json",
-"size": 2627,
+"size": 2505,
 "scope": {
 "TIT": [
 "Послание к Титу"
@@ -599,7 +599,7 @@
 },
 "json/57.content.json": {
 "mimeType": "text/json",
-"size": 2370,
+"size": 2248,
 "scope": {
 "PHM": [
 "Послание к Филимону"
@@ -608,7 +608,7 @@
 },
 "json/58.content.json": {
 "mimeType": "text/json",
-"size": 4024,
+"size": 3902,
 "scope": {
 "HEB": [
 "Послание к Евреям"
@@ -617,7 +617,7 @@
 },
 "json/59.content.json": {
 "mimeType": "text/json",
-"size": 3001,
+"size": 2879,
 "scope": {
 "JAS": [
 "Послание Иакова"
@@ -626,7 +626,7 @@
 },
 "json/60.content.json": {
 "mimeType": "text/json",
-"size": 3090,
+"size": 2968,
 "scope": {
 "1PE": [
 "Первое послание Петра"
@@ -635,7 +635,7 @@
 },
 "json/61.content.json": {
 "mimeType": "text/json",
-"size": 3586,
+"size": 3464,
 "scope": {
 "2PE": [
 "Второе послание Петра"
@@ -644,7 +644,7 @@
 },
 "json/62.content.json": {
 "mimeType": "text/json",
-"size": 3418,
+"size": 3296,
 "scope": {
 "1JN": [
 "Первое послание Иоанна"
@@ -653,7 +653,7 @@
 },
 "json/63.content.json": {
 "mimeType": "text/json",
-"size": 3384,
+"size": 3262,
 "scope": {
 "2JN": [
 "Второе послание Иоанна"
@@ -662,7 +662,7 @@
 },
 "json/64.content.json": {
 "mimeType": "text/json",
-"size": 3012,
+"size": 2890,
 "scope": {
 "3JN": [
 "Третье послание Иоанна"
@@ -671,7 +671,7 @@
 },
 "json/65.content.json": {
 "mimeType": "text/json",
-"size": 2906,
+"size": 2784,
 "scope": {
 "JUD": [
 "Послание Иуды"
@@ -680,7 +680,7 @@
 },
 "json/66.content.json": {
 "mimeType": "text/json",
-"size": 3686,
+"size": 3564,
 "scope": {
 "REV": [
 "Откровение апостола Иоанна Богослова"
