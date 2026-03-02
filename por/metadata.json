@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T09:38:23.331803"
+"dateCreated": "2026-02-27T17:31:35.804921"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "BiblicaStudyNotesBookIntros": {
-"timestamp": "2026-02-27T09:38:23.331803"
+"timestamp": "2026-02-27T17:31:35.804921"
 }
 }
 },
@@ -95,7 +95,7 @@
 "ingredients": {
 "json/01.content.json": {
 "mimeType": "text/json",
-"size": 2374,
+"size": 2252,
 "scope": {
 "GEN": [
 "Gênesis"
@@ -104,7 +104,7 @@
 },
 "json/02.content.json": {
 "mimeType": "text/json",
-"size": 2018,
+"size": 1896,
 "scope": {
 "EXO": [
 "Êxodo"
@@ -113,7 +113,7 @@
 },
 "json/03.content.json": {
 "mimeType": "text/json",
-"size": 2298,
+"size": 2176,
 "scope": {
 "LEV": [
 "Levítico"
@@ -122,7 +122,7 @@
 },
 "json/04.content.json": {
 "mimeType": "text/json",
-"size": 2224,
+"size": 2102,
 "scope": {
 "NUM": [
 "Números"
@@ -131,7 +131,7 @@
 },
 "json/05.content.json": {
 "mimeType": "text/json",
-"size": 2645,
+"size": 2523,
 "scope": {
 "DEU": [
 "Deuteronômio"
@@ -140,7 +140,7 @@
 },
 "json/06.content.json": {
 "mimeType": "text/json",
-"size": 2056,
+"size": 1934,
 "scope": {
 "JOS": [
 "Josué"
@@ -149,7 +149,7 @@
 },
 "json/07.content.json": {
 "mimeType": "text/json",
-"size": 2321,
+"size": 2199,
 "scope": {
 "JDG": [
 "Juízes"
@@ -158,7 +158,7 @@
 },
 "json/08.content.json": {
 "mimeType": "text/json",
-"size": 2093,
+"size": 1971,
 "scope": {
 "RUT": [
 "Ruth"
@@ -167,7 +167,7 @@
 },
 "json/09.content.json": {
 "mimeType": "text/json",
-"size": 2314,
+"size": 2192,
 "scope": {
 "1SA": [
 "1 Samuel"
@@ -176,7 +176,7 @@
 },
 "json/10.content.json": {
 "mimeType": "text/json",
-"size": 2438,
+"size": 2316,
 "scope": {
 "2SA": [
 "2 Samuel"
@@ -185,7 +185,7 @@
 },
 "json/11.content.json": {
 "mimeType": "text/json",
-"size": 2338,
+"size": 2216,
 "scope": {
 "1KI": [
 "1 Reis"
@@ -194,7 +194,7 @@
 },
 "json/12.content.json": {
 "mimeType": "text/json",
-"size": 2251,
+"size": 2129,
 "scope": {
 "2KI": [
 "2 Reis"
@@ -203,7 +203,7 @@
 },
 "json/13.content.json": {
 "mimeType": "text/json",
-"size": 2505,
+"size": 2383,
 "scope": {
 "1CH": [
 "1 Crônicas"
@@ -212,7 +212,7 @@
 },
 "json/14.content.json": {
 "mimeType": "text/json",
-"size": 2493,
+"size": 2371,
 "scope": {
 "2CH": [
 "2 Crônicas"
@@ -221,7 +221,7 @@
 },
 "json/15.content.json": {
 "mimeType": "text/json",
-"size": 2293,
+"size": 2171,
 "scope": {
 "EZR": [
 "Esdras"
@@ -230,7 +230,7 @@
 },
 "json/16.content.json": {
 "mimeType": "text/json",
-"size": 2282,
+"size": 2160,
 "scope": {
 "NEH": [
 "Neemias"
@@ -239,7 +239,7 @@
 },
 "json/17.content.json": {
 "mimeType": "text/json",
-"size": 1841,
+"size": 1719,
 "scope": {
 "EST": [
 "Ester"
@@ -248,7 +248,7 @@
 },
 "json/18.content.json": {
 "mimeType": "text/json",
-"size": 2513,
+"size": 2391,
 "scope": {
 "JOB": [
 "Jó"
@@ -257,7 +257,7 @@
 },
 "json/19.content.json": {
 "mimeType": "text/json",
-"size": 6701,
+"size": 6579,
 "scope": {
 "PSA": [
 "Salmos"
@@ -266,7 +266,7 @@
 },
 "json/20.content.json": {
 "mimeType": "text/json",
-"size": 3054,
+"size": 2932,
 "scope": {
 "PRO": [
 "Provérbios"
@@ -275,7 +275,7 @@
 },
 "json/21.content.json": {
 "mimeType": "text/json",
-"size": 2759,
+"size": 2637,
 "scope": {
 "ECC": [
 "Eclesiastes"
@@ -284,7 +284,7 @@
 },
 "json/22.content.json": {
 "mimeType": "text/json",
-"size": 3279,
+"size": 3157,
 "scope": {
 "SNG": [
 "Cântico dos Cânticos"
@@ -293,7 +293,7 @@
 },
 "json/23.content.json": {
 "mimeType": "text/json",
-"size": 3110,
+"size": 2988,
 "scope": {
 "ISA": [
 "Isaías"
@@ -302,7 +302,7 @@
 },
 "json/24.content.json": {
 "mimeType": "text/json",
-"size": 3002,
+"size": 2880,
 "scope": {
 "JER": [
 "Jeremias"
@@ -311,7 +311,7 @@
 },
 "json/25.content.json": {
 "mimeType": "text/json",
-"size": 2846,
+"size": 2724,
 "scope": {
 "LAM": [
 "Lamentações"
@@ -320,7 +320,7 @@
 },
 "json/26.content.json": {
 "mimeType": "text/json",
-"size": 2952,
+"size": 2830,
 "scope": {
 "EZK": [
 "Ezequiel"
@@ -329,7 +329,7 @@
 },
 "json/27.content.json": {
 "mimeType": "text/json",
-"size": 2753,
+"size": 2631,
 "scope": {
 "DAN": [
 "Daniel"
@@ -338,7 +338,7 @@
 },
 "json/28.content.json": {
 "mimeType": "text/json",
-"size": 2798,
+"size": 2676,
 "scope": {
 "HOS": [
 "Oséias"
@@ -347,7 +347,7 @@
 },
 "json/29.content.json": {
 "mimeType": "text/json",
-"size": 2545,
+"size": 2423,
 "scope": {
 "JOL": [
 "Joel"
@@ -356,7 +356,7 @@
 },
 "json/30.content.json": {
 "mimeType": "text/json",
-"size": 2837,
+"size": 2715,
 "scope": {
 "AMO": [
 "Amós"
@@ -365,7 +365,7 @@
 },
 "json/31.content.json": {
 "mimeType": "text/json",
-"size": 2312,
+"size": 2190,
 "scope": {
 "OBA": [
 "Obadias"
@@ -374,7 +374,7 @@
 },
 "json/32.content.json": {
 "mimeType": "text/json",
-"size": 2226,
+"size": 2104,
 "scope": {
 "JON": [
 "Jonas"
@@ -383,7 +383,7 @@
 },
 "json/33.content.json": {
 "mimeType": "text/json",
-"size": 2949,
+"size": 2827,
 "scope": {
 "MIC": [
 "Miquéias"
@@ -392,7 +392,7 @@
 },
 "json/34.content.json": {
 "mimeType": "text/json",
-"size": 2399,
+"size": 2277,
 "scope": {
 "NAM": [
 "Naum"
@@ -401,7 +401,7 @@
 },
 "json/35.content.json": {
 "mimeType": "text/json",
-"size": 2574,
+"size": 2452,
 "scope": {
 "HAB": [
 "Habacuque"
@@ -410,7 +410,7 @@
 },
 "json/36.content.json": {
 "mimeType": "text/json",
-"size": 2664,
+"size": 2542,
 "scope": {
 "ZEP": [
 "Sofonias"
@@ -419,7 +419,7 @@
 },
 "json/37.content.json": {
 "mimeType": "text/json",
-"size": 2581,
+"size": 2459,
 "scope": {
 "HAG": [
 "Ageu"
@@ -428,7 +428,7 @@
 },
 "json/38.content.json": {
 "mimeType": "text/json",
-"size": 2608,
+"size": 2486,
 "scope": {
 "ZEC": [
 "Zacarias"
@@ -437,7 +437,7 @@
 },
 "json/39.content.json": {
 "mimeType": "text/json",
-"size": 2718,
+"size": 2596,
 "scope": {
 "MAL": [
 "Malaquias"
@@ -446,7 +446,7 @@
 },
 "json/40.content.json": {
 "mimeType": "text/json",
-"size": 2982,
+"size": 2860,
 "scope": {
 "MAT": [
 "Mateus"
@@ -455,7 +455,7 @@
 },
 "json/41.content.json": {
 "mimeType": "text/json",
-"size": 2643,
+"size": 2521,
 "scope": {
 "MRK": [
 "Marcos"
@@ -464,7 +464,7 @@
 },
 "json/42.content.json": {
 "mimeType": "text/json",
-"size": 2638,
+"size": 2516,
 "scope": {
 "LUK": [
 "Lucas"
@@ -473,7 +473,7 @@
 },
 "json/43.content.json": {
 "mimeType": "text/json",
-"size": 2640,
+"size": 2518,
 "scope": {
 "JHN": [
 "João"
@@ -482,7 +482,7 @@
 },
 "json/44.content.json": {
 "mimeType": "text/json",
-"size": 3134,
+"size": 3012,
 "scope": {
 "ACT": [
 "Atos"
@@ -491,7 +491,7 @@
 },
 "json/45.content.json": {
 "mimeType": "text/json",
-"size": 2771,
+"size": 2649,
 "scope": {
 "ROM": [
 "Romanos"
@@ -500,7 +500,7 @@
 },
 "json/46.content.json": {
 "mimeType": "text/json",
-"size": 2325,
+"size": 2203,
 "scope": {
 "1CO": [
 "1 Coríntios"
@@ -509,7 +509,7 @@
 },
 "json/47.content.json": {
 "mimeType": "text/json",
-"size": 2625,
+"size": 2503,
 "scope": {
 "2CO": [
 "2 Coríntios"
@@ -518,7 +518,7 @@
 },
 "json/48.content.json": {
 "mimeType": "text/json",
-"size": 2361,
+"size": 2239,
 "scope": {
 "GAL": [
 "Gálatas"
@@ -527,7 +527,7 @@
 },
 "json/49.content.json": {
 "mimeType": "text/json",
-"size": 2594,
+"size": 2472,
 "scope": {
 "EPH": [
 "Efésios"
@@ -536,7 +536,7 @@
 },
 "json/50.content.json": {
 "mimeType": "text/json",
-"size": 2551,
+"size": 2429,
 "scope": {
 "PHP": [
 "Filipenses"
@@ -545,7 +545,7 @@
 },
 "json/51.content.json": {
 "mimeType": "text/json",
-"size": 2227,
+"size": 2105,
 "scope": {
 "COL": [
 "Colossenses"
@@ -554,7 +554,7 @@
 },
 "json/52.content.json": {
 "mimeType": "text/json",
-"size": 2380,
+"size": 2258,
 "scope": {
 "1TH": [
 "1 Tessalonicenses"
@@ -563,7 +563,7 @@
 },
 "json/53.content.json": {
 "mimeType": "text/json",
-"size": 2024,
+"size": 1902,
 "scope": {
 "2TH": [
 "2 Tessalonicenses"
@@ -572,7 +572,7 @@
 },
 "json/54.content.json": {
 "mimeType": "text/json",
-"size": 2200,
+"size": 2078,
 "scope": {
 "1TI": [
 "1 Timóteo"
@@ -581,7 +581,7 @@
 },
 "json/55.content.json": {
 "mimeType": "text/json",
-"size": 2095,
+"size": 1973,
 "scope": {
 "2TI": [
 "2 Timóteo"
@@ -590,7 +590,7 @@
 },
 "json/56.content.json": {
 "mimeType": "text/json",
-"size": 1888,
+"size": 1766,
 "scope": {
 "TIT": [
 "Tito"
@@ -599,7 +599,7 @@
 },
 "json/57.content.json": {
 "mimeType": "text/json",
-"size": 1713,
+"size": 1591,
 "scope": {
 "PHM": [
 "Filemom"
@@ -608,7 +608,7 @@
 },
 "json/58.content.json": {
 "mimeType": "text/json",
-"size": 2781,
+"size": 2659,
 "scope": {
 "HEB": [
 "Hebreus"
@@ -617,7 +617,7 @@
 },
 "json/59.content.json": {
 "mimeType": "text/json",
-"size": 2114,
+"size": 1992,
 "scope": {
 "JAS": [
 "Tiago"
@@ -626,7 +626,7 @@
 },
 "json/60.content.json": {
 "mimeType": "text/json",
-"size": 2161,
+"size": 2039,
 "scope": {
 "1PE": [
 "1 Pedro"
@@ -635,7 +635,7 @@
 },
 "json/61.content.json": {
 "mimeType": "text/json",
-"size": 2376,
+"size": 2254,
 "scope": {
 "2PE": [
 "2 Pedro"
@@ -644,7 +644,7 @@
 },
 "json/62.content.json": {
 "mimeType": "text/json",
-"size": 2384,
+"size": 2262,
 "scope": {
 "1JN": [
 "1 João"
@@ -653,7 +653,7 @@
 },
 "json/63.content.json": {
 "mimeType": "text/json",
-"size": 2225,
+"size": 2103,
 "scope": {
 "2JN": [
 "2 João"
@@ -662,7 +662,7 @@
 },
 "json/64.content.json": {
 "mimeType": "text/json",
-"size": 2030,
+"size": 1908,
 "scope": {
 "3JN": [
 "3 João"
@@ -671,7 +671,7 @@
 },
 "json/65.content.json": {
 "mimeType": "text/json",
-"size": 2052,
+"size": 1930,
 "scope": {
 "JUD": [
 "Judas"
@@ -680,7 +680,7 @@
 },
 "json/66.content.json": {
 "mimeType": "text/json",
-"size": 2456,
+"size": 2334,
 "scope": {
 "REV": [
 "Apocalipse"

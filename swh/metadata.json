@@ -49,7 +49,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-27T09:38:24.041414"
+"dateCreated": "2026-02-27T17:31:36.329826"
 },
 "idAuthorities": {
 "aquifer": {
@@ -63,7 +63,7 @@
 "primary": {
 "aquifer": {
 "BiblicaStudyNotesBookIntros": {
-"timestamp": "2026-02-27T09:38:24.041414"
+"timestamp": "2026-02-27T17:31:36.329826"
 }
 }
 },
@@ -95,7 +95,7 @@
 "ingredients": {
 "json/01.content.json": {
 "mimeType": "text/json",
-"size": 2288,
+"size": 2166,
 "scope": {
 "GEN": [
 "Mwanzo"
@@ -104,7 +104,7 @@
 },
 "json/02.content.json": {
 "mimeType": "text/json",
-"size": 1970,
+"size": 1848,
 "scope": {
 "EXO": [
 "Kutoka"
@@ -113,7 +113,7 @@
 },
 "json/03.content.json": {
 "mimeType": "text/json",
-"size": 2248,
+"size": 2126,
 "scope": {
 "LEV": [
 "Walawi"
@@ -122,7 +122,7 @@
 },
 "json/04.content.json": {
 "mimeType": "text/json",
-"size": 2174,
+"size": 2052,
 "scope": {
 "NUM": [
 "Hesabu"
@@ -131,7 +131,7 @@
 },
 "json/05.content.json": {
 "mimeType": "text/json",
-"size": 2686,
+"size": 2564,
 "scope": {
 "DEU": [
 "Kumbukumbu la Torati"
@@ -140,7 +140,7 @@
 },
 "json/06.content.json": {
 "mimeType": "text/json",
-"size": 2003,
+"size": 1881,
 "scope": {
 "JOS": [
 "Yoshua"
@@ -149,7 +149,7 @@
 },
 "json/07.content.json": {
 "mimeType": "text/json",
-"size": 2197,
+"size": 2075,
 "scope": {
 "JDG": [
 "Waamuzi"
@@ -158,7 +158,7 @@
 },
 "json/08.content.json": {
 "mimeType": "text/json",
-"size": 2081,
+"size": 1959,
 "scope": {
 "RUT": [
 "Ruthu"
@@ -167,7 +167,7 @@
 },
 "json/09.content.json": {
 "mimeType": "text/json",
-"size": 2308,
+"size": 2186,
 "scope": {
 "1SA": [
 "1 Samweli"
@@ -176,7 +176,7 @@
 },
 "json/10.content.json": {
 "mimeType": "text/json",
-"size": 2482,
+"size": 2360,
 "scope": {
 "2SA": [
 "2 Samweli"
@@ -185,7 +185,7 @@
 },
 "json/11.content.json": {
 "mimeType": "text/json",
-"size": 2366,
+"size": 2244,
 "scope": {
 "1KI": [
 "1 Wafalme"
@@ -194,7 +194,7 @@
 },
 "json/12.content.json": {
 "mimeType": "text/json",
-"size": 2223,
+"size": 2101,
 "scope": {
 "2KI": [
 "2 Wafalme"
@@ -203,7 +203,7 @@
 },
 "json/13.content.json": {
 "mimeType": "text/json",
-"size": 2476,
+"size": 2354,
 "scope": {
 "1CH": [
 "1 Mambo ya Nyakati"
@@ -212,7 +212,7 @@
 },
 "json/14.content.json": {
 "mimeType": "text/json",
-"size": 2460,
+"size": 2338,
 "scope": {
 "2CH": [
 "2 Mambo ya Nyakati"
@@ -221,7 +221,7 @@
 },
 "json/15.content.json": {
 "mimeType": "text/json",
-"size": 2262,
+"size": 2140,
 "scope": {
 "EZR": [
 "Ezra"
@@ -230,7 +230,7 @@
 },
 "json/16.content.json": {
 "mimeType": "text/json",
-"size": 2244,
+"size": 2122,
 "scope": {
 "NEH": [
 "Nehemia"
@@ -239,7 +239,7 @@
 },
 "json/17.content.json": {
 "mimeType": "text/json",
-"size": 1845,
+"size": 1723,
 "scope": {
 "EST": [
 "Esta"
@@ -248,7 +248,7 @@
 },
 "json/18.content.json": {
 "mimeType": "text/json",
-"size": 2456,
+"size": 2334,
 "scope": {
 "JOB": [
 "Ayubu"
@@ -257,7 +257,7 @@
 },
 "json/19.content.json": {
 "mimeType": "text/json",
-"size": 6644,
+"size": 6522,
 "scope": {
 "PSA": [
 "Zaburi"
@@ -266,7 +266,7 @@
 },
 "json/20.content.json": {
 "mimeType": "text/json",
-"size": 2988,
+"size": 2866,
 "scope": {
 "PRO": [
 "Mithali"
@@ -275,7 +275,7 @@
 },
 "json/21.content.json": {
 "mimeType": "text/json",
-"size": 2718,
+"size": 2596,
 "scope": {
 "ECC": [
 "Mhubiri"
@@ -284,7 +284,7 @@
 },
 "json/22.content.json": {
 "mimeType": "text/json",
-"size": 3168,
+"size": 3046,
 "scope": {
 "SNG": [
 "Wimbo Ulio Bora"
@@ -293,7 +293,7 @@
 },
 "json/23.content.json": {
 "mimeType": "text/json",
-"size": 3079,
+"size": 2957,
 "scope": {
 "ISA": [
 "Isaya"
@@ -302,7 +302,7 @@
 },
 "json/24.content.json": {
 "mimeType": "text/json",
-"size": 2966,
+"size": 2844,
 "scope": {
 "JER": [
 "Yeremia"
@@ -311,7 +311,7 @@
 },
 "json/25.content.json": {
 "mimeType": "text/json",
-"size": 2834,
+"size": 2712,
 "scope": {
 "LAM": [
 "Maombolezo"
@@ -320,7 +320,7 @@
 },
 "json/26.content.json": {
 "mimeType": "text/json",
-"size": 2848,
+"size": 2726,
 "scope": {
 "EZK": [
 "Ezekieli"
@@ -329,7 +329,7 @@
 },
 "json/27.content.json": {
 "mimeType": "text/json",
-"size": 2705,
+"size": 2583,
 "scope": {
 "DAN": [
 "Danieli"
@@ -338,7 +338,7 @@
 },
 "json/28.content.json": {
 "mimeType": "text/json",
-"size": 2742,
+"size": 2620,
 "scope": {
 "HOS": [
 "Hosea"
@@ -347,7 +347,7 @@
 },
 "json/29.content.json": {
 "mimeType": "text/json",
-"size": 2366,
+"size": 2244,
 "scope": {
 "JOL": [
 "Yoeli"
@@ -356,7 +356,7 @@
 },
 "json/30.content.json": {
 "mimeType": "text/json",
-"size": 2793,
+"size": 2671,
 "scope": {
 "AMO": [
 "Amosi"
@@ -365,7 +365,7 @@
 },
 "json/31.content.json": {
 "mimeType": "text/json",
-"size": 2251,
+"size": 2129,
 "scope": {
 "OBA": [
 "Obadia"
@@ -374,7 +374,7 @@
 },
 "json/32.content.json": {
 "mimeType": "text/json",
-"size": 2153,
+"size": 2031,
 "scope": {
 "JON": [
 "Yona"
@@ -383,7 +383,7 @@
 },
 "json/33.content.json": {
 "mimeType": "text/json",
-"size": 2908,
+"size": 2786,
 "scope": {
 "MIC": [
 "Mika"
@@ -392,7 +392,7 @@
 },
 "json/34.content.json": {
 "mimeType": "text/json",
-"size": 2394,
+"size": 2272,
 "scope": {
 "NAM": [
 "Nahumu"
@@ -401,7 +401,7 @@
 },
 "json/35.content.json": {
 "mimeType": "text/json",
-"size": 2468,
+"size": 2346,
 "scope": {
 "HAB": [
 "Habakuki"
@@ -410,7 +410,7 @@
 },
 "json/36.content.json": {
 "mimeType": "text/json",
-"size": 2643,
+"size": 2521,
 "scope": {
 "ZEP": [
 "Sefania"
@@ -419,7 +419,7 @@
 },
 "json/37.content.json": {
 "mimeType": "text/json",
-"size": 2565,
+"size": 2443,
 "scope": {
 "HAG": [
 "Hagai"
@@ -428,7 +428,7 @@
 },
 "json/38.content.json": {
 "mimeType": "text/json",
-"size": 2550,
+"size": 2428,
 "scope": {
 "ZEC": [
 "Zekaria"
@@ -437,7 +437,7 @@
 },
 "json/39.content.json": {
 "mimeType": "text/json",
-"size": 2607,
+"size": 2485,
 "scope": {
 "MAL": [
 "Malaki"
@@ -446,7 +446,7 @@
 },
 "json/40.content.json": {
 "mimeType": "text/json",
-"size": 2926,
+"size": 2804,
 "scope": {
 "MAT": [
 "Mathayo"
@@ -455,7 +455,7 @@
 },
 "json/41.content.json": {
 "mimeType": "text/json",
-"size": 2565,
+"size": 2443,
 "scope": {
 "MRK": [
 "Marko"
@@ -464,7 +464,7 @@
 },
 "json/42.content.json": {
 "mimeType": "text/json",
-"size": 2551,
+"size": 2429,
 "scope": {
 "LUK": [
 "Luka"
@@ -473,7 +473,7 @@
 },
 "json/43.content.json": {
 "mimeType": "text/json",
-"size": 2549,
+"size": 2427,
 "scope": {
 "JHN": [
 "Yohana"
@@ -482,7 +482,7 @@
 },
 "json/44.content.json": {
 "mimeType": "text/json",
-"size": 3079,
+"size": 2957,
 "scope": {
 "ACT": [
 "Matendo"
@@ -491,7 +491,7 @@
 },
 "json/45.content.json": {
 "mimeType": "text/json",
-"size": 2758,
+"size": 2636,
 "scope": {
 "ROM": [
 "Warumi"
@@ -500,7 +500,7 @@
 },
 "json/46.content.json": {
 "mimeType": "text/json",
-"size": 2422,
+"size": 2300,
 "scope": {
 "1CO": [
 "1 Wakorintho"
@@ -509,7 +509,7 @@
 },
 "json/47.content.json": {
 "mimeType": "text/json",
-"size": 2675,
+"size": 2553,
 "scope": {
 "2CO": [
 "2 Wakorintho"
@@ -518,7 +518,7 @@
 },
 "json/48.content.json": {
 "mimeType": "text/json",
-"size": 2332,
+"size": 2210,
 "scope": {
 "GAL": [
 "Wagalatia"
@@ -527,7 +527,7 @@
 },
 "json/49.content.json": {
 "mimeType": "text/json",
-"size": 2610,
+"size": 2488,
 "scope": {
 "EPH": [
 "Waefeso"
@@ -536,7 +536,7 @@
 },
 "json/50.content.json": {
 "mimeType": "text/json",
-"size": 2449,
+"size": 2327,
 "scope": {
 "PHP": [
 "Wafilipi"
@@ -545,7 +545,7 @@
 },
 "json/51.content.json": {
 "mimeType": "text/json",
-"size": 2233,
+"size": 2111,
 "scope": {
 "COL": [
 "Wakolosai"
@@ -554,7 +554,7 @@
 },
 "json/52.content.json": {
 "mimeType": "text/json",
-"size": 2362,
+"size": 2240,
 "scope": {
 "1TH": [
 "1 Wathesalonike"
@@ -563,7 +563,7 @@
 },
 "json/53.content.json": {
 "mimeType": "text/json",
-"size": 2054,
+"size": 1932,
 "scope": {
 "2TH": [
 "2 Wathesalonike"
@@ -572,7 +572,7 @@
 },
 "json/54.content.json": {
 "mimeType": "text/json",
-"size": 2276,
+"size": 2154,
 "scope": {
 "1TI": [
 "1 Timotheo"
@@ -581,7 +581,7 @@
 },
 "json/55.content.json": {
 "mimeType": "text/json",
-"size": 2168,
+"size": 2046,
 "scope": {
 "2TI": [
 "2 Timotheo"
@@ -590,7 +590,7 @@
 },
 "json/56.content.json": {
 "mimeType": "text/json",
-"size": 1933,
+"size": 1811,
 "scope": {
 "TIT": [
 "Tito"
@@ -599,7 +599,7 @@
 },
 "json/57.content.json": {
 "mimeType": "text/json",
-"size": 1729,
+"size": 1607,
 "scope": {
 "PHM": [
 "Filemoni"
@@ -608,7 +608,7 @@
 },
 "json/58.content.json": {
 "mimeType": "text/json",
-"size": 2788,
+"size": 2666,
 "scope": {
 "HEB": [
 "Waebrania"
@@ -617,7 +617,7 @@
 },
 "json/59.content.json": {
 "mimeType": "text/json",
-"size": 2173,
+"size": 2051,
 "scope": {
 "JAS": [
 "Yakobo"
@@ -626,7 +626,7 @@
 },
 "json/60.content.json": {
 "mimeType": "text/json",
-"size": 2182,
+"size": 2060,
 "scope": {
 "1PE": [
 "1 Petro"
@@ -635,7 +635,7 @@
 },
 "json/61.content.json": {
 "mimeType": "text/json",
-"size": 2359,
+"size": 2237,
 "scope": {
 "2PE": [
 "2 Petro"
@@ -644,7 +644,7 @@
 },
 "json/62.content.json": {
 "mimeType": "text/json",
-"size": 2366,
+"size": 2244,
 "scope": {
 "1JN": [
 "1 Yohana"
@@ -653,7 +653,7 @@
 },
 "json/63.content.json": {
 "mimeType": "text/json",
-"size": 2190,
+"size": 2068,
 "scope": {
 "2JN": [
 "2 Yohana"
@@ -662,7 +662,7 @@
 },
 "json/64.content.json": {
 "mimeType": "text/json",
-"size": 2022,
+"size": 1900,
 "scope": {
 "3JN": [
 "3 Yohana"
@@ -671,7 +671,7 @@
 },
 "json/65.content.json": {
 "mimeType": "text/json",
-"size": 2078,
+"size": 1956,
 "scope": {
 "JUD": [
 "Yuda"
@@ -680,7 +680,7 @@
 },
 "json/66.content.json": {
 "mimeType": "text/json",
-"size": 2407,
+"size": 2285,
 "scope": {
 "REV": [
 "Ufunuo"
